@@ -1,0 +1,95 @@
+<div class="block-container js-module" data-module-name="HeroModule">
+   <div class="hero-module" data-hero-height="">
+   <div class="background-media-container background-media-module js-module" data-module-name="BackgroundMediaModule" data-hero-version="true">
+   <div class="media-item media-item_is_mobile_default" style="background-image: url('${properties.mobileImagePath @context='attribute'}');">
+         </div>
+         <div class="media-item js-media-image js-desktop-default title_is_visible" style="background-image: url('${properties.desktopImagePath @context='attribute'}');" data-image="" data-artist-id="${properties.desktopArtistId}" data-async-image="${properties.desktopImagePath}" data-video-url="${properties.desktopVideoUrl}" data-yt-id="ukYH7drHf3k">
+         </div>
+   	 <div data-sly-use.helper="${'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='mediaItem'}" data-sly-test.config="${helper.heroModuleValues}" data-sly-unwrap>
+      <div data-sly-unwrap data-sly-list="${helper.heroModuleValues}">
+		<div style="background-image: none;" class="media-item js-media-image" data-image="" data-artist-id="${item.artistId}" data-async-image="${item.imagePath}" data-video-url="${item.mp4Url}" data-yt-id="${item.youtubeId}">
+         </div>
+	  </div>
+      <video class="media-item media-item_is_visible" muted="muted" preload="none" data-video="" data-artist-id="deadandcompany">
+            <source src="/content/dam/taylor-swift-LoLoop.ogv" type="video/ogg">
+         </video>
+     </div>
+	</div>
+	<div class="toggle-background-loop--container block-container-inner" data-toggle-background-loop-elem="">
+         <div class="toggle-background-loop" data-toggle-background-loop="" style="">
+            <a title="Select to pause video" class="pause-button" href="#"><span class="icon icon-pause"></span> pause</a>
+         </div>
+      </div>
+	        <div style="transform: translate3d(0px, -165px, 0px);" class="hero-content">
+         <h1 class="title title_centered title_is_mobile_default">
+            <em>
+               <div class="hero-logo">American Express</div>
+               Unstaged
+            </em>
+         </h1>
+         <div class="title title_centered js-desktop-default" data-artist-id="deadandcompany">
+            <em>
+            ${properties.desktopTitle}
+            <span class="subtitle">${properties.deskSubTitle}</span>
+            </em>
+         </div>
+		 <div data-sly-use.helper="${'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='mediaItem'}" data-sly-test.config="${helper.heroModuleValues}" data-sly-unwrap>
+			<div data-sly-unwrap data-sly-list="${helper.heroModuleValues}">
+				<div class="title title_centered" data-artist-id="${item.artistId}">
+					<em>
+					${item.title}
+					<span class="subtitle">${item.subtitle}</span>
+					</em>
+				</div>
+			</div>
+		</div>	
+         <a class="play-link" href="https://www.youtube.com/watch?v=ukYH7drHf3k" title="Select to play video" data-video-play="" data-video-id="ukYH7drHf3k"><span class="icon icon-play"></span></a>
+      </div>
+	  <div style="display: none; opacity: 0.00879508;" class="hero-overlay"></div>
+      <div class="scroll-arrow-wrapper">
+         <a href="#" class="scroll-arrow">
+            <p class="text"><small>Explore</small></p>
+            <img src="/content/dam/amex/scroll-arrow.png" alt="" class="arrows animated bounce">
+         </a>
+      </div>
+   </div>
+   <div class="hero-module-margin" data-hero-height=""></div>
+ </div>
+ <div class="playlist-module  js-module playlist-module_list" data-module-name="PlaylistModule">
+		<div style="width: 1000px;" class="playlist-wrapper js-playlist-wrapper">
+	
+			<a class="amex-arrow amex-arrow_left" href="#" title="Select to see the previous photo" data-move-left=""><span class="icon icon-thin_left_arrow"></span></a>
+			<a class="amex-arrow amex-arrow_right" href="#" title="Select to see the next photo" data-move-right=""><span class="icon icon-thin_right_arrow"></span></a>
+	
+			<div class="drawer-content">
+	
+				<ul style="transform: translateX(-800px);" class="video-list">
+					<div data-sly-use.helper="${'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='mediaItem'}" data-sly-test.config="${helper.heroModuleValues}" data-sly-unwrap>
+						<div data-sly-unwrap data-sly-list="${helper.heroModuleValues}">
+								<li class="video-item background-media-container video-item_stick_animation is-highlighted" data-video-id="${item.youtubeId}" data-artist-id="${item.artistId}" data-artist-name="${item.title}" title="Select to play video">
+	
+									<div class="video-item--thumbnail" style="background-image: url('${item.imagePath @context='attribute'}');"></div>
+	
+									<div class="dark-fade dark-fade_bottom_left"></div>
+									<div class="video-item--title video-item--title_move">${item.title}</div>
+									<div class="video-item--subtitle" data-title="">${item.subtitle}</div>
+									<span class="video-icon icon icon-play"></span>
+								</li>
+						</div>
+					</div>	
+				</ul>
+			</div>
+			<li class="template video-item background-media-container" data-video-id="" title="">
+				<div class="video-item--thumbnail" data-background-image=""></div>
+	
+				<div class="dark-fade dark-fade_bottom_left"></div>
+	
+				<div class="video-item--title" data-title=""></div>
+			</li>
+	
+			<div class="mobile-hero-progress-indicator--container">
+				<div class="progress-indicator"><div class="progress-indicator--inner"></div></div>
+			</div>
+		</div>
+	
+	</div>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Widget"
+                title="Hyperlink"
+                xtype="panel">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <title
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Title"
+                        name="./welcometitle"
+                        xtype="textfield"/>
+                    <description
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Description"
+                        name="./welcomedescription"
+                        xtype="richtext"/>
+                    <partnershiptitle
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Partnership Title"
+                        name="./parternershiptitle"
+                        xtype="textfield"/>
+                    <partnershipimage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Partnership Image"
+                        name="./partnershipimage"
+                        xtype="pathfield"/>
+                    <journeytitle
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Journey Title"
+                        name="./journeytitle"
+                        xtype="textfield"/>
+                    <journeyimage
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Journey Image"
+                        name="./journeyimage"
+                        xtype="pathfield"/>
+                    <partnershipalttext
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Partnership Alt Text"
+                        name="./parternershipalttext"
+                        xtype="textfield"/>
+                    <journeyalttext
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Journey Alt Text"
+                        name="./journeyalttext"
+                        xtype="textfield"/>
+                </items>
+            </tab1>
+        </items>
+    </items>
+</jcr:root>

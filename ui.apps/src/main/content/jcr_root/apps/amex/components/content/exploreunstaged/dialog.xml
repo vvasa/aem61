@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Tab 1">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <title
+                        jcr:primaryType="cq:Widget"
+                        emptyText="Enter Title"
+                        name="./title"
+                        width="500"
+                        xtype="textfield"/>
+                    <media-item
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Media Item"
+                        name="./artistdetails"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <imagewidth
+                                jcr:primaryType="cq:Widget"
+                                fieldDescription="Select Brand Style"
+                                fieldLabel="Social Media Type"
+                                name="imagewidth"
+                                type="select"
+                                xtype="selection">
+                                <options jcr:primaryType="cq:WidgetCollection">
+                                    <small
+                                        jcr:primaryType="nt:unstructured"
+                                        text="small"
+                                        value="small"/>
+                                    <big
+                                        jcr:primaryType="nt:unstructured"
+                                        text="big"
+                                        value="big"/>
+                                </options>
+                            </imagewidth>
+                            <imagePath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Path"
+                                name="imagePath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <imagealt
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Alt Text"
+                                name="imagealt"
+                                width="500"
+                                xtype="textfield"/>
+                            <pageurl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter the page Url"
+                                name="pageurl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <artistname
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter artist/band name"
+                                name="artistname"
+                                width="500"
+                                xtype="textfield"/>
+                            <tooltip
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter tooltip title"
+                                name="tooltip"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </media-item>
+                </items>
+            </tab1>
+            <tab2
+                jcr:primaryType="cq:Panel"
+                title="Tab 2">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <imagePath
+                        jcr:primaryType="cq:Widget"
+                        emptyText="Enter Image Path"
+                        name="./bandimagePath"
+                        width="500"
+                        xtype="pathfield"/>
+                    <imagealt
+                        jcr:primaryType="cq:Widget"
+                        emptyText="Alt Text"
+                        name="./bandimagealt"
+                        width="500"
+                        xtype="textfield"/>
+                    <pageurl
+                        jcr:primaryType="cq:Widget"
+                        emptyText="Enter the page Url"
+                        name="./bandpageurl"
+                        width="500"
+                        xtype="pathfield"/>
+                    <artistname
+                        jcr:primaryType="cq:Widget"
+                        emptyText="Enter artist/band name"
+                        name="./bandartistname"
+                        width="500"
+                        xtype="textfield"/>
+                    <tooltip
+                        jcr:primaryType="cq:Widget"
+                        emptyText="Enter tooltip title"
+                        name="./bandtooltip"
+                        width="500"
+                        xtype="textfield"/>
+                </items>
+            </tab2>
+        </items>
+    </items>
+</jcr:root>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    width="500"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Tab 1">
+                <items jcr:primaryType="cq:WidgetCollection">
+                <social-title
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Social Title"
+                                fieldLabel="Social Title"
+                                name="./socialTitle"
+                                width="500"
+                                xtype="textfield"/>
+                    <socialsharedetails
+                        jcr:primaryType="cq:Widget"
+                        fieldDescription="Click + or – to add child links to parent 1"
+                        fieldLabel="Social Share"
+                        name="./socialsharedetails"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <socialmediatype
+                                jcr:primaryType="cq:Widget"
+                                fieldDescription="Select Brand Style"
+                                fieldLabel="Social Media Type"
+                                name="socialmediatype"
+                                type="select"
+                                xtype="selection">
+                                <options jcr:primaryType="cq:WidgetCollection">
+                                    <facebook
+                                        jcr:primaryType="nt:unstructured"
+                                        text="facebook"
+                                        value="facebook"/>
+                                    <instagram
+                                        jcr:primaryType="nt:unstructured"
+                                        text="instagram"
+                                        value="instagram"/>
+                                    <twitter
+                                        jcr:primaryType="nt:unstructured"
+                                        text="twitter"
+                                        value="twitter"/>
+                                    <youtube
+                                        jcr:primaryType="nt:unstructured"
+                                        text="youtube"
+                                        value="youtube"/>
+                                </options>
+                            </socialmediatype>
+                            <title
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Title"
+                                fieldLabel="Title"
+                                name="title"
+                                width="500"
+                                xtype="textfield"/>
+                            <linkpath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Link Path"
+                                fieldLabel="Link Path"
+                                name="linkpath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <imagepath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Image Path"
+                                fieldLabel="ImagePath"
+                                name="imagepath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <imagealttext
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Image Alt Text"
+                                fieldLabel="Alt Text"
+                                name="imagealttext"
+                                width="500"
+                                xtype="textfield"/>
+                            <buttontext
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Button Text"
+                                fieldLabel="Button Text"
+                                name="buttontext"
+                                width="500"
+                                xtype="textfield"/>
+                            <brandtitle
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Brand Title"
+                                fieldLabel="Brand Title"
+                                name="brandtitle"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </socialsharedetails>
+                </items>
+            </tab1>
+        </items>
+    </items>
+</jcr:root>

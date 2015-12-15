@@ -1,0 +1,28 @@
+<!--/*
+
+  ADOBE CONFIDENTIAL
+  __________________
+
+   Copyright 2014 Adobe Systems Incorporated
+   All Rights Reserved.
+
+  NOTICE:  All information contained herein is, and remains
+  the property of Adobe Systems Incorporated and its suppliers,
+  if any.  The intellectual and technical concepts contained
+  herein are proprietary to Adobe Systems Incorporated and its
+  suppliers and are protected by trade secret or copyright law.
+  Dissemination of this information or reproduction of this material
+  is strictly forbidden unless prior written permission is obtained
+  from Adobe Systems Incorporated.
+  
+  Renders the resource using the parsys
+
+*/-->
+<sly data-sly-include="header.html"></sly>
+<div class="page-background">
+<sly data-sly-include="background.html"></sly>
+
+	<sly data-sly-resource="${'par' @ resourceType='wcm/foundation/components/parsys'}"/>
+</div>
+<sly data-sly-include="footer.html"></sly>
+<sly data-sly-include="footerlibsjs.html"></sly>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    title="Footer configuration"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Tab 1">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <links
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter links"
+                        name="./links"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <linkUrl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Url"
+                                name="linkUrl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <linkText
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Text"
+                                name="linkText"
+                                width="500"
+                                xtype="textfield"/>
+                            <linkTooltip
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Tooltip"
+                                name="linkTooltip"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </links>
+                    <adchoiceText
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Ad Choice Text"
+                        name="./adChoiceText"
+                        xtype="textfield"/>
+                    <adchoiceUrl
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Ad Choice Url"
+                        name="./adChoiceUrl"
+                        xtype="pathfield"/>
+                    <disclaimerText
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Disclaimer text"
+                        name="./disclaimerText"
+                        xtype="richtext"/>
+                    <copyRightText
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Copyright Text"
+                        name="./copyrightText"
+                        xtype="richtext"/>
+                </items>
+            </tab1>
+        </items>
+    </items>
+</jcr:root>

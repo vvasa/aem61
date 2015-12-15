@@ -1,0 +1,22 @@
+<div class="explore-unstaged-artists block-container module-margin clearfix js-module" data-module-name="ExploreUnstagedArtistsModule">
+   <h2 class="title title_centered title_everydaylive"><span>${properties.title}</span></h2>
+   <div data-sly-use.helper="${ 'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='artistdetails'}"
+      data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+      <div class="unstaged-artist--container unstaged-artist--container_small">
+         <div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+            <a title="${item.tooltip}" class="unstaged-artist unstaged-artist_0 zoom-effect--container reveal-effect reveal-effect_visible" href="${item.pageurl}">
+            <img class="unstaged-artist--image zoom-effect" src="${item.imagePath}" alt="${item.imagealt}">
+            <span class="dark-fade dark-fade_bottom_left"></span>
+            <span class="unstaged-artist--name">${item.artistname}</span>
+            </a>
+         </div>
+      </div>
+   </div>
+   <div class="unstaged-artist--container unstaged-artist--container_big">
+      <a title="${properties.bandtooltip}" class="unstaged-artist unstaged-artist_0 zoom-effect--container reveal-effect reveal-effect_visible" href="${properties.bandpageurl}">
+      <img class="unstaged-artist--image zoom-effect" src="${properties.bandimagePath}" alt="${properties.bandimagealt}">
+      <span class="dark-fade dark-fade_bottom_left"></span>
+      <span class="unstaged-artist--name">${properties.bandartistname}</span>
+      </a>
+   </div>
+</div>

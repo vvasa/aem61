@@ -1,0 +1,55 @@
+<div class="sticky-header--container">
+	<div class="header-container  js-module" data-module-name="HeaderModule" data-sticky="true">
+		<div class="block-container-inner">
+			<div class="header-item js-module" data-module-name="MenuModule">
+				<div class="menu-module">
+					<div class="collapsed-menu">
+						<a href="#" title="Select to view menu"><span class="collapsed icon icon-medium_hamburger_menu"></span></a>
+					</div>
+					<div class="menu menu_main">
+						<div class="menu-title">
+							<a class="expanded" href="#" title="Select to show the menu of options">${properties.navTitleOne}</a>
+						</div>
+						<ul class="menu-wrapper">
+						  <div data-sly-use.helper="${'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='linksOne'}" data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+							  <div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+							  	<li class="menu-item"><a title="${item.linkTooltip}" href="${item.linkUrl}">${item.linkText}</a></li>
+							  </div>
+						   </div>
+						</ul>
+					  </div>
+					  <div class="menu menu_artists">
+						 <div class="menu-title">
+							 <a class="expanded" href="#" title="Artist menu">${properties.navTitleTwo}</a>
+						  </div>
+						  <ul class="menu-wrapper">
+							<li class="arrow-up" data-arrow-direction="-1"></li>
+							<li class="arrow-down" data-arrow-direction="1"></li>
+						    <li class="menu-item"><a title="${properties.navStickyTooltip}" href="${properties.navStickyPath}">${properties.navStickyTitle}</a></li>
+							<li class="menu-wrapper--artists">
+							<ul class="menu-wrapper--artists-inner">
+							  <div data-sly-use.helper="${'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='linksOne'}" data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+							     <div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+							     	<li class="menu-item"><a title="${item.linkTooltip}" href="${item.linkUrl}">${item.linkText}</a></li>
+							     </div>
+							  </div>					
+							</ul>
+							</li>
+							</ul>
+							</div>
+						
+						</div>
+					</div>
+		
+					<div class="header-item header-item_home" data-biggest-header-item="">
+						<a title="Select to go to the American Express UNSTAGED homepage" href="${properties.centerLogoLink}">
+							<img class="img-unstaged-logo" src="${properties.centerLogo}" alt="American Express Unstaged">
+						</a>
+					</div>
+		
+					<a class="header-item header-item_amex-logo sheen-effect" title="Select to go to AmericanExpress.com" href="${properties.rightLogoLink}" target="_blank">
+						<img class="amex-logo" src="${properties.rightLogoPath}" alt="American Express">
+					</a>
+				</div>
+			</div>
+		</div>

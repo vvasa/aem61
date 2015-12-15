@@ -1,0 +1,33 @@
+ <div data-sly-use.helper="${ 'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='carouselalbum'}"
+      data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+      <div data-sly-unwrap data-sly-list.album="${helper.multiFieldValues}">
+ <div class="pod pod_album pod_photos pod_left reveal-effect zoom-effect--container" data-pod-type="albums" data-artist-id="${albumList.artistId}" data-pod-swipe>
+         <img class="pod-background-image zoom-effect" src="${albumList.imagePath}" alt="${albumList.albumimagealttext}" data-pod-animate>
+         <div class="album-overlay"></div>
+         <div class="pod-content" data-link>
+            <h3 class="pod-title opacity" data-pod-animate data-artist-name>${albumList.albumartistname}</h3>
+            <div class="pod-subtitle album-title opacity" data-pod-animate data-artist-title>${albumList.albumartisttitle}</div>
+			
+	<div data-sly-use.helper="${ 'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='ctabutton'}"
+      data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+      <div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+            <div class="store-link--container">
+               <a
+                  class="store-link store-link_google-play js-store-google"
+                  href="${item.buttonpath}"
+                  title="${item.tooltiptitle}"
+                  target="_blank"
+                  >
+               <img src="${item.ctaimage}" alt="${item.alttext}" />
+               </a>
+            </div>
+			</div>
+			</div>
+			
+            <span class="pod-icon icon icon-music-purchase"></span>
+         </div>
+         <a title="Select to see the previous photo" class="pod-arrow pod-arrow_left icon icon-thin_left_arrow" href="#"></a>
+         <a title="Select to see the next photo" class="pod-arrow pod-arrow_right icon icon-thin_right_arrow" href="#"></a>
+      </div>
+	  </div>
+	  </div>
