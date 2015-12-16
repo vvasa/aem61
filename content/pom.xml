@@ -206,5 +206,43 @@
                 </plugins>
             </build>
         </profile>
+		<profile>
+			<id>Dev</id>
+			<build>
+				<plugins>
+					<plugin>
+						<groupId>com.day.jcr.vault</groupId>
+                        <artifactId>content-package-maven-plugin</artifactId>
+						<executions>
+							<execution>
+								<id>install-package-author</id>
+								<goals>
+									<goal>install</goal>
+								</goals>
+								<configuration>
+									<targetURL>http://${dev.author.host}:${dev.author.port}/crx/packmgr/service.jsp</targetURL>
+									<userId>${dev.author.user}</userId>
+									<password>${dev.author.password}</password>
+								</configuration>
+							</execution>
+							<!--
+							<execution>
+								<id>install-package-publish</id>
+								<goals>
+									<goal>install</goal>
+								</goals>
+								<configuration>
+									<packageFile>${project.build.directory}/${project.build.finalName}.zip</packageFile>
+									<targetURL>http://${dev.publish.host}:${dev.publish.port}/crx/packmgr/service.jsp</targetURL>
+									<userId>${dev.publish.user}</userId>
+									<password>${dev.publish.password}</password>
+								</configuration>
+							</execution>
+							-->
+						</executions>
+					</plugin>
+				</plugins>
+			</build>
+		</profile>
     </profiles>
 </project>
