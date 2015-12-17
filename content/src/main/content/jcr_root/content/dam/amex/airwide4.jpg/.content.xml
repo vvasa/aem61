@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ad335a5e-a477-4383-9c65-f455b5a2bc6c">
+    <jcr:content
+        cq:name="airwide4.jpg"
+        cq:parentPath="/content/dam/amex"
+        jcr:lastModified="{Date}2015-12-11T11:57:05.263+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2015-12-11T11:56:56.386+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="2cecac46e52cbf228e2a20c16cd0a44a84f92e0c"
+            dam:size="{Long}77788"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2015-12-10T20:12:03.307+05:30"
+            jcr:lastModified="{Date}2015-12-11T11:57:05.163+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}214"
+            tiff:ImageWidth="{Long}1080"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:E784F088393411E59CE1920AC207BE20"
+            xmpMM:InstanceID="xmp.iid:E784F087393411E59CE1920AC207BE20"
+            xmpMM:OriginalDocumentID="xmp.did:7368ab39-c5aa-4a41-beaf-590c5b789893">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:7368ab39-c5aa-4a41-beaf-590c5b789893"
+                stRef:instanceID="xmp.iid:335cf56e-409a-491a-99a6-0d7a44c5f388"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

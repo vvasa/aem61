@@ -4,16 +4,15 @@
 
     <filter root="/apps/sling/servlet/errorhandler"/>
 
-
     <filter root="/etc/clientlibs/amex"/>
-	<!--filter root="/content/amex"/-->
+	<filter root="/content/amex"/>
+	<filter root="/content/dam/amex"/>
+	<filter root="/content/projects/20151211"/>
 
     <filter root="/etc/designs/amex">
         <include pattern="/etc/designs/amex/jcr:content"/>
-
         <include pattern="/etc/designs/amex/jcr:content/clientlibs"/>
         <include pattern="/etc/designs/amex/jcr:content/clientlibs/.*"/>
-
     </filter>
 
 </workspaceFilter>

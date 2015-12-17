@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2015-12-11T15:42:15.434+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/amex/templates/homepage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="homepage"
+        sling:resourceType="amex/components/page/homepage">
+        <par
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="wcm/foundation/components/parsys">
+            <herobanner
+                jcr:created="{Date}2015-12-09T23:29:38.777+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T03:35:07.523+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/herobanner"
+                deskSubTitle="Directed by Brett Ratner"
+                desktopImagePath="/content/dam/FranklinsTower-HeroImage-200kb.jpg"
+                desktopTitle="Dead and Company"
+                desktopVideoUrl="/content/dam/amex/FranklinsTower-ShLoop-5sec.mp4">
+                <mediaItem jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="johnlegend"
+                        imagePath="/content/dam/John-Legend-04-HERO-16x9.jpg"
+                        mp4Url="/content/dam/amex/john-legend-shLoop.mp4"
+                        subtitle="Directed by Spike Lee"
+                        title="John Legend &amp; The Roots"
+                        videoUrl="https://www.youtube.com/watch?v=KvbyHCtcpoA"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="elliegoulding"
+                        imagePath="/content/dam/OnMyMind-HeroImage-200KB.jpg"
+                        mp4Url="/content/dam/amex/OnMyMind-ShLoop-5sec.mp4"
+                        subtitle="Directed by Scarlett Johansson"
+                        title="Ellie Goulding"
+                        videoUrl="https://www.youtube.com/watch?v=9GEQI8Zx_S4"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="vampireweekend"
+                        imagePath="/content/dam/Vampire-Weekend-Ya-Hey-HERO-16x9.jpg"
+                        mp4Url="/content/dam/amex/vampire-weekend-shLoop.mp4"
+                        subtitle="Directed by Steve Buscemi"
+                        title="Vampire Weekend"
+                        videoUrl="https://www.youtube.com/watch?v=cG7Qf2VT68Y"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="disclosure"
+                        imagePath="/content/dam/Disclosure-HeroImage-Latch.jpg"
+                        mp4Url="/content/dam/amex/Disclosure-Concert-Trailer-shLoop.mp4"
+                        subtitle="with James Corden"
+                        title="Disclosure"
+                        videoUrl="https://www.youtube.com/watch?v=X6a7nZRF1ZE"/>
+                    <_x0034_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="piamia"
+                        imagePath="/content/dam/pia-mia-do-it-again-HERO.jpg"
+                        mp4Url="/content/dam/amex/pia-mia-do-it-again-shLoop.mp4"
+                        subtitle="with George"
+                        title="Pia Mia"
+                        videoUrl="https://www.youtube.com/watch?v=29p2nzMtGU8"/>
+                    <_x0035_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="usher"
+                        imagePath="/content/dam/Usher-Standard-HERO-16x9.jpg"
+                        mp4Url="/content/dam/amex/usher-shLoop.mp4"
+                        subtitle="Directed by Hamish Hamilton"
+                        title="Usher"
+                        videoUrl="https://www.youtube.com/watch?v=-R-BfN_XgYs"/>
+                    <_x0036_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="mymorningjacket"
+                        imagePath="/content/dam/My-Morning-Jacket-Golden-HERO-16x9.jpg"
+                        mp4Url="/content/dam/amex/my-morning-jacket-shLoop.mp4"
+                        subtitle="Directed by Todd Haynes"
+                        title="My Morning Jacket"
+                        videoUrl="https://www.youtube.com/watch?v=WUWBOdK7h1w"/>
+                    <_x0037_
+                        jcr:primaryType="nt:unstructured"
+                        artistId="maryjblige"
+                        imagePath="/content/dam/Mary-J-Blige-Mr-Wrong-HERO-16x9.jpg"
+                        mp4Url="/content/dam/amex/mary-j-blige-shLoop.mp4"
+                        subtitle="Directed by Adam Shankman"
+                        title="Mary J Blige"
+                        videoUrl="https://www.youtube.com/watch?v=C5WYbVqHSmo"/>
+                </mediaItem>
+            </herobanner>
+            <welcome
+                jcr:created="{Date}2015-12-08T01:54:31.401+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-08T01:58:09.194+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/welcome"
+                journeyalttext="Journey"
+                journeyimage="/content/dam/dots_home.png"
+                journeytitle="the journey never stops℠"
+                parternershipalttext="Partnership"
+                parternershiptitle="IN PARTNERSHIP WITH "
+                partnershipimage="/content/dam/partnership_home.png"
+                welcomedescription="&lt;p>More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of a story in progress, from their musical roots to their latest creative revelations. As told by some of today’s most visionary filmmakers.&lt;/p>&#xa;"
+                welcometitle="WELCOME TO AMERICAN EXPRESS UNSTAGED"/>
+            <sharebuttons
+                jcr:created="{Date}2015-12-10T15:48:52.582+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T15:49:21.041+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/sharebuttons"/>
+            <share
+                jcr:created="{Date}2015-12-10T16:09:39.459+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T16:09:39.459+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/share"/>
+            <podsmodule
+                jcr:created="{Date}2015-12-10T16:42:56.382+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T16:42:56.382+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/podsmodule"/>
+            <carouselcards
+                jcr:created="{Date}2015-12-10T18:05:07.849+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T19:10:48.633+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/carouselcards"
+                cardbuttonpath="https://www295.americanexpress.com/entertainmentaccess/home.do?linknav=us-unstaged-dc-multiple-ehub"
+                cardbuttontext="Card"
+                cardsubtitle="Can enjoy early access to tickets"
+                cardtitle="Card Members"
+                tweetcontent="&lt;p>Watching Artists In Residence - A New Series from AMerican Express UNSTAGED on &lt;i>#AmexUNSTAGED&lt;/i> &lt;i>@AmericanExpress&lt;/i> http://bit.ly/asHjde&lt;/p>&#xa;"
+                tweetheader="AmericanExpress">
+                <carouselalbum jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        albumartistname="Ellie Goulding"
+                        albumartisttitle="Delirium"
+                        albumimagealttext="alt text"
+                        artistId="elliegoulding"
+                        imagePath="/content/dam/amex/album_art.jpg"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        albumartistname="pia mia"
+                        albumartisttitle="Delirium"
+                        albumimagealttext="alt text"
+                        artistId="piamia"
+                        imagePath="/content/dam/amex/album_art1.jpg"/>
+                </carouselalbum>
+                <ctabutton jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        alttext="alt"
+                        buttonpath="http://amex.co/1jMaxNH"
+                        ctaimage="/content/dam/amex/badge_google-play-dark.jpg"
+                        tooltiptitle="Buy this album on google play"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        alttext="alt"
+                        buttonpath="http://geni.us/Lmc"
+                        ctaimage="/content/dam/amex/badge_itunes-dark.jpg"
+                        tooltiptitle="Buy this album on iTunes"/>
+                </ctabutton>
+                <photosgallery jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        imagePath="/content/dam/amex/Kenny-Chesney-You-And-Tequila-1x1.jpg"
+                        photoaligmnent="right"
+                        photoartistId="sugarland"
+                        photoartistname="Usher"
+                        photoimagealttext="alt text"
+                        photospageurl="/content/geometrixx-outdoors-mobile"
+                        phototooltiptitle="Explore more about the artist"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        imagePath="/content/dam/amex/Disclosure-1x1.jpg"
+                        photoaligmnent="left"
+                        photoartistId="tessy"
+                        photoartistname="Disclosure"
+                        photoimagealttext="alt text"
+                        photospageurl="/content/geometrixx-outdoors-mobile"
+                        phototooltiptitle="Explore more about the artist"/>
+                </photosgallery>
+                <videodetails jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        videoalbumartistname="Taylor Swift"
+                        videoalbumartisttitle="Blank Space"
+                        videoartistId="taylorswift"
+                        videoimagealttext="video"
+                        videoimagePath="/content/dam/amex/Taylor-Swift-Blank-Space-16x9.jpg"
+                        videourl="https://youtube.com/watch?v=e-ORhEE9VVg"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        videoalbumartistname="Morning black"
+                        videoalbumartisttitle="Morning black"
+                        videoartistId="blackman"
+                        videoimagealttext="video"
+                        videoimagePath="/content/dam/amex/My-Morning-Jacket-Erykah-Badu-Wordless-Chorus-16x9.jpg"
+                        videourl="https://youtube.com/watch?v=KvbyHCtcpoA"/>
+                </videodetails>
+            </carouselcards>
+            <cta
+                jcr:created="{Date}2015-12-08T03:57:35.615+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-08T04:10:24.921+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/cta"
+                alttext="alt text"
+                ctaimage="/content/dam/newsletter-banner-desktop.jpg"
+                ctapath="http://ebm.email.americanexpress.com/r/regf2?aid=268935263;n=11;a=0;intlink=EntertainHome"
+                title="card members can enjoy early access to tickets"/>
+            <video_module
+                jcr:created="{Date}2015-12-08T03:22:23.139+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-08T03:46:32.229+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/video-module"
+                imagePath="/content/dam/Taylor-Swift-Blank-Space-HERO-16x9.jpg"
+                ogvVideoPath="/content/dam/taylor-swift-LoLoop.ogv"
+                videoSubTitle="Change the Experience"
+                videoTitle="Taylor Swift"
+                videoUrl="/content/dam/taylor-swift-shLoop.mp4"/>
+            <exploreartistcontain
+                jcr:created="{Date}2015-12-08T20:13:46.858+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-08T20:13:46.858+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/exploreartistcontainer">
+                <container
+                    jcr:primaryType="nt:unstructured"
+                    sling:resourceType="wcm/foundation/components/parsys">
+                    <exploreartist
+                        jcr:created="{Date}2015-12-08T20:13:59.664+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2015-12-10T15:37:07.297+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="amex/components/content/exploreartist"
+                        artistname="RAE SREMMURD"
+                        image="/content/dam/amex/airwide4.jpg"
+                        linkpath="http://www,google.com"
+                        linktext="EXPLORE ARTIST"
+                        title="Read More"/>
+                    <exploreartist_771734396
+                        jcr:created="{Date}2015-12-08T20:19:35.701+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2015-12-08T20:20:37.736+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="amex/components/content/exploreartist"
+                        artistname="BORNS"
+                        image="/content/dam/borns-airwide.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore Artist"
+                        title="Read More"/>
+                    <exploreartist_1033573126
+                        jcr:created="{Date}2015-12-08T20:19:40.607+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2015-12-10T15:36:27.897+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="amex/components/content/exploreartist"
+                        artistname="PIA MIA"
+                        image="/content/dam/amex/airwide2.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore artist"
+                        title="Read More"/>
+                    <exploreartist_550106624
+                        jcr:created="{Date}2015-12-08T20:19:45.994+05:30"
+                        jcr:createdBy="admin"
+                        jcr:lastModified="{Date}2015-12-10T15:36:45.782+05:30"
+                        jcr:lastModifiedBy="admin"
+                        jcr:primaryType="nt:unstructured"
+                        sling:resourceType="amex/components/content/exploreartist"
+                        artistname="GAVIN JAMES"
+                        image="/content/dam/amex/airwide3.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore Artist"
+                        title="Read More"/>
+                </container>
+            </exploreartistcontain>
+            <socialshare
+                jcr:created="{Date}2015-12-08T20:26:35.799+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-08T20:37:42.962+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/socialshare"
+                socialTitle="Whats Happening">
+                <socialsharedetails jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        brandtitle="@americanexpress"
+                        buttontext="FOLLOW"
+                        imagealttext="ALT"
+                        imagepath="/content/dam/12301253_1026621744026270_1734667557_n.jpg"
+                        linkpath="https://instagram.com/americanexpress/?hl=en"
+                        socialmediatype="instagram"
+                        title="Select to follow us on Instagram"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        brandtitle="American Express"
+                        buttontext="LIKE"
+                        imagealttext="ALT"
+                        imagepath="/content/dam/mqdefault.jpg"
+                        linkpath="https://www.facebook.com/AmericanExpressUS?brand_redir=259459370846061"
+                        socialmediatype="facebook"
+                        title="Like us"/>
+                </socialsharedetails>
+            </socialshare>
+            <artistgallery
+                jcr:created="{Date}2015-12-08T21:03:51.987+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T15:31:33.264+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/artistgallery"
+                featuredTitle="Featured Artist">
+                <featuredetails jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Rae Sremmurd"
+                        description="Slim Jxmmi and Swae Lee were born in California, but moved to Tupelo, ..."
+                        imagealttext="Rae Sremmurd"
+                        imagepath="/content/dam/Rae-Sremmurd-Promo-1x1.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore Artist"
+                        tooltip="Explore"
+                        videopath="https://youtube.com/watch/?v=LAD6GQ6eel8"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Coldplay"
+                        description="To create a musical event that went far beyond the music, American Express ..."
+                        imagealttext="ALT"
+                        imagepath="/content/dam/Coldplay-Fix-You-1x1.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore"
+                        tooltip="tooltip"
+                        videopath="https://youtube.com/watch/?v=KhKxtv1FiUM"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Kings of Leon"
+                        description="What happens when you pair rockers Kings of Leon and comedic actor Fred ..."
+                        imagealttext="ALT"
+                        imagepath="/content/dam/Kings-Of-Leon-Use-Somebody-1x1.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore"
+                        tooltip="Tooltip"
+                        videopath="https://youtube.com/watch/?v=qYqGkFBP1gk"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Tim McGraw"
+                        description="How do you give die-hard fans a truly intimate view of somebody as ..."
+                        imagealttext="alt"
+                        imagepath="/content/dam/Coldplay-Fix-You-1x1.jpg"
+                        linkpath="http://www.google.com"
+                        linktext="Explore"
+                        tooltip="tooltip"
+                        videopath="https://youtube.com/watch/?v=62QW4qUyPUU"/>
+                </featuredetails>
+            </artistgallery>
+            <exploreunstaged
+                jcr:created="{Date}2015-12-10T13:13:01.214+05:30"
+                jcr:createdBy="admin"
+                jcr:lastModified="{Date}2015-12-10T15:24:03.660+05:30"
+                jcr:lastModifiedBy="admin"
+                jcr:primaryType="nt:unstructured"
+                sling:resourceType="amex/components/content/exploreunstaged"
+                bandartistname="Dead &amp; Company"
+                bandimagealt="alt text"
+                bandimagePath="/content/dam/amex/Dead-Company-1x1.jpg"
+                bandpageurl="/content/geometrixx-outdoors"
+                bandtooltip="Explore more about the brand"
+                title="Explore Unstaged">
+                <artistdetails jcr:primaryType="nt:unstructured">
+                    <_x0030_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Kenny Chesney"
+                        imagealt="alt text"
+                        imagePath="/content/dam/amex/St-Vincent-Performance-1x1.jpg"
+                        imagewidth="small"
+                        pageurl="/content/community-components/en"
+                        tooltip="Explore more about the artist"/>
+                    <_x0031_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Usher"
+                        imagealt="alt text"
+                        imagePath="/content/dam/amex/Kenny-Chesney-You-And-Tequila-1x1.jpg"
+                        imagewidth="small"
+                        pageurl="/content/geometrixx-gov/en"
+                        tooltip="Explore more about the artist"/>
+                    <_x0032_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="ST. Vincet"
+                        imagealt="alt text"
+                        imagePath="/content/dam/amex/Rae-Sremmurd-Promo-1x1.jpg"
+                        imagewidth="small"
+                        pageurl="/content/community-components"
+                        tooltip="Explore more about the artist"/>
+                    <_x0033_
+                        jcr:primaryType="nt:unstructured"
+                        artistname="Pia Mia"
+                        imagealt="alt text"
+                        imagePath="/content/dam/Rae-Sremmurd-Promo-1x1.jpg"
+                        imagewidth="small"
+                        pageurl="/content/geometrixx_mobile"
+                        tooltip="Explore more about the artist"/>
+                </artistdetails>
+            </exploreunstaged>
+        </par>
+        <footer
+            jcr:lastModified="{Date}2015-12-10T17:53:36.406+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="amex/components/layout/footer"
+            adChoiceText="AdChoices"
+            adChoiceUrl="https://info.evidon.com/pub_info/1328?v=1&amp;amp;nt=1&amp;amp;nw=true&amp;amp;inav=footer_adChoices"
+            copyrightText="&lt;p>© 2015 American Express Company. All rights reserved.&lt;/p>&#xa;"
+            disclaimerText="&lt;p>All users of our online services subject to Privacy Statement and agree to be bound by Terms and Service. Please review.&lt;/p>&#xa;">
+            <links jcr:primaryType="nt:unstructured">
+                <_x0030_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Terms of serivce"
+                    linkTooltip="Select to see our Terms of Service"
+                    linkUrl="https://www.americanexpress.com/us/content/legal-disclosures/website-rules-and-regulations.html?inav=footer_Terms_of_Use"/>
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Privacy Center"
+                    linkTooltip="Select to go to the Privacy Center to learn more about our Privacy Policy"
+                    linkUrl="https://www.americanexpress.com/us/content/legal-disclosures/privacy-center.html?inav=footer_privacy_statement"/>
+            </links>
+        </footer>
+        <header
+            jcr:lastModified="{Date}2015-12-10T19:41:32.457+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            sling:resourceType="amex/components/layout/header"
+            centerLogo="/content/dam/amex/logo_unstaged.png"
+            centerLogoLink="http://www.amexunstaged.com"
+            navStickyPath="https://www.amexunstaged.com/artists/"
+            navStickyTitle="All artists"
+            navStickyTooltip="Select to see all artists"
+            navTitleOne="Menu"
+            navTitleTwo="Artists"
+            rightLogoLink="http://www.amexunstaged.com"
+            rightLogoPath="/content/dam/amex/amex_logo.jpg">
+            <linksOne jcr:primaryType="nt:unstructured">
+                <_x0030_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Home"
+                    linkTooltip="Select to go to the American Express Unstaged homepage"
+                    linkUrl="https://www.amexunstaged.com/"/>
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="About"
+                    linkTooltip="Select to learn about Unstaged"
+                    linkUrl="https://www.amexunstaged.com/about/"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Artists in residence"
+                    linkTooltip="Select to go to the artists in residence page"
+                    linkUrl="https://www.amexunstaged.com/air/"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Unstaged app"
+                    linkTooltip="Select to learn about the Unstaged app"
+                    linkUrl="https://www.amexunstaged.com/app/"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Follow us"
+                    linkTooltip="Follow us"
+                    linkUrl="#follow-us"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="All artists"
+                    linkTooltip="Select to see all artists"
+                    linkUrl="https://www.amexunstaged.com/artists/"/>
+                <_x0036_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Events"
+                    linkTooltip="Events"
+                    linkUrl="https://www295.americanexpress.com/entertainmentaccess/home.do?intlink=us-unstaged-UnstagedHomePage-amexentertainmentfeaturedoffers"/>
+            </linksOne>
+            <linksTwo jcr:primaryType="nt:unstructured">
+                <_x0030_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Arcade Fire"
+                    linkTooltip="Select to learn more about Arcade Fire"
+                    linkUrl="https://www.amexunstaged.com/artists/arcade-fire/"/>
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Betty Who"
+                    linkTooltip="Select to learn more about Betty Who"
+                    linkUrl="https://www.amexunstaged.com/artists/betty-who/"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="BØRNS"
+                    linkTooltip="Select to learn more about BØRNS"
+                    linkUrl="https://www.amexunstaged.com/artists/borns/"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Coldplay"
+                    linkTooltip="Select to learn more about Coldplay"
+                    linkUrl="https://www.amexunstaged.com/artists/coldplay/"/>
+                <_x0034_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Dead &amp;amp; Company"
+                    linkTooltip="Select to learn more about Dead &amp; Company"
+                    linkUrl="https://www.amexunstaged.com/artists/dead-and-company/"/>
+                <_x0035_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Disclosure"
+                    linkTooltip="Select to learn more about Disclosure"
+                    linkUrl="https://www.amexunstaged.com/artists/disclosure/"/>
+                <_x0036_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Ellie Goulding"
+                    linkTooltip="Select to learn more about Ellie Goulding"
+                    linkUrl="https://www.amexunstaged.com/artists/ellie-goulding/"/>
+                <_x0037_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Gavin James"
+                    linkTooltip="Select to learn more about Gavin James"
+                    linkUrl="https://www.amexunstaged.com/artists/gavin-james/"/>
+                <_x0038_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="John Legend &amp; The Roots"
+                    linkTooltip="Select to learn more about John Legend &amp; The Roots"
+                    linkUrl="https://www.amexunstaged.com/artists/john-legend-the-roots/"/>
+                <_x0039_
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Kenny Chesney"
+                    linkTooltip="Select to learn more about Kenny Chesney"
+                    linkUrl="https://www.amexunstaged.com/artists/kenny-chesney/"/>
+                <_x0031_0
+                    jcr:primaryType="nt:unstructured"
+                    linkText="The Killers"
+                    linkTooltip="Select to learn more about The Killers"
+                    linkUrl="https://www.amexunstaged.com/artists/the-killers/"/>
+                <_x0031_1
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Kings of Leon"
+                    linkTooltip="Select to learn more about Kings of Leon"
+                    linkUrl="https://www.amexunstaged.com/artists/kings-of-leon/"/>
+                <_x0031_2
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Maroon 5"
+                    linkTooltip="Select to learn more about Maroon 5"
+                    linkUrl="https://www.amexunstaged.com/artists/maroon-5/"/>
+                <_x0031_3
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Mary J Blige"
+                    linkTooltip="Select to learn more about Mary J Blige"
+                    linkUrl="https://www.amexunstaged.com/artists/mary-j-blige/"/>
+                <_x0031_4
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Mary Lambert"
+                    linkTooltip="Select to learn more about Mary Lambert"
+                    linkUrl="https://www.amexunstaged.com/artists/mary-lambert/"/>
+                <_x0031_5
+                    jcr:primaryType="nt:unstructured"
+                    linkText="My Morning Jacket"
+                    linkTooltip="Select to learn more about My Morning Jacket"
+                    linkUrl="https://www.amexunstaged.com/artists/my-morning-jacket/"/>
+                <_x0031_6
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Pharrell Williams"
+                    linkTooltip="Select to learn more about Pharrell Williams"
+                    linkUrl="https://www.amexunstaged.com/artists/pharrell-williams/"/>
+                <_x0031_7
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Pia Mia"
+                    linkTooltip="Select to learn more about Pia Mia"
+                    linkUrl="https://www.amexunstaged.com/artists/pia-mia/"/>
+                <_x0031_8
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Rae Sremmurd"
+                    linkTooltip="Select to learn more about Rae Sremmurd"
+                    linkUrl="https://www.amexunstaged.com/artists/rae-sremmurd/"/>
+                <_x0031_9
+                    jcr:primaryType="nt:unstructured"
+                    linkText="Rixton"
+                    linkTooltip="Select to learn more about Rixton"
+                    linkUrl="https://www.amexunstaged.com/artists/rixton/"/>
+                <_x0032_0
+                    jcr:primaryType="nt:unstructured"
+                    linkText="St. Vincent"
+                    linkTooltip="Select to learn more about St. Vincent"
+                    linkUrl="https://www.amexunstaged.com/artists/st-vincent/"/>
+            </linksTwo>
+        </header>
+    </jcr:content>
+</jcr:root>

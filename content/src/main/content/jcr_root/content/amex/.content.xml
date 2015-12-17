@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:cloudserviceconfigs="[/etc/cloudservices/msft-translation/msft_trial,/etc/cloudservices/translation/default_assets]"
+        cq:lastModified="{Date}2015-12-11T15:43:17.991+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/amex/templates/homepage"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="amex"
+        sling:resourceType="amex/components/page/homepage">
+        <image
+            jcr:lastModified="{Date}2015-12-11T15:43:17.987+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:primaryType="nt:unstructured"
+            imageRotate="0"/>
+    </jcr:content>
+    <en/>
+    <fr/>
+    <de/>
+</jcr:root>
