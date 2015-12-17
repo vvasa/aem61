@@ -6,7 +6,7 @@
 
 
     <filter root="/etc/clientlibs/amex"/>
-
+	<!--filter root="/content/amex"/-->
 
     <filter root="/etc/designs/amex">
         <include pattern="/etc/designs/amex/jcr:content"/>
