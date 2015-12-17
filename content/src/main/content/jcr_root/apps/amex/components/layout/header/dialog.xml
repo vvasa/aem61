@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    title="Footer configuration"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Tab 1">
+                <items jcr:primaryType="cq:WidgetCollection">
+                	<nav-title
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter first nav title"
+                                name="./navTitleOne"
+                                width="500"
+                                xtype="textfield"/>
+                    <navigation-links
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter links"
+                        name="./linksOne"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <linkUrl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Url"
+                                name="linkUrl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <linkText
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Text"
+                                name="linkText"
+                                width="500"
+                                xtype="textfield"/>
+                            <linkTooltip
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Tooltip"
+                                name="linkTooltip"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </navigation-links>
+                </items>
+            </tab1>
+             <tab2
+                jcr:primaryType="cq:Panel"
+                title="Tab 2">
+                <items jcr:primaryType="cq:WidgetCollection">
+                	<nav-title
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter second nav title"
+                                name="./navTitleTwo"
+                                width="500"
+                                xtype="textfield"/>
+                    <navStickyTitle
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter sticky title"
+                                name="./navStickyTitle"
+                                width="500"
+                                xtype="textfield"/>
+                    <navStickyPath
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter sticky path"
+                                name="./navStickyPath"
+                                width="500"
+                                xtype="pathfield"/>
+                    <navStickyTooltip
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter sticky tooltip"
+                                name="./navStickyTooltip"
+                                width="500"
+                                xtype="textfield"/>
+                    <navigation-links
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter links"
+                        name="./linksTwo"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <linkUrl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Url"
+                                name="linkUrl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <linkText
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Text"
+                                name="linkText"
+                                width="500"
+                                xtype="textfield"/>
+                            <linkTooltip
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Link Tooltip"
+                                name="linkTooltip"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </navigation-links>
+                </items>
+            </tab2>
+            <tab3
+                jcr:primaryType="cq:Panel"
+                title="Tab 2">
+                <items jcr:primaryType="cq:WidgetCollection">
+                	<centerLogoPath
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter center logo path"
+                                name="./centerLogo"
+                                width="500"
+                                xtype="pathfield"/>
+                     <centerLogoLink
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter center logo url"
+                                name="./centerLogoLink"
+                                width="500"
+                                xtype="pathfield"/>
+                     <rightLogoLink
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter right logo url"
+                                name="./rightLogoLink"
+                                width="500"
+                                xtype="pathfield"/>
+                     <rightLogoPath
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter right logo path"
+                                name="./rightLogoPath"
+                                width="500"
+                                xtype="pathfield"/>
+                    </items>
+            </tab3>
+        </items>
+    </items>
+</jcr:root>

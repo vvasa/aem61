@@ -110,7 +110,7 @@
             </plugin>
 
 
-            <plugin>
+            <!--plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>jslint-maven-plugin</artifactId>
                 <executions>
@@ -129,7 +129,7 @@
                         <exclude>**/vendor/**/*.js</exclude>
                     </excludes>
                 </configuration>
-            </plugin>
+            </plugin-->
 
 
             <plugin>

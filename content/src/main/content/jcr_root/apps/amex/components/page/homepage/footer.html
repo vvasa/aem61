@@ -1,0 +1,52 @@
+<div data-sly-resource="${'footer' @resourceType='amex/components/layout/footer'}"></div>
+<div id="global-youtube-container" class="youtube-player js-module" data-video-container data-module-name="YoutubePlayerModule">
+	    <div class="youtube-player--content">
+	
+	      <div class="embed" data-video-embed></div>
+	
+	
+	    	<div class="youtube-player--overlay js-youtube-recommendations" data-play-title="">
+	
+	  			<div class="state-container paused-state" style="display:none;" data-overlay-paused>
+	  				<span title="Select to pause video" class="hero-icon icon icon-play"></span>
+	  			</div>
+	
+	  			<div class="state-container ended-state" style="display:none;" data-overlay-ended>
+	
+	  				<span title="Select to play video" class="hero-icon icon icon-play"></span>
+	  				<svg class="svg-progress" width="90" height="90" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	  					<path id="arc" fill="none" stroke-width="11" d=""></path>
+	  				</svg>
+	
+	  				<div class="next-text">Up Next</div>
+	  				<div class="next-content"><span class="artist" data-next-artist></span><span data-next-dash> - </span><div class="video-title" data-next-title></div></div>
+	  			</div>
+	
+					<div class="youtube-player--recommendation youtube-player--recommendation_left js-youtube--recommendation_left">
+						<!-- <a class="image-container js-modal-youtube" href="https://www.youtube.com/watch?v=e-ORhEE9VVg" title=""  data-video-id="e-ORhEE9VVg">
+							<img src="/assets/artists/taylorswift/16x9/Taylor-Swift-Blank-Space-16x9.jpg" alt="Taylor Swift video thumbnail">
+							<span class="play-link"><span class="icon icon-play"></span></span>
+						</a>
+						<div class="title title_centered"><em>Taylor Swift</em><div>Blank Space</div></div> -->
+					</div>
+					<div class="youtube-player--recommendation youtube-player--recommendation_right js-youtube--recommendation_right"></div>
+	    	</div>
+	
+	    	<a class="close-button icon icon-thin_cross" href="#"></a>
+	    </div>
+	</div>
+	
+	<div id="global-youtube-overlay"></div>
+	<div class="browser-info-module js-module" data-module-name="BrowserInfoModule">
+		<div class="block-container-inner">
+			<div class="close-button" data-close><span class="icon icon-thin_cross"></span></div>
+	
+			<p class="browser-message browser-message_active browser-message_cookies" data-message-type="cookies">
+				Welcome to the <em>American Express Unstaged</em> site hosted in the US - American Express uses cookies to deliver the best possible web experience. By continuing and using this site, you agree that we may store and access cookies on your device. You may change your preference at any time by going to the "Manage your cookies preferences" section in our <a href="https://info.evidon.com/pub_info/1328?v=1&amp;nt=1&amp;nw=true&amp;inav=footer_adChoices" title="Cookie Policy" >cookie policy</a>.
+			</p>
+	
+			<p class="browser-message browser-message_upgrade" data-message-type="upgrade">
+				It looks like you're using an older web browser which is no longer supported. For a better <em>American Express Unstaged</em> experience, please <a href="https://browser-update.org/update-outdated.html" title="Installation link for modern browsers">upgrade your browser</a>.
+			</p>
+		</div>
+	</div>

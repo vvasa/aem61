@@ -1,0 +1,22 @@
+<div class="whats-happening-module block-container-inner module-margin clearfix js-module" data-module-name="WhatsHappeningModule">
+	<h2 class="title title_centered title_everydaylive"><span>${properties.socialTitle}</span></h2>
+<div class="section">
+   <div data-sly-use.helper="${ 'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='socialsharedetails'}"
+      data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+      <div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+         <div class="social-gadget social-gadget_${item.socialmediatype} col span_3_of_12 reveal-effect reveal-effect_visible">
+            <h3 class="social-gadget--header"><a title="${item.title}" href="${item.linkpath}" target="_blank">${item.brandtitle} <span title="${item.socialmediatype}" class="icon icon-${item.socialmediatype}"></span></a></h3>
+            <div class="social-gadget--content">
+               <img src="${item.imagepath}" alt="${item.imagealttext}">
+               <div class="social-gadget--action-link">
+                  <a title="${item.title}" href="${item.linkpath}" class="button-link hover-effect hover-effect_16_9" target="_blank">
+                  <span class="hover-effect--overlay"></span>
+                  <span class="hover-effect--content">${item.buttontext}</span>
+                  </a>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+</div>

@@ -1,0 +1,14 @@
+<footer class="footer-container">
+    <div class="footer-wrapper">
+    	<ul>
+			<div data-sly-use.helper="${'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='links'}" data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+				<div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+					<li><a title="${item.linkTooltip}" href="${item.linkUrl}" target="_blank">${item.linkText}</a></li>
+				</div>
+			</div>	
+			<li class="adChoices icon-adChoices"><a title="AdChoices" href="${properties.adChoiceUrl}" target="_blank">${properties.adChoiceText}</a></li>
+		</ul>
+		<p><span class="text-container">${properties.disclaimerText @context='html'}</span></p>
+    	<p class="iNCopy"><span class="text-container">${properties.copyrightText @context='html'}</span></p>
+    </div>
+</footer>

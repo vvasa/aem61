@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Tab 1">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <videoUrl
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Video Url"
+                        name="./videoUrl"
+                        xtype="pathfield"/>
+                    <image
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter image"
+                        name="./imagePath"
+                        xtype="pathfield"/>
+                    <ogvVideoPath
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Ogv Video Path"
+                        name="./ogvVideoPath"
+                        xtype="pathfield"/>
+                    <title
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Video Title"
+                        name="./videoTitle"
+                        xtype="textfield"/>
+                    <subtitle
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Video Sub Title"
+                        name="./videoSubTitle"
+                        xtype="textfield"/>
+                </items>
+            </tab1>
+        </items>
+    </items>
+</jcr:root>

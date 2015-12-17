@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Dialog"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Tab 1">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <media-item
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Media Item"
+                        name="./mediaItem"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                        	<mp4Url
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Mp4 Url"
+                                name="mp4Url"
+                                width="500"
+                                xtype="pathfield"/>
+                            <videoUrl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Video Url"
+                                name="videoUrl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <imagePath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Path"
+                                name="imagePath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <artistId
+                                jcr:primaryType="cq:Widget"
+                                name="artistId"
+                                options="/apps/amex/components/json/artistid.json"
+                                type="select"
+                                xtype="selection"/>
+                            <title
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Title"
+                                name="title"
+                                width="500"
+                                xtype="textfield"/>
+                            <subtitle
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Sub Title"
+                                name="subtitle"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </media-item>
+                </items>
+            </tab1>
+            <tab2
+                jcr:primaryType="cq:Panel"
+                title="Desktop default">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <imagePath
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Desktop default image path"
+                        name="./desktopImagePath"
+                        xtype="pathfield"/>
+                     <title
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Desktop title"
+                        name="./desktopTitle"
+                        xtype="textfield"/>
+                     <subtitle
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Desktop subtitle"
+                        name="./deskSubTitle"
+                        xtype="textfield"/>
+                    <videoUrl
+                                jcr:primaryType="cq:Widget"
+                                fieldLabel="Enter Video Url"
+                                emptyText="Enter Video Url"
+                                name="./desktopVideoUrl"
+                                width="500"
+                                xtype="pathfield"/>
+                </items>
+            </tab2>
+            <tab3
+                jcr:primaryType="cq:Panel"
+                title="Mobile default">
+                <items jcr:primaryType="cq:WidgetCollection">
+                	<title
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Desktop title"
+                        name="./mobileTitle"
+                        xtype="textfield"/>
+                     <subtitle
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Desktop subtitle"
+                        name="./mobileSubTitle"
+                        xtype="textfield"/>
+                    <mobileImagePath
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Mobile default image path"
+                        name="./mobileImagePath"
+                        xtype="pathfield"/>
+                     <mobileVideoUrl
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Mobile default video path"
+                        name="./mobileVideoUrl"
+                        xtype="pathfield"/>
+                </items>
+            </tab3>
+        </items>
+    </items>
+</jcr:root>

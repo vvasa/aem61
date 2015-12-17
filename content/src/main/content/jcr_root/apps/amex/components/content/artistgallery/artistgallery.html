@@ -1,0 +1,29 @@
+ <div class="featured-artists-module block-container-inner clearfix">
+		<h2 class="title title_centered title_featuredArtists">${properties.featuredTitle}</em></h2>
+ 
+ <div data-sly-use.helper="${ 'com.aem.deloitte.amex.core.util.MultiFieldHelper' @ propertyName='featuredetails'}"
+      data-sly-test.config="${helper.multiFieldValues}" data-sly-unwrap>
+      <div data-sly-unwrap data-sly-list="${helper.multiFieldValues}">
+		<div class="featured-artist featured-artist_${itemList.index @context='styleToken'} reveal-effect reveal-effect_visible">
+				<div class="featured-artist--half-container featured-artist--image-container">
+					<img class="featured-artist--image" src="${item.imagepath}" alt="${item.imagealttext}">
+					<a class="play-link js-modal-youtube" href="${item.videopath}" title="Select to play video" data-playlist-artist="raesremmurd" data-playlist-artist-type="air" data-video-id="LAD6GQ6eel8"><span class="icon icon-play"></span></a>
+				</div>
+
+				<a class="featured-artist--half-container featured-artist--info-container hover-effect hover-effect_1_1" href="${item.linkpath}" title="${item.title}">
+					<span class="hover-effect--overlay"></span>
+	
+					<span class="featured-artist--info">
+	
+						<span class="artist-name">${item.artistname}</span>
+	
+						<span class="artist-text">${item.description}</span>
+	
+						<span title="${item.tooltip}" class="readmore">${item.linktext}</span>
+					</span>
+				</a>
+			</div>
+			</div>
+			</div>
+			</div>
+			

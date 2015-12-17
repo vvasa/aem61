@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="cq:Dialog"
+    xtype="dialog">
+    <items
+        jcr:primaryType="cq:Widget"
+        xtype="tabpanel">
+        <items jcr:primaryType="cq:WidgetCollection">
+            <tab1
+                jcr:primaryType="cq:Panel"
+                title="Album">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <media-item
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Album"
+                        name="./carouselalbum"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <artistId
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Id"
+                                name="artistId"
+                                xtype="textfield"/>
+                            <imagePath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Path"
+                                name="imagePath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <albumimagealttext
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Alt text"
+                                name="albumimagealttext"
+                                xtype="textfield"/>
+                            <albumartistname
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Name"
+                                name="albumartistname"
+                                xtype="textfield"/>
+                            <albumartisttitle
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Title"
+                                name="albumartisttitle"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </media-item>
+                    <ctabutton
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="CTA Button"
+                        name="./ctabutton"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <alttext
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter alt text"
+                                name="alttext"
+                                width="500"
+                                xtype="textfield"/>
+                            <buttonpath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter button path"
+                                name="buttonpath"
+                                xtype="pathfield"/>
+                            <ctaimage
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter cta image"
+                                name="ctaimage"
+                                width="500"
+                                xtype="pathfield"/>
+                            <tooltiptitle
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter tooltip title"
+                                name="tooltiptitle"
+                                width="500"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </ctabutton>
+                </items>
+            </tab1>
+            <tab2
+                jcr:primaryType="cq:Panel"
+                title="Photos">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <photosgallery
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Album"
+                        name="./photosgallery"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <photoaligmnent
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter the alignment"
+                                name="photoaligmnent"
+                                type="select"
+                                xtype="selection">
+                                <options jcr:primaryType="cq:WidgetCollection">
+                                    <right
+                                        jcr:primaryType="nt:unstructured"
+                                        text="right"
+                                        value="right"/>
+                                    <left
+                                        jcr:primaryType="nt:unstructured"
+                                        text="left"
+                                        value="left"/>
+                                </options>
+                            </photoaligmnent>
+                            <photoartistId
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Id"
+                                name="photoartistId"
+                                xtype="textfield"/>
+                            <imagePath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Path"
+                                name="imagePath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <pageurl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Page Url"
+                                name="photospageurl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <photoimagealttext
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Alt text"
+                                name="photoimagealttext"
+                                xtype="textfield"/>
+                            <phototooltiptitle
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter tooltip title"
+                                name="phototooltiptitle"
+                                width="500"
+                                xtype="textfield"/>
+                            <photoartistname
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Name"
+                                name="photoartistname"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </photosgallery>
+                </items>
+            </tab2>
+            <tab3
+                jcr:primaryType="cq:Panel"
+                title="Card Details">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <title
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter card title"
+                        name="./cardtitle"
+                        xtype="textfield"/>
+                    <subtitle
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter Card subtitle"
+                        name="./cardsubtitle"
+                        xtype="textfield"/>
+                    <cardbuttonpath
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter path of the page"
+                        name="./cardbuttonpath"
+                        xtype="pathfield"/>
+                    <cardbuttontext
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Enter button text"
+                        name="./cardbuttontext"
+                        xtype="textfield"/>
+                </items>
+            </tab3>
+            <tab4
+                jcr:primaryType="cq:Panel"
+                title="Video Details Tab">
+                <items jcr:primaryType="cq:WidgetCollection">
+                    <photosgallery
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Video Details"
+                        name="./videodetails"
+                        xtype="multicompositefield">
+                        <fieldConfigs jcr:primaryType="cq:WidgetCollection">
+                            <artistId
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Id"
+                                name="videoartistId"
+                                xtype="textfield"/>
+                            <videoimagealttext
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Alt text"
+                                name="videoimagealttext"
+                                xtype="textfield"/>
+                            <imagePath
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Image Path"
+                                name="videoimagePath"
+                                width="500"
+                                xtype="pathfield"/>
+                            <videourl
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Video Url"
+                                name="videourl"
+                                width="500"
+                                xtype="pathfield"/>
+                            <videoalbumartisttitle
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Title"
+                                name="videoalbumartisttitle"
+                                xtype="textfield"/>
+                            <videoalbumartistname
+                                jcr:primaryType="cq:Widget"
+                                emptyText="Enter Artist Name"
+                                name="videoalbumartistname"
+                                xtype="textfield"/>
+                        </fieldConfigs>
+                    </photosgallery>
+                    <tweetheader
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Tweet header"
+                        name="./tweetheader"
+                        xtype="textfield"/>
+                    <tweetcontent
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="Tweet content"
+                        name="./tweetcontent"
+                        xtype="richtext"/>
+                </items>
+            </tab4>
+        </items>
+    </items>
+</jcr:root>
