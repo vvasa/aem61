@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="dam:Asset">
+    <jcr:content
+        jcr:lastModified="{Date}2015-12-21T14:44:53.058+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2015-12-21T14:44:51.205+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="d398ccf2b0aea7ed43bcd951a99fadfb64268ea2"
+            dam:size="{Long}99229"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2015-12-10T20:12:08.272+05:30"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}214"
+            tiff:ImageWidth="{Long}1081"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:97CE2F802F1511E5B1C3FF06FD3934FA"
+            xmpMM:InstanceID="xmp.iid:97CE2F7F2F1511E5B1C3FF06FD3934FA"
+            xmpMM:OriginalDocumentID="xmp.did:64b49c2c-1506-4cbc-99ed-0c5095442a33">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:e84684eb-777a-1178-97c9-cfa3524def2a"
+                stRef:instanceID="xmp.iid:8ead543c-e217-4206-9a21-09210d431e13"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ecd56bc3-9069-4d74-9126-df4f18ed1a8f">
+    <jcr:content
+        cq:lastModified="{Date}2015-12-21T15:25:29.220+05:30"
+        cq:lastModifiedBy="admin"
+        cq:name="badge_google-play-dark.jpg"
+        cq:parentPath="/content/dam/amex/fr"
+        cq:translationProject="[/content/projects/20151221/amextranslationfr1450692937097]"
+        jcr:lastModified="{Date}2015-12-21T15:25:51.479+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dc:format="image/jpeg"
+            jcr:lastModified="{Date}2015-12-21T15:25:51.153+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

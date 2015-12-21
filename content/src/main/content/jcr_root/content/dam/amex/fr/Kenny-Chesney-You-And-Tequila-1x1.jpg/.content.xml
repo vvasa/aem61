@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b6c96d07-87aa-4270-90a2-ced9e2ad6fe6">
+    <jcr:content
+        cq:lastModified="{Date}2015-12-21T15:25:28.097+05:30"
+        cq:lastModifiedBy="admin"
+        cq:name="Kenny-Chesney-You-And-Tequila-1x1.jpg"
+        cq:parentPath="/content/dam/amex/fr"
+        cq:translationProject="[/content/projects/20151221/amextranslationfr1450692937097]"
+        jcr:lastModified="{Date}2015-12-21T15:25:46.719+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2015-12-21T15:25:45.826+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="6eda21a783bd2cb4ffd7001ef4d824ea8e3a33ec"
+            dam:size="{Long}46942"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2015-12-10T20:12:06.087+05:30"
+            jcr:lastModified="{Date}2015-12-21T15:25:45.754+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}800"
+            tiff:ImageWidth="{Long}800"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

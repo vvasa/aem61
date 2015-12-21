@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="874cc1f9-72e5-4257-8b16-e7e7cb787928">
+    <jcr:content
+        cq:lastModified="{Date}2015-12-21T15:25:28.134+05:30"
+        cq:lastModifiedBy="admin"
+        cq:name="Kings-Of-Leon-Use-Somebody-1x1.jpg"
+        cq:parentPath="/content/dam/amex/fr"
+        cq:translationProject="[/content/projects/20151221/amextranslationfr1450692937097]"
+        jcr:lastModified="{Date}2015-12-21T15:25:46.803+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2015-12-21T15:25:45.952+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="bf7420a6260fe4330f1c425c0c5bb1901dee5cc7"
+            dam:size="{Long}53939"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2015-12-10T12:54:18.897+05:30"
+            jcr:lastModified="{Date}2015-12-21T15:25:45.909+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}800"
+            tiff:ImageWidth="{Long}800"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

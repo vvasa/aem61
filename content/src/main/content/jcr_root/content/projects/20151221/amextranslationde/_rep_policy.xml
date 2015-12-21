@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:rep="internal"
+    jcr:primaryType="rep:ACL">
+    <deny
+        jcr:primaryType="rep:DenyACE"
+        rep:principalName="everyone"
+        rep:privileges="{Name}[jcr:all]"/>
+    <allow
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="projects-amextranslationde-editor"
+        rep:privileges="{Name}[jcr:addChildNodes,jcr:removeChildNodes,jcr:nodeTypeManagement,jcr:modifyProperties]"/>
+    <allow0
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="projects-amextranslationde-editor"
+        rep:privileges="{Name}[jcr:removeNode]">
+        <rep:restrictions
+            jcr:primaryType="rep:Restrictions"
+            rep:glob="/*"/>
+    </allow0>
+    <allow1
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="projects-amextranslationde-owner"
+        rep:privileges="{Name}[jcr:all]"/>
+    <allow2
+        jcr:primaryType="rep:GrantACE"
+        rep:principalName="projects-amextranslationde"
+        rep:privileges="{Name}[jcr:read,jcr:readAccessControl]"/>
+</jcr:root>

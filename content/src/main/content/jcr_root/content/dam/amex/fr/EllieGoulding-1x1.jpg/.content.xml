@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="890a6abb-3845-4379-9e91-ae3e5411099b">
+    <jcr:content
+        cq:lastModified="{Date}2015-12-21T15:25:27.916+05:30"
+        cq:lastModifiedBy="admin"
+        cq:name="EllieGoulding-1x1.jpg"
+        cq:parentPath="/content/dam/amex/fr"
+        cq:translationProject="[/content/projects/20151221/amextranslationfr1450692937097]"
+        jcr:lastModified="{Date}2015-12-21T15:25:45.505+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:Comments="CREATOR: gd-jpeg v1.0 (using IJG JPEG v80), quality = 96&#xa;&#xa;"
+            dam:extracted="{Date}2015-12-21T15:25:44.993+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}1"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="600e9b60f05f85cb8d4b44b3dbf8e2ca433982c6"
+            dam:size="{Long}90600"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2015-12-10T20:12:02.552+05:30"
+            jcr:lastModified="{Date}2015-12-21T15:25:44.851+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}550"
+            tiff:ImageWidth="{Long}550"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
