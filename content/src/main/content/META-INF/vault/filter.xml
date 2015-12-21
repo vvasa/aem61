@@ -7,7 +7,7 @@
     <filter root="/etc/clientlibs/amex"/>
 	<filter root="/content/amex"/>
 	<filter root="/content/dam/amex"/>
-	<filter root="/content/projects/20151211"/>
-
+	<filter root="/content/projects/20151221"/>
+	<filter root="/content/dam/projects"/>
     <filter root="/etc/designs/amex"/>
  </workspaceFilter>
