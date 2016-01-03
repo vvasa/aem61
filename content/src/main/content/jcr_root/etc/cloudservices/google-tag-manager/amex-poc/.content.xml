@@ -10,6 +10,6 @@
         jcr:lastModifiedBy="admin"
         jcr:primaryType="cq:PageContent"
         jcr:title="Amex Poc"
-        sling:resourceType="cq/analytics/components/googletagmanagerpage"
-        id="GTM-5ZB3NN"/>
+        sling:resourceType="cq/analytics/components/googletagmanagerpage"/>
 </jcr:root>
+GTM-5ZB3NN
