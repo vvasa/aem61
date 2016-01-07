@@ -10,6 +10,6 @@
 	<filter root="/content/projects/20151221"/>
 	<filter root="/content/dam/projects"/>
     <filter root="/etc/designs/amex"/>
-	<filter root="/etc/cloudservices"/>
+	<filter root="/etc/cloudservices/google-tag-manager"/>
 	<filter root="/apps/cq/analytics"/>
  </workspaceFilter>
