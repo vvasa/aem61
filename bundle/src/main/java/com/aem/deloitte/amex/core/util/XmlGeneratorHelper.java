@@ -28,6 +28,7 @@ public class XmlGeneratorHelper extends WCMUse {
 			String title = getProperties().get("title", String.class);
 			String name = getProperties().get("name", String.class);
 			String age = getProperties().get("age", String.class);
+			String filePath = getProperties().get("filePath", String.class);
 	 /*
 			developer = "Our developer " + developerName.toUpperCase()
 					+ " works on " + tool.toUpperCase()
@@ -42,7 +43,7 @@ public class XmlGeneratorHelper extends WCMUse {
 
 			 try {
 
-				File file = new File("C:\\temp\\FileNamefile.xml");
+				File file = new File(filePath);
 				JAXBContext jaxbContext = JAXBContext.newInstance(XmlBean.class);
 				Marshaller jaxbMarshaller = jaxbContext.createMarshaller();
 

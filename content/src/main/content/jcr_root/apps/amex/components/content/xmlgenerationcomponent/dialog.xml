@@ -26,6 +26,12 @@
                         fieldLabel="Name"
                         name="./name"
                         xtype="textfield"/>
+                    <filePath
+                        jcr:primaryType="cq:Widget"
+                        fieldLabel="filePath"
+                        fieldDescription="Enter the path of the Destination file Eg : C:\\temp\\FileNamefile.xml "
+                        name="./filePath"
+                        xtype="textfield"/>
                 </items>
             </tab1>
         </items>
