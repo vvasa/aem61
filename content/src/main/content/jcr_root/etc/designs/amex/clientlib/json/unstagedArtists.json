@@ -1,0 +1,2617 @@
+[{
+	"name": "My Morning Jacket",
+	"id": "mymorningjacket",
+	"artistpagelink":"/artists/my-morning-jacket/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17987",
+		"floodlightCat": "unstgdmm",
+		"rmaction": "MMJ",
+		"linknav": "mmj"
+	},
+
+	"artistImages": {
+		"hero": "",
+
+		"share": "/assets/artists/mymorningjacket/My-Morning-Jacket-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Golden-HERO-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-narrative-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-eyeball-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-my-little-record-report-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-dress-up-alt-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-shower-scene-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-smokin-from-shootin-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-slow-slow-tune-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-mahgeetah-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Erykah-Badu-Wordless-Chorus-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-One-Big-Holiday-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-First-Light-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-You-Wanna-Freak-Out-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Wonderful-The-Way-I-Feel-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Off-The-Record-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Tweet-Q&A-Pt2-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Tweet-Q&A-Pt3-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Tweet-Q&A-Pt1-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Pre-Show-Pt3-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Pre-Show-Pt1-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Pre-Show-Pt2-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-narrative-alt-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-dress-up-alt-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-narrative-16x9.jpg",
+			"/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-eyeball-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/mymorningjacket/1x1/My-Morning-Jacket-smokin-from-shootin-1x1.jpg"
+		]
+	},
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/mymorningjacket/my-morning-jacket-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/mymorningjacket/my-morning-jacket-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Erykah-Badu-Wordless-Chorus-16x9.jpg",
+		"id": "WUWBOdK7h1w",
+		"title": "Wordless Chorus ft. Erykah Badu"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-my-little-record-report-16x9.jpg",
+		"id": "96Iwy0SrsJ0",
+		"title": "My Little Record Report by Patrick Hallahan"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-dress-up-alt-16x9.jpg",
+		"id": "gOEX2JsBFbc",
+		"title": "Invitation to dress fancy for MMJ Palace show"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-shower-scene-16x9.jpg",
+		"id": "aS4ucFdvJL0",
+		"title": "Shower Scene"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-smokin-from-shootin-16x9.jpg",
+		"id": "51DD_wdXXm8",
+		"title": "Smokin From Shootin'"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-slow-slow-tune-16x9.jpg",
+		"id": "bFBsj-JVO2I",
+		"title": "Slow Slow Tune"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-mahgeetah-16x9.jpg",
+		"id": "FrOJgaOBobs",
+		"title": "Mahgeetah"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-One-Big-Holiday-16x9.jpg",
+		"id": "zeH1qa7QjJk",
+		"title": "One Big Holiday"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-First-Light-16x9.jpg",
+		"id": "HGAVm4FYue8",
+		"title": "First Light"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-You-Wanna-Freak-Out-16x9.jpg",
+		"id": "KyEE4qWqqh0",
+		"title": "You Wanna Freak OuT"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Wonderful-The-Way-I-Feel-16x9.jpg",
+		"id": "IQ9h0ccVhgw",
+		"title": "Wonderful (The Way I Feel)"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Golden-HERO-16x9.jpg",
+		"id": "lhtM9CcTH-0",
+		"title": "Golden"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Off-The-Record-16x9.jpg",
+		"id": "1XyKEHVR-Wc",
+		"title": "Off The Record"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Tweet-Q&A-Pt2-16x9.jpg",
+		"id": "hpMA0foM0fs",
+		"title": "Tweet Q&A, Pt. 2"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Tweet-Q&A-Pt3-16x9.jpg",
+		"id": "XOSSbhZbwaw",
+		"title": "Tweet Q&A, Pt. 3"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Tweet-Q&A-Pt1-16x9.jpg",
+		"id": "dNeBBHjG_kk",
+		"title": "Tweet Q&A, Pt. 1 "
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Pre-Show-Pt3-16x9.jpg",
+		"id": "uRHcR2-vjvI",
+		"title": "Pre-Show, Pt. 3"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Pre-Show-Pt1-16x9.jpg",
+		"id": "w58uDBTHy_k",
+		"title": "Pre-Show, Pt. 1"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-Pre-Show-Pt2-16x9.jpg",
+		"id": "m5H7CB0MyNw",
+		"title": "Pre-Show, Pt. 2"
+	}, {
+		"image": "/assets/artists/mymorningjacket/16x9/My-Morning-Jacket-narrative-alt-16x9.jpg",
+		"id": "pdWeMeSkjYw",
+		"title": "Todd Haynes' UNSTAGED Narrative"
+	}],
+
+	"album": {
+		"title": "The Waterfall",
+		"image": "/assets/artists/mymorningjacket/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Todd Haynes"
+	},
+
+	"eventDate": {
+		"iso": "2011-05-31T00:00:00.000Z",
+		"month": "May",
+		"date": "31",
+		"year": "2011"
+	},
+
+	"upcommingEvent": {
+		"name": "Upcomming Event",
+		"date": {
+			"iso": "2011-05-31T00:00:00.000Z",
+			"month": "June",
+			"date": "31",
+			"year": "2015"
+		},
+		"ticketlink": ""
+	},
+
+	"meta": {
+		"title": "My Morning Jacket | American Express UNSTAGED",
+		"description": "My Morning Jacket fans expect their concerts to be big, and the American Express UNSTAGED live and digital experience did not disappoint.",
+		"keywords": "My Morning Jacket Videos,My Morning Jacket Songs,My Morning Jacket Song ,My Morning Jacket biography,My Morning Jacket Video,My Morning Jacket performance,My Morning Jacket show,My Morning Jacket concert,My Morning Jacket live,My Morning Jacket event,My Morning Jacket picture,My Morning Jacket pictures,My Morning Jacket album,My Morning Jacket albums,My Morning Jacket image,My Morning Jacket images,My Morning Jacket photo,My Morning Jacket photos,My Morning Jacket music,My Morning Jacket facts,My Morning Jacket info,My Morning Jacket playlist,My Morning Jacket movie,My Morning Jacket songs,My Morning Jacket gallery,My Morning Jacket shows,My Morning Jacket new,My Morning Jacket stream,My Morning Jacket streaming,My Morning Jacket music video,My Morning Jacket photoshoot,My Morning Jacket photo shoot,My Morning Jacket vevo,My Morning Jacket youtube,My Morning Jacket in concert,My Morning Jacket performing ,My Morning Jacket performing live,My Morning Jacket live performance,My Morning Jacket live concert,My Morning Jacket ticket,My Morning Jacket tickets,My Morning Jacket live stream,My Morning Jacket live show,My Morning Jacket streaming online,My Morning Jacket,Morning Jacket,Todd Haynes,Rachel Dratch,Circuital"
+	},
+
+	"texts": {
+		"headline": "<em>MY MORNING JACKET</em> LIVE CONCERT",
+		"bio": "<em>Next level rock. New heights</em>. During My Morning Jacket’s 2011 American Express UNSTAGED performance, all eyes were on the stage. Literally. That’s because fans were invited to submit photos of their eyes online for a chance to have them displayed during the live show. This was just one of the many ways fans could immerse themselves in this innovative live-streamed concert experience.",
+		"bio-long": [
+			"During My Morning Jacket’s 2011 American Express UNSTAGED performance, all eyes were on the stage. Literally. That’s because fans were invited to submit photos of their eyes online for a chance to have them displayed during the live show. This was just one of the many ways fans could immerse themselves in this innovative live-streamed concert experience.",
+			"As it turned out, both the band and the show’s director, filmmaker Todd Haynes, had a lot more surprises in store for concertgoers and viewers. Haynes directed short films that fans could watch throughout the experience, including one that featured comedian and actress Rachel Dratch. Fans could also tweet questions to have them answered by the band before the show.",
+			"The sold-out show took place at the Palace Theater, located in the band’s hometown of Louisville, Kentucky. It was a concert that showcased the evolution of the band’s unique rock sound, as they delighted the audience with songs old and new. Their album Circuital was released the same day as the performance, and American Express UNSTAGED fans were among the first to hear some of the new songs played live.",
+			"My Morning Jacket fans expect their shows to be big, and this American Express UNSTAGED live and digital experience did not disappoint."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/mymorningjacket",
+			"sharetext": "Check out My Morning Jacket’s #AmexUNSTAGED performance, directed by Todd Haynes at https://www.amexunstaged.com/artists/my-morning-jacket/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring My Morning Jacket ",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out My Morning Jacket’s story, from their musical roots to their creative revelations. As told by Todd Haynes.",
+			"link":"http://facebook.com/mymorningjacket"
+		},
+		"instagram": {
+			"link":"http://instagr.am/mymorningjacket"
+		}
+	}
+},{
+	"name": "Pharrell Williams",
+	"id": "pharrellwilliams",
+	"artistpagelink":"/artists/pharrell-williams/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17977",
+		"floodlightCat": "unstgdph",
+		"rmaction": "UnstagedPharrell",
+		"linknav": "pharrell"
+	},
+
+	"album": {
+		"title": "Girl",
+		"image": "/assets/artists/pharrellwilliams/album_art.jpg",
+		"googleplayUrl": "https://play.google.com/store/music/album/Pharrell_Williams_G_I_R_L?id=Brbussegnleitqzwmxbio7w7ivq",
+		"itunesUrl": "https://itunes.apple.com/us/album/g-i-r-l/id823593445"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/pharrellwilliams/Pharrell-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Music-Medley-HERO-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Music-Medley-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Lose-Yourself-To-Dance-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Hunter-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Marilyn-Monroe-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Come-Get-It-Bae-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Frontin-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Blurred-Lines-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Get-Lucky-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Happy-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Talks-Fame-With-Spike-Lee-16x9.jpg",
+			"/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Share-Inspiration-Spike-Lee-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/pharrellwilliams/Pharrell-Williams-Frontin-1x1.jpg"
+		]
+	},
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/pharrellwilliams/pharrell-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/pharrellwilliams/pharrell-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Happy-16x9.jpg",
+		"id": "tCRpxV_sTnY",
+		"title": "Happy"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Get-Lucky-16x9.jpg",
+		"id": "AMef-0lm2uY",
+		"title": "Get Lucky"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Lose-Yourself-To-Dance-16x9.jpg",
+		"id": "kZkK_AgM-E8",
+		"title": "Lose Yourself To Dance"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Hunter-16x9.jpg",
+		"id": "YVVLZiHj_S0",
+		"title": "Hunter"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Marilyn-Monroe-16x9.jpg",
+		"id": "0S2YSsijBd4",
+		"title": "Marilyn Monroe"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Come-Get-It-Bae-16x9.jpg",
+		"id": "Pwfl26cDBNw",
+		"title": "Come Get It Bae"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Frontin-16x9.jpg",
+		"id": "ZA-CRCzZZBs",
+		"title": "Frontin'"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Music-Medley-16x9.jpg",
+		"id": "lF8OMT1E46Y",
+		"title": "Music Medley"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Blurred-Lines-16x9.jpg",
+		"id": "oMEnqXRBKNc",
+		"title": "Blurred Lines"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Talks-Fame-With-Spike-Lee-16x9.jpg",
+		"id": "E-S1Nm2J-_Q",
+		"title": "Pharrell Talks Fame with Spike Lee"
+	}, {
+		"image": "/assets/artists/pharrellwilliams/16x9/Pharrell-Williams-Share-Inspiration-Spike-Lee-16x9.jpg",
+		"id": "pcDLZjDVjSU",
+		"title": "Pharrell Shares His Inspiration with Spike Lee"
+	}],
+
+	"director": {
+		"name": "Spike Lee"
+	},
+
+	"eventDate": {
+		"iso": "2014-06-03T00:00:00.000Z",
+		"month": "June",
+		"date": "3",
+		"year": "2014"
+	},
+
+	"meta": {
+		"title": "Pharrell Williams | American Express UNSTAGED",
+		"description": "Pharrell and Spike Lee worked together to create an incredible live performance that combined a killer band, soulful backup singers, and incredible dancers.",
+		"keywords": "Pharrell Videos, Pharrell Songs, Pharrell Song, Pharrell biography, Pharrell Video, Pharrell performance, Pharrell show, Pharrell concert, Pharrell live, Pharrell event, Pharrell picture, Pharrell pictures, Pharrell album, Pharrell albums, Pharrell image, Pharrell images, Pharrell photo, Pharrell photos, Pharrell music, Pharrell facts, Pharrell info, Pharrell playlist, Pharrell movie, Pharrell songs, Pharrell gallery, Pharrell shows, Pharrell new, Pharrell stream, Pharrell streaming, Pharrell music video, Pharrell photoshoot, Pharrell photo shoot, Pharrell vevo, Pharrell youtube, Pharrell in concert, Pharrell performing, Pharrell performing live, Pharrell live performance, Pharrell live concert, Pharrell ticket, Pharrell tickets, Pharrell live stream, Pharrell live show, Pharrell streaming online, Pharrell, Pharrell Williams, Spike Lee, GIRL, Happy"
+	},
+
+	"texts": {
+		"headline": "<em>PHARRELL WILLIAMS</em> PERFORMS LIVE",
+		"bio": "<em>Uptown party brings the house down</em>. Few artists embody the trifecta of style, talent, and fun like Multi-Platinum artist Pharrell and seasoned director Spike Lee. Music fans from around the globe got lucky when American Express UNSTAGED brought them together for a unique performance experience.",
+		"bio-long": [
+			"Few artists embody the trifecta of style, talent, and fun like Multi-Platinum artist Pharrell and seasoned director Spike Lee. Music fans from around the globe got lucky when American Express UNSTAGED brought them together for a unique performance experience.",
+			"The awesome event went down on hallowed ground: the Apollo Theater in Harlem, NYC. The Apollo has hosted thousands of musical legends for decades, and with this performance it was able to add another to its list. The two visionaries, Pharrell and Spike Lee, worked together to create an event that combined a killer band, soulful backup singers, and incredible dancers. Pharrell completely owned the stage and brought joyful energy to the crowd. The fans were out of their seats as they danced to hits like “Blurred Lines,” “Get Lucky,”and new songs from his 2014 album GIRL.",
+			"But in addition to the music, fans around the world were brought into the live experience in a new way: by contributing photos of themselves that were then used in the stage show. Fan tweets also unlocked never-before-seen content, which was live-streamed on YouTube.",
+			"Pharrell and Spike Lee put on an unforgettable show that made a lot of fans very HAPPY."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/pharrellwilliams",
+			"sharetext": "Check out Pharrell Williams’ #AmexUNSTAGED performance, directed by Spike Lee at https://www.amexunstaged.com/artists/pharrell-williams/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Pharrell Williams ",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Pharrell Williams’s story, from his musical roots to his creative revelations. As told by Spike Lee. ",
+			"link":"http://facebook.com/pharrellwilliams"
+		},
+		"instagram": {
+			"link":"http://instagr.am/pharrellwilliams"
+		}
+	}
+}, {
+	"name": "Arcade Fire",
+	"id": "arcadefire",
+	"artistpagelink":"/artists/arcade-fire/",
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17991",
+		"floodlightCat": "unstgdaf",
+		"rmaction": "UnstagedArcadeFire",
+		"linknav": "arcadefire"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/arcadefire/Arcade-Fire-SocialShare.png",
+		"rectangle": [
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-Full-Concert-HERO-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-Pearl-Jam-VS-Nirvana-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-Second-Best-Day-Of-My-Life-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-My-Body-Is-A-Cage-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-Keep-The-Car-Running-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-Twitter-Interview-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-Full-Concert-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-01-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-02-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-03-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-04-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-01-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-02-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-03-16x9.jpg",
+			"/assets/artists/arcadefire/16x9/Arcade-Fire-04-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/arcadefire/Arcade-Fire-Full-Concert-1x1.jpg"
+		]
+	},
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/arcadefire/arcade-fire-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/arcadefire/arcade-fire-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/arcadefire/16x9/Arcade-Fire-Full-Concert-16x9.jpg",
+		"id": "lYpD5pDQNvk",
+		"title": "Exclusive Re-Broadcast"
+	}],
+
+	"album": {
+		"title": "Take Me When You Go",
+		"image": "/assets/artists/arcadefire/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Terry Gilliam"
+	},
+
+	"eventDate": {
+		"iso": "2010-08-05T00:00:00.000Z",
+		"month": "August",
+		"date": "5",
+		"year": "2010"
+	},
+
+	"meta": {
+		"title": "Arcade Fire | American Express UNSTAGED",
+		"description": "Watch the very first American Express UNSTAGED live performance, which featured a collaboration between indie rock band Arcade Fire and director Terry Gilliam.",
+		"keywords": "Arcade Fire Videos,Arcade Fire Songs,Arcade Fire Song ,Arcade Fire biography,Arcade Fire Video,Arcade Fire performance,Arcade Fire show,Arcade Fire concert,Arcade Fire live,Arcade Fire event,Arcade Fire picture,Arcade Fire pictures,Arcade Fire album,Arcade Fire albums,Arcade Fire image,Arcade Fire images,Arcade Fire photo,Arcade Fire photos,Arcade Fire music,Arcade Fire facts,Arcade Fire info,Arcade Fire playlist,Arcade Fire movie,Arcade Fire songs,Arcade Fire gallery,Arcade Fire shows,Arcade Fire new,Arcade Fire stream,Arcade Fire streaming,Arcade Fire music video,Arcade Fire photoshoot,Arcade Fire photo shoot,Arcade Fire vevo,Arcade Fire youtube,Arcade Fire in concert,Arcade Fire performing ,Arcade Fire performing live,Arcade Fire live performance,Arcade Fire live concert,Arcade Fire ticket,Arcade Fire tickets,Arcade Fire live stream,Arcade Fire live show,Arcade Fire streaming online,Arcade Fire,Arcade,Fire,Terry Gilliam,The Suburbs"
+	},
+
+	"texts": {
+		"headline": "<em>Arcade Fire</em> Live Performance",
+		"bio": "<em>Band brings the suburbs to the city</em>. This is where it all started. The very first American Express UNSTAGED performance launched the concert series in a big way with a collaboration between indie rock band Arcade Fire and director Terry Gilliam. These creative minds married the worlds of music and film to bring fans an immersive experience that blurred the lines between the digital world and the real world.",
+		"bio-long": [
+			"This is where it all started. The very first American Express UNSTAGED performance launched the concert series in a big way with a collaboration between indie rock band Arcade Fire and director Terry Gilliam. These creative minds married the worlds of music and film to bring fans an immersive experience that blurred the lines between the digital world and the real world.",
+			"The experience kicked off before the live show even started. Fans were able to watch a series of short films that helped build excitement for the upcoming performance. Gilliam captured the band in backstage moments that were both serious and playful, giving fans a glimpse into the band’s pre-show rituals. Fans were also able to tweet questions to the band and have them answered in additional pre-show content.",
+			"And on August 5, 2010, fans from all over the world tuned in to catch the live performance held at Madison Square Garden in New York City. Arcade Fire rocked out an hour-and-a-half-long set that included old favorites and new songs from their 2010 album The Suburbs. Fans were able choose the songs for the encore performance by voting digitally. “Keep The Car Running,” “Wake Up,” and “Sprawl II” closed out the night and gave fans an incredible finale.",
+			"The collaboration between Arcade Fire’s unique sound and Gilliam’s creative vision resulted in a unique and innovative experience that fans will never forget."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/arcadefire",
+			"sharetext": "Check out Arcade Fire’s #AmexUNSTAGED performance, directed by Terry Gilliam at https://www.amexunstaged.com/artists/arcade-fire/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Arcade Fire",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Arcade Fire’s story, from their musical roots to their creative revelations. As told by Terry Gilliam.",
+			"link":"https://www.facebook.com/arcadefire?_rdr=p"
+		},
+		"instagram": {
+			"link":"ps://twitter.com/arcadefire"
+		}
+	}
+},{
+	"name": "Usher",
+	"id": "usher",
+	"artistpagelink":"/artists/usher/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17983",
+		"floodlightCat": "unstgduh",
+		"rmaction": "UnstagedUsher",
+		"linknav": "usher"
+	},
+
+
+	"artistImages": {
+		"share": "/assets/artists/usher/Usher-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/usher/16x9/Usher-Standard-HERO-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Art-In-Motion-Reality-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-A-Look-At-The-Life-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-You-Make-Me-Wanna-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Burn-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Numb-Euphoria-Medley-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Caught-Up-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Without-You-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Climax-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-OMG-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Ring-Revised-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Ur-Heart-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Extended-Titles-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/usher/16x9/Usher-Ring-Revised-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Ur-Heart-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Extended-Titles-16x9.jpg",
+			"/assets/artists/usher/16x9/Usher-Standard-HERO-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/usher/Usher-Burn-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/usher/usher-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/usher/usher-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/usher/16x9/Usher-Burn-16x9.jpg",
+		"id": "-R-BfN_XgYs",
+		"title": "Burn"
+	},{
+		"image": "/assets/artists/usher/16x9/Usher-OMG-16x9.jpg",
+		"id": "jKBgXy3nick",
+		"title": "OMG"
+	}, {
+		"image": "/assets/artists/usher/16x9/Usher-You-Make-Me-Wanna-16x9.jpg",
+		"id": "Qjaj5MryGkc",
+		"title": "You Make Me Wanna"
+	}, {
+		"image": "/assets/artists/usher/16x9/Usher-Numb-Euphoria-Medley-16x9.jpg",
+		"id": "9EfppAs897o",
+		"title": "Numb/Euphoria Medley"
+	}, {
+		"image": "/assets/artists/usher/16x9/Usher-Caught-Up-16x9.jpg",
+		"id": "Em31jkRnxzc",
+		"title": "Caught Up"
+	}, {
+		"image": "/assets/artists/usher/16x9/Usher-Without-You-16x9.jpg",
+		"id": "pubn3UHiCfQ",
+		"title": "Without You"
+	}, {
+		"image": "/assets/artists/usher/16x9/Usher-Climax-16x9.jpg",
+		"id": "sPev3PX-ElI",
+		"title": "Climax"
+	}],
+
+	"album": {
+		"title": "Take Me When You Go",
+		"image": "/assets/artists/usher/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Hamish Hamilton"
+	},
+
+	"eventDate": {
+		"iso": "2012-06-11T00:00:00.000Z",
+		"month": "June",
+		"date": "11",
+		"year": "2012"
+	},
+
+	"meta": {
+		"title": "Usher | American Express UNSTAGED",
+		"description": "Watch Usher’s American Express UNSTAGED live performance, which featured innovative technology, heart-thumping music, and incredible dancing.",
+		"keywords": "Usher Videos,Usher Songs,Usher Song ,Usher biography,Usher Video,Usher performance,Usher show,Usher concert,Usher live,Usher event,Usher picture,Usher pictures,Usher album,Usher albums,Usher image,Usher images,Usher photo,Usher photos,Usher music,Usher facts,Usher info,Usher playlist,Usher movie,Usher songs,Usher gallery,Usher shows,Usher new,Usher stream,Usher streaming,Usher music video,Usher photoshoot,Usher photo shoot,Usher vevo,Usher youtube,Usher in concert,Usher performing ,Usher performing live,Usher live performance,Usher live concert,Usher ticket,Usher tickets,Usher live stream,Usher live show,Usher streaming online,Usher,Hamish Hamilton,Looking 4 Myself"
+	},
+
+	"texts": {
+		"headline": "<em>USHER</em> LIVE PERFORMANCE",
+		"bio": "<em>Art In Motion</em>. For Usher’s 2012 American Express UNSTAGED concert experience, the R&B superstar didn’t just invite his fans to watch him perform. He invited them to dance with him. On stage. During the live show. Prior to the performance, fans were able to customize avatars that could be featured as virtual backup dancers during the hit song “Scream.” This was just one of the ways fans could immerse themselves in this amazing experience.",
+		"bio-long": [
+			"For Usher’s 2012 American Express UNSTAGED concert experience, the R&B superstar didn’t just invite his fans to watch him perform. He invited them to dance with him. On stage. During the live show. Prior to the performance, fans were able to customize avatars that could be featured as virtual backup dancers during the hit song “Scream.” This was just one of the ways fans could immerse themselves in this amazing experience.",
+			"To help bring this show to life, Usher chose director Hamish Hamilton to capture the interactive performance and all of its incredible details. Together, these two artists collaborated to bring fans the concert of a lifetime.",
+			"On June 11, 2012, Usher took the stage at the Hammersmith Apollo in London. It was a neon-lit, high-energy dance party as Usher showed off his amazing voice and incredible moves. And while he performed some old hits for his longtime fans, the concert mostly showcased new music from the album Looking 4 Myself, which was released a few days earlier. And throughout the performance, fans’ tweets were projected on stage, allowing the online conversation to become a part of the show.",
+			"Innovative technology, heart-thumping music, and incredible dancing came together in this amazing concert experience that allowed fans to take the stage with one of their favorite artists."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/usher",
+			"sharetext": "Check out Usher’s #AmexUNSTAGED performance, directed by Hamish Hamilton at https://www.amexunstaged.com/artists/usher/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Usher",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of Usher’s story in progress, from his musical roots to his latest creative revelations. As told by Hamish Hamilton.",
+			"link":"http://facebook.com/usher"
+		},
+		"instagram": {
+			"link":"http://instagr.am/usher"
+		}
+	}
+},{
+	"name": "Vampire Weekend",
+	"id": "vampireweekend",
+	"artistpagelink":"/artists/vampire-weekend/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17979",
+		"floodlightCat": "unstgdvw",
+		"rmaction": "UnstagedVampireWeekend",
+		"linknav": "vampireweekend"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/vampireweekend/Vampire-Weekend-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Ya-Hey-HERO-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-A-Punk-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Bill-DeBlasio-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Cape-Cod-Kwassa-Kwassa-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Concert-Short-Cut-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Cousins-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Diane-Young-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Dinner-Ep-6-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Diplomats-Son-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Easter-Day-Parade-Ep-5-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Easter-Spirit-Ep-4-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Everlasting-Arms-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Fans-Hunted-Steve Buscemi-Ep-2-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Full-Concert-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Grimes-Buscemi-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Holiday-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Horchata-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Meets-Steve-Buscemi-Ep-1-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Steve-Buscemi-Stops-Traffic-NYC-Ep-3-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Steve-Buscemi-Tour-Guide-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Vampire-Holiday-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-White-Sky-16x9.jpg",
+			"/assets/artists/vampireweekend/16x9/Vampire-Weekend-Ya-Hey-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/vampireweekend/Vampire-Weekend-Ya-Hey-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/vampireweekend/vampire-weekend-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/vampireweekend/vampire-weekend-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-A-Punk-16x9.jpg",
+		"id": "cG7Qf2VT68Y",
+		"title": "A-Punk"
+	},{
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Diane-Young-16x9.jpg",
+		"id": "0lOMg7HgmwY",
+		"title": "Diane Young"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Bill-DeBlasio-16x9.jpg",
+		"id": "a1sBixcZM04",
+		"title": "Bill DeBlasio & Vampire Weekend"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Cape-Cod-Kwassa-Kwassa-16x9.jpg",
+		"id": "rvDbMe5g45c",
+		"title": "Cape Cod Kwassa Kwassa"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Concert-Short-Cut-16x9.jpg",
+		"id": "dqGXMcNVl7E",
+		"title": "Vampire Weekend Live at Roseland, Dir. by Steve Buscemi"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Cousins-16x9.jpg",
+		"id": "plSz8Zb-YRI",
+		"title": "Cousins"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Dinner-Ep-6-16x9.jpg",
+		"id": "UIbdKPYFAhU",
+		"title": "Dinner with Vampire Weekend & Steve Buscemi - Ep 6"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Diplomats-Son-16x9.jpg",
+		"id": "P8P0pY7x9dw",
+		"title": "Diplomat's Son"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Easter-Day-Parade-Ep-5-16x9.jpg",
+		"id": "QpSq7Uw5KYc",
+		"title": "Vampire Weekend Visit the Easter Day Parade - Ep 5"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Easter-Spirit-Ep-4-16x9.jpg",
+		"id": "EPTn-1g-rSM",
+		"title": "Vampire Weekend's Easter Spirit - Ep 4"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Everlasting-Arms-16x9.jpg",
+		"id": "_ps6TjI7ws0",
+		"title": "Everlasting Arms"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Fans-Hunted-Steve Buscemi-Ep-2-16x9.jpg",
+		"id": "qqruY33Yo7c",
+		"title": "Vampire Weekend Fans Hunted by Steve Buscemi - Ep 2"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Full-Concert-16x9.jpg",
+		"id": "5YuHKC4cE1I",
+		"title": "Amex UNSTAGED presents Vampire Weekend dir. by Steve Buscemi"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Grimes-Buscemi-16x9.jpg",
+		"id": "nVBjV2w19jc",
+		"title": "Grimes Gives Steve Buscemi The Brush Off"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Holiday-16x9.jpg",
+		"id": "4XqKffnIbGo",
+		"title": "Holiday"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Horchata-16x9.jpg",
+		"id": "MVpdi0bD6NA",
+		"title": "Horchata"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Meets-Steve-Buscemi-Ep-1-16x9.jpg",
+		"id": "C9Z7vxAhmJw",
+		"title": "Vampire Weekend Meets Steve Buscemi - Ep 1"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Steve-Buscemi-Stops-Traffic-NYC-Ep-3-16x9.jpg",
+		"id": "EU6zFEcc148",
+		"title": "Steve Buscemi Stops Traffic in NYC - Ep 3"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Steve-Buscemi-Tour-Guide-16x9.jpg",
+		"id": "9KaMIv8CoPA",
+		"title": "Steve Buscemi, Tour Guide?"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Vampire-Holiday-16x9.jpg",
+		"id": "JD97rOKWWcw",
+		"title": "Vampire Holiday"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-White-Sky-16x9.jpg",
+		"id": "Dw1LKhpPDYE",
+		"title": "White Sky"
+	}, {
+		"image": "/assets/artists/vampireweekend/16x9/Vampire-Weekend-Ya-Hey-16x9.jpg",
+		"id": "gB9FR27WXhU",
+		"title": "Ya Hey"
+	}],
+
+	"album": {
+		"title": "Loud (Deluxe)",
+		"image": "/assets/artists/vampireweekend/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Steve Buscemi"
+	},
+
+	"eventDate": {
+		"iso": "2013-04-28T00:00:00.000Z",
+		"month": "April",
+		"date": "28",
+		"year": "2013"
+	},
+
+	"meta": {
+		"title": "Vampire Weekend | American Express UNSTAGED",
+		"description": "Watch Vampire Weekend’s American Express UNSTAGED live concert, brought to life by a once-in-a-lifetime collaboration with actor Steve Buscemi.",
+		"keywords": "Vampire Weekend Videos,Vampire Weekend Songs,Vampire Weekend Song ,Vampire Weekend biography,Vampire Weekend Video,Vampire Weekend performance,Vampire Weekend show,Vampire Weekend concert,Vampire Weekend live,Vampire Weekend event,Vampire Weekend picture,Vampire Weekend pictures,Vampire Weekend album,Vampire Weekend albums,Vampire Weekend image,Vampire Weekend images,Vampire Weekend photo,Vampire Weekend photos,Vampire Weekend music,Vampire Weekend facts,Vampire Weekend info,Vampire Weekend playlist,Vampire Weekend movie,Vampire Weekend songs,Vampire Weekend gallery,Vampire Weekend shows,Vampire Weekend new,Vampire Weekend stream,Vampire Weekend streaming,Vampire Weekend music video,Vampire Weekend photoshoot,Vampire Weekend photo shoot,Vampire Weekend vevo,Vampire Weekend youtube,Vampire Weekend in concert,Vampire Weekend performing ,Vampire Weekend performing live,Vampire Weekend live performance,Vampire Weekend live concert,Vampire Weekend ticket,Vampire Weekend tickets,Vampire Weekend live stream,Vampire Weekend live show,Vampire Weekend streaming online,Vampire Weekend ,Vampire,Weekend,Steve Buscemi,Chris Baio"
+	},
+
+	"texts": {
+		"headline": "<em>VAMPIRE WEEKEND</em> LIVE CONCERT",
+		"bio":"<em>Indie rockers light up NYC</em>. When you find out you’re a very distant cousin of actor Steve Buscemi and you happen to be the bass player for Vampire Weekend, the next logical step is to have Steve Buscemi direct your American Express UNSTAGED live-stream concert, right?",
+		"bio-long": [
+			"When you find out you’re a very distant cousin of actor Steve Buscemi and you happen to be the bass player for Vampire Weekend, the next logical step is to have Steve Buscemi direct your American Express UNSTAGED live-stream concert, right? Well, this is exactly what happened to Vampire Weekend’s Chris Baio. It was meant to be. And the resulting collaboration turned out to be a once-in-a-lifetime event for countless Vampire Weekend fans across the globe.",
+			"The American Express UNSTAGED experience began with the release of a web series starring Buscemi and Vampire Weekend. Awkward, uncomfortable, and hilarious in the best way, the docu-style series followed Buscemi and the guys doing different activities together like bowling, painting Easter eggs, and eating brunch.",
+			"All of this led up to a livestream concert directed by Buscemi. On April 28, 2013, Vampire Weekend’s biggest fans flocked to Roseland Ballroom in NYC or tuned in online from around the world. Upon arriving on a stage adorned with floating white columns and a giant, ornate mirror, Vampire Weekend didn’t waste any time and launched right into a 90-minute, high-energy set comprised of songs from each of their albums, including their latest, titled Modern Vampires of the City.",
+			"It was this unlikely yet perfect collaboration between Buscemi and Vampire Weekend that yielded such a unique and special experience for fans."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/vampireweekend",
+			"sharetext": "Check out Vampire Weekend’s #AmexUNSTAGED performance, directed by Steve Buscemi at https://www.amexunstaged.com/artists/vampire-weekend/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Vampire Weekend",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of Vampire Weekend’s story in progress, from their musical roots to their latest creative revelations. As told by Steve Buscemi.",
+			"link":"http://facebook.com/vampireweekend"
+		},
+		"instagram": {
+			"link":"http://instagr.am/vampireweekend"
+		}
+	}
+},{
+	"name": "Kings of Leon",
+	"id": "kingsofleon",
+	"artistpagelink":"/artists/kings-of-leon/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17978",
+		"floodlightCat": "unstgdkl",
+		"rmaction": "UnstagedKingsofLeon",
+		"linknav": "kingsofleon"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/kingsofleon/Kings-of-Leon-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fans-HERO-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Back-Down-South-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Backstage-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Best-Member-Competition-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Black-Thumbnail-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Dont-Matter-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fans-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fine-Tuning-Concert-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Mocks-Drummer-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Schools-The-Band-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Surprises-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Tangles-Equipment-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Knocked Up-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Notion-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Pyro-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Race-Go-Karts-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Radioactive-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Sex-On-Fire-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Supersoaker-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Use-Somebody-16x9.jpg",
+			"/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Who-Is-The-Best-Member-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/kingsofleon/Kings-Of-Leon-Use-Somebody-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/kingsofleon/kings-of-leon-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/kingsofleon/kings-of-leon-LoLoop.mp4"
+		}
+	},
+
+
+	"videos": [{
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Use-Somebody-16x9.jpg",
+		"id": "hYeKHg2MOHU",
+		"title": "Use Somebody"
+	},{
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Sex-On-Fire-16x9.jpg",
+		"id": "qYqGkFBP1gk",
+		"title": "Sex On Fire"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Knocked Up-16x9.jpg",
+		"id": "FyF3GQoj2ho",
+		"title": "Knocked Up"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Back-Down-South-16x9.jpg",
+		"id": "vzTeU4hEIEY",
+		"title": "Back Down South"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Backstage-16x9.jpg",
+		"id": "e5tn2jlUWUk",
+		"title": "Backstage"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Best-Member-Competition-16x9.jpg",
+		"id": "5Ed7g838TdU",
+		"title": "Best Member Competition - Ep 2"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Black-Thumbnail-16x9.jpg",
+		"id": "Kqs4Yylx0e0",
+		"title": "Black Thumbnail"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Dont-Matter-16x9.jpg",
+		"id": "dcYZiKfrJf4",
+		"title": "Don't Matter"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fans-16x9.jpg",
+		"id": "_WogY-8nDPc",
+		"title": "Fans"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fine-Tuning-Concert-16x9.jpg",
+		"id": "iLBG6acwCHc",
+		"title": "Fine-Tuning"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Mocks-Drummer-16x9.jpg",
+		"id": "F3f6bgd6gOo",
+		"title": "Fred Armisen Mocks Drummer Nathan Followill"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Schools-The-Band-16x9.jpg",
+		"id": "Ij7RLyDdTrE",
+		"title": "Fred Armisen Schools The Band - EP 3"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Surprises-16x9.jpg",
+		"id": "7sNtIlhf2l4",
+		"title": "Fred Armisen Surprises Kings Of Leon"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Fred-Armisen-Tangles-Equipment-16x9.jpg",
+		"id": "0A8zfmBQF0M",
+		"title": "Fred Armisen Tangles With Kings Of Leon's Equipment"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Notion-16x9.jpg",
+		"id": "-pvoxXHaB-U",
+		"title": "Notion"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Pyro-16x9.jpg",
+		"id": "oe2ektzVVwU",
+		"title": "Pyro"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Race-Go-Karts-16x9.jpg",
+		"id": "xEpIsbmL_os",
+		"title": "Go Karts"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Radioactive-16x9.jpg",
+		"id": "EmGKY44Air0",
+		"title": "Radioactive"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Supersoaker-16x9.jpg",
+		"id": "QjpmWICuT-Y",
+		"title": "Supersoaker"
+	}, {
+		"image": "/assets/artists/kingsofleon/16x9/Kings-Of-Leon-Who-Is-The-Best-Member-16x9.jpg",
+		"id": "Uw_3d82uN-s",
+		"title": "Who Is The Best Member of Kings Of Leon?"
+	}],
+
+	"album": {
+		"title": "Bull",
+		"image": "/assets/artists/kingsofleon/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Fred Armisen"
+	},
+
+	"eventDate": {
+		"iso": "2013-08-13T00:00:00.000Z",
+		"month": "August",
+		"date": "13",
+		"year": "2013"
+	},
+
+	"meta": {
+		"title": "Kings of Leon | American Express UNSTAGED",
+		"description": "Find out what happens when you pair rockers Kings of Leon and comedic actor Fred Armisen together for an American Express UNSTAGED live performance.",
+		"keywords": "Kings of Leon Videos,Kings of Leon Songs,Kings of Leon Song ,Kings of Leon biography,Kings of Leon Video,Kings of Leon performance,Kings of Leon show,Kings of Leon concert,Kings of Leon live,Kings of Leon event,Kings of Leon picture,Kings of Leon pictures,Kings of Leon album,Kings of Leon albums,Kings of Leon image,Kings of Leon images,Kings of Leon photo,Kings of Leon photos,Kings of Leon music,Kings of Leon facts,Kings of Leon info,Kings of Leon playlist,Kings of Leon movie,Kings of Leon songs,Kings of Leon gallery,Kings of Leon shows,Kings of Leon new,Kings of Leon stream,Kings of Leon streaming,Kings of Leon music video,Kings of Leon photoshoot,Kings of Leon photo shoot,Kings of Leon vevo,Kings of Leon youtube,Kings of Leon in concert,Kings of Leon performing ,Kings of Leon performing live,Kings of Leon live performance,Kings of Leon live concert,Kings of Leon ticket,Kings of Leon tickets,Kings of Leon live stream,Kings of Leon live show,Kings of Leon streaming online,Kings of Leon ,Kings,Leon,Fred Armisen,Mechanical Bull"
+	},
+
+	"texts": {
+		"headline": "<em>Kings Of Leon</em> Live Performance",
+		"bio": "<em>Humor strikes a chord</em>. What happens when you pair rockers Kings of Leon and comedic actor Fred Armisen for an American Express UNSTAGED concert experience? Something special, unique, and really, really funny.",
+		"bio-long": [
+			"What happens when you pair rockers Kings of Leon and comedic actor Fred Armisen for an American Express UNSTAGED concert experience? Something special, unique, and really, really funny.",
+			"To kick things off, a humorous web series featuring Armisen and the band was released in the weeks leading up to the show. Throughout the series, Armisen made it his mission to choose the best band member — he wanted to crown the “King of Kings of Leon.” This episodic content, along with other skits, helped build excitement leading up to the live performance.",
+			"On August 9, 2013, Kings of Leon took the stage at Shepherd’s Bush in London to perform for a sold-out crowd. Countless other fans from around the world streamed the show at home. Those who tuned in early were treated to special preshow content in which Armisen kicked off the performance while playing with tiny replica figures of each band member. Fans got to hear old favorites like “Use Somebody” and “The Bucket,” as well as tracks from their 2013 album Mechanical Bull",
+			"The collaboration between Kings of Leon and Armisen resulted in an epic experience filled with hilarious surprises and incredible music."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/kingsofleon",
+			"sharetext": "Check out Kings Of Leon’s #AmexUNSTAGED performance, directed by Fred Armisen at https://www.amexunstaged.com/artists/kings-of-leon/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Kings of Leon",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of Kings of Leon’s story in progress, from their musical roots to their latest creative revelations. As told by Fred Armisen.",
+			"link":"http://facebook.com/kingsofleon"
+		},
+		"instagram": {
+			"link":"http://instagr.am/kingsofleon"
+		}
+	}
+},{
+	"name": "Tim McGraw",
+	"id": "timmcgraw",
+	"artistpagelink":"/artists/tim-mcgraw/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17975",
+		"floodlightCat": "ustgdtmg",
+		"rmaction": "UnstagedTimMcGraw",
+		"linknav": "timmcgraw"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/timmcgraw/Tim-McGraw-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Shotgun-Rider-HERO-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-One-of-Those-Nights-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Meanwhile-Back-at-Mama-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Two-Lanes-of-Freedom-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Mexicoma-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Southern-Girl-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Diamond-Rings-and-Old-Barstools-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Keep-On-Truckin-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Overrated-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Shotgun-Rider-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Truck Yeah-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Shotgun-Rider2-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Creativity-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-First-Influences-16x9.jpg",
+			"/assets/artists/timmcgraw/16x9/Tim-McGraw-Storytelling-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/timmcgraw/Tim-McGraw-Two-Lanes-of-Freedom-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/timmcgraw/tim-mcgraw-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/timmcgraw/tim-mcgraw-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Meanwhile-Back-at-Mama-16x9.jpg",
+		"id": "62QW4qUyPUU",
+		"title": "Meanwhile Back at Mama’s"
+	},{
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Shotgun-Rider-16x9.jpg",
+		"id": "-UzFfhBS7t4",
+		"title": "Shotgun Rider"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-One-of-Those-Nights-16x9.jpg",
+		"id": "cWi01vkiYQg",
+		"title": "One of Those Nights"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Two-Lanes-of-Freedom-16x9.jpg",
+		"id": "HE065-mTEN0",
+		"title": "Two Lanes of Freedom"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Mexicoma-16x9.jpg",
+		"id": "2Md1zc4bTNM",
+		"title": "Mexicoma"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Southern-Girl-16x9.jpg",
+		"id": "2jnGQOEVR3g",
+		"title": "Southern Girl"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Diamond-Rings-and-Old-Barstools-16x9.jpg",
+		"id": "pEmN_zLh9rU",
+		"title": "Diamond Rings and Old Barstools"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Keep-On-Truckin-16x9.jpg",
+		"id": "v0UA7kPVE3Q",
+		"title": "Keep On Truckin’"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Overrated-16x9.jpg",
+		"id": "CBKTbQL6Ia0",
+		"title": "Overrated"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Truck Yeah-16x9.jpg",
+		"id": "YQRr32-dXbA",
+		"title": "Truck Yeah"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Shotgun-Rider2-16x9.jpg",
+		"id": "BkpuLMsDn48",
+		"title": "Shotgun Rider"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Creativity-16x9.jpg",
+		"id": "ASmEuLewng8",
+		"title": "Tim McGraw & Creativity"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-First-Influences-16x9.jpg",
+		"id": "fdLTip0Xxl4",
+		"title": "Tim McGraw’s First Influences"
+	}, {
+		"image": "/assets/artists/timmcgraw/16x9/Tim-McGraw-Storytelling-16x9.jpg",
+		"id": "jNi73Xv_KsU",
+		"title": "Tim McGraw & Storytelling"
+	}],
+
+	"album": {
+		"title": "Sundown Heaven Town",
+		"image": "/assets/artists/timmcgraw/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Bennett Miller"
+	},
+
+	"eventDate": {
+		"iso": "2014-09-16T00:00:00.000Z",
+		"month": "September",
+		"date": "16",
+		"year": "2014"
+	},
+
+	"meta": {
+		"title": "Tim McGraw | American Express UNSTAGED",
+		"description": "Experience Tim McGraw’s live performance in New York City, which gave fans a truly intimate view of Tim McGraw and the stories behind his songs.",
+		"keywords": "Tim Mcgraw Videos,Tim Mcgraw Songs,Tim Mcgraw Song ,Tim Mcgraw biography,Tim Mcgraw Video,Tim Mcgraw performance,Tim Mcgraw show,Tim Mcgraw concert,Tim Mcgraw live,Tim Mcgraw event,Tim Mcgraw picture,Tim Mcgraw pictures,Tim Mcgraw album,Tim Mcgraw albums,Tim Mcgraw image,Tim Mcgraw images,Tim Mcgraw photo,Tim Mcgraw photos,Tim Mcgraw music,Tim Mcgraw facts,Tim Mcgraw info,Tim Mcgraw playlist,Tim Mcgraw movie,Tim Mcgraw songs,Tim Mcgraw gallery,Tim Mcgraw shows,Tim Mcgraw new,Tim Mcgraw stream,Tim Mcgraw streaming,Tim Mcgraw music video,Tim Mcgraw photoshoot,Tim Mcgraw photo shoot,Tim Mcgraw vevo,Tim Mcgraw youtube,Tim Mcgraw in concert,Tim Mcgraw performing ,Tim Mcgraw performing live,Tim Mcgraw live performance,Tim Mcgraw live concert,Tim Mcgraw ticket,Tim Mcgraw tickets,Tim Mcgraw live stream,Tim Mcgraw live show,Tim Mcgraw streaming online,Tim Mcgraw,Tim,Mcgraw,Bennett Miller,Sundown Heaven Town"
+	},
+
+	"texts": {
+		"headline": "<em>TIM MCGRAW</em> LIVE PERFORMANCE",
+		"bio": "<em>A Country Legend Rocks NYC</em>. How do you give die-hard fans a truly intimate view of somebody as well-known as Tim McGraw? For the 2014 American Express UNSTAGED show at New York City’s Hammerstein Ballroom, director Bennett Miller had an idea: start the show even before McGraw hits the stage.",
+		"bio-long": [
+			"How do you give die-hard fans a truly intimate view of somebody as well-known as Tim McGraw? For the 2014 American Express UNSTAGED show at New York City’s Hammerstein Ballroom, director Bennett Miller had an idea: start the show even before McGraw hits the stage.",
+			"Prior to the performance, Miller went to Tennessee to film McGraw in his element. The resulting short films gave fans an intimate look into his life and the stories behind his songs. The films helped build excitement leading up to the live show. Then, to kick off the night when it finally came, fans got a raw, unscripted look at the star preparing for the show in the moments leading up to the live performance.",
+			"The live concert was timed to the release date of Tim’s newest album, Sundown Heaven Town. Tim introduced the crowd to some new favorites that night, including “Shotgun Rider” and “Meanwhile Back at Mama’s.” And those watching from home could choose their viewing experiences by switching between the director’s stream and alternate cameras. Fans could even vote online to tell Tim what they wanted to hear for an encore.",
+			"No matter where they watched it from — live in NYC or streaming on Vevo or YouTube — Tim’s fans won’t forget that show anytime soon. It was just one of those nights."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/timmcgraw",
+			"sharetext": "Check out Tim McGraw’s #AmexUNSTAGED performance, directed by Bennett Miller at https://www.amexunstaged.com/artists/tim-mcgraw/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Tim McGraw",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of Tim McGraw’s story in progress, from his musical roots to his latest creative revelations. As told by Bennett Miller.",
+			"link":"http://facebook.com/timmcgraw"
+		},
+		"instagram": {
+			"link":"http://instagr.am/timmcgraw"
+		}
+	}
+},{
+	"name": "Taylor Swift",
+	"id": "taylorswift",
+	"artistpagelink":"/artists/taylor-swift/",
+
+	"artisttype": "unstaged",
+
+	"showAppBellow": true,
+
+	"tracking": {
+		"pageid": "17992",
+		"floodlightCat": "unstgdts",
+		"rmaction": "UnstagedTaylorSwift",
+		"linknav": "taylorswift"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/taylorswift/Taylor-Swift-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/taylorswift/16x9/Taylor-Swift-Blank-Space-HERO-16x9.jpg",
+			"/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Song-16x9.jpg",
+			"/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Video-16x9.jpg",
+			"/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Scenes-16x9.jpg",
+			"/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Vision-16x9.jpg",
+			"/assets/artists/taylorswift/16x9/Taylor-Swift-Blank-Space-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/taylorswift/Taylor-Swift-Blank-Space-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/taylorswift/taylor-swift-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/taylorswift/taylor-swift-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/taylorswift/16x9/Taylor-Swift-Blank-Space-16x9.jpg",
+		"id": "e-ORhEE9VVg",
+		"title": "Blank Space"
+	}, {
+		"image": "/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Song-16x9.jpg",
+		"id": "e6PQcmxnccU",
+		"title": "Behind the Song"
+	}, {
+		"image": "/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Video-16x9.jpg",
+		"id": "EXDCcGbnAeE",
+		"title": "Behind the Video"
+	}, {
+		"image": "/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Scenes-16x9.jpg",
+		"id": "HJYZL2oscOg",
+		"title": "Behind the Scenes"
+	}, {
+		"image": "/assets/artists/taylorswift/16x9/Taylor-Swift-Behind-The-Vision-16x9.jpg",
+		"id": "cxNFwnnF2yU",
+		"title": "Behind the Vision"
+	}],
+
+	"album": {
+		"type": "app",
+		"title": "1989",
+		"image": "/assets/artists/taylorswift/album_art.jpg"
+	},
+
+	"heroTitle": "Blank Space Experience",
+
+	"eventDate": {
+		"iso": "2014-11-11T00:00:00.000Z",
+		"month": "November",
+		"date": "11",
+		"year": "2014"
+	},
+
+	"director": {
+		"name": "unknown"
+	},
+
+	"meta": {
+		"title": "Taylor Swift | American Express UNSTAGED",
+		"description": "Watch how American Express UNSTAGED teamed up with global superstar Taylor Swift to create a music video experience like no other.",
+		"keywords": "Taylor Swift Videos,Taylor Swift Songs,Taylor Swift Song ,Taylor Swift biography,Taylor Swift Video,Taylor Swift performance,Taylor Swift show,Taylor Swift concert,Taylor Swift live,Taylor Swift event,Taylor Swift picture,Taylor Swift pictures,Taylor Swift album,Taylor Swift albums,Taylor Swift image,Taylor Swift images,Taylor Swift photo,Taylor Swift photos,Taylor Swift music,Taylor Swift facts,Taylor Swift info,Taylor Swift playlist,Taylor Swift movie,Taylor Swift songs,Taylor Swift gallery,Taylor Swift shows,Taylor Swift new,Taylor Swift stream,Taylor Swift streaming,Taylor Swift music video,Taylor Swift photoshoot,Taylor Swift photo shoot,Taylor Swift vevo,Taylor Swift youtube,Taylor Swift in concert,Taylor Swift performing ,Taylor Swift performing live,Taylor Swift live performance,Taylor Swift live concert,Taylor Swift ticket,Taylor Swift tickets,Taylor Swift live stream,Taylor Swift live show,Taylor Swift streaming online,Taylor Swift,Taylor,Swift,blank space,1989"
+	},
+
+	"texts": {
+		"headline": "<em>ONE VIDEO. ENDLESS POSSIBILITIES.</em>",
+		"bio": "For the first time ever, American Express UNSTAGED teamed up with global superstar Taylor Swift to create a music video experience like no other. Her fans didn’t just watch the video — they went inside it. Using the video for the hit song “Blank Space” from her album 1989, Swift gave her fans the opportunity to explore the video’s story and immerse themselves within it.",
+		"bio-long": [
+			"For the first time ever, American Express UNSTAGED teamed up with global superstar Taylor Swift to create a music video experience like no other. Her fans didn’t just watch the video — they went inside it. Using the video for the hit song “Blank Space” from her album 1989, Swift gave her fans the opportunity to explore the video’s story and immerse themselves within it.",
+			"Set in a gorgeous mansion, the video was shot with 360º cameras that captured every angle of every room. With these panoramic shots, a world was created that allowed fans to discover a plethora of characters, objects, and scenes. In addition to Swift’s character’s story, fans could also follow different plotlines with hidden interactive features woven throughout.",
+			"The interactive video was made available through an exclusive app that fans could download to their devices. Turn on your mobile phone and you were able to explore the video set. Simply tapping on doors allowed you to move freely throughout rooms. The moments of discovery were never-ending.",
+			"Swift’s collaboration with American Express UNSTAGED helped fans experience her music like never before by inspiring countless journeys within one video."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/taylorswift13",
+			"sharetext": "Check out Taylor Swift’s #AmexUNSTAGED Blank Space Experience at https://www.amexunstaged.com/artists/taylor-swift/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Taylor Swift",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of Taylor Swift’s story in progress, from her musical roots to her latest creative revelations. As told by unknown.",
+			"link":"http://facebook.com/taylorswift"
+		},
+		"instagram": {
+			"link":"http://instagr.am/taylorswift"
+		}
+	}
+},{
+	"name": "St. Vincent",
+	"id": "stvincent",
+	"artistpagelink":"/artists/st-vincent/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17994",
+		"floodlightCat": "unstgdsv",
+		"rmaction": "UnstagedStVincent",
+		"linknav": "stvincent"
+	},
+
+	"showFashionLogo": true,
+
+	"artistImages": {
+		"share": "/assets/artists/stvincent/St-Vincent-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/stvincent/16x9/St-Vincent-Birth-In-Reverse-HERO-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Alt-2-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Birth-In-Reverse-Alt-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Digital-Witness-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Digital-Witness-Alt-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Rattlesnake-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Rattlesnake-Alt-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/stvincent/16x9/St-Vincent-Alt-2-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Digital-Witness-Alt-16x9.jpg",
+			"/assets/artists/stvincent/16x9/St-Vincent-Rattlesnake-Alt-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/stvincent/St-Vincent-Performance-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/stvincent/stvincent-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/stvincent/stvincent-LoLoop.mp4"
+		}
+	},
+
+	"videos": [ {
+		"image": "/assets/artists/stvincent/16x9/St-Vincent-Rattlesnake-16x9.jpg",
+		"id": "lgZWGJZHkGM",
+		"title": "Rattlesnake"
+	},{
+		"image": "/assets/artists/stvincent/16x9/St-Vincent-Birth-In-Reverse-Alt-16x9.jpg",
+		"id": "PUYz1J-WkV4",
+		"title": "Birth In Reverse"
+	},{
+		"image": "/assets/artists/stvincent/16x9/St-Vincent-Digital-Witness-16x9.jpg",
+		"id": "FYxJuuyO30U",
+		"title": "Digital Witness"
+	}],
+
+	"album": {
+		"title": "St. Vincent",
+		"image": "/assets/artists/stvincent/album_art.jpg"
+	},
+
+	"heroTitle": "DVF Fall 2014 Collection",
+
+	"eventDate": {
+		"iso": "2014-02-09T00:00:00.000Z",
+		"month": "February",
+		"date": "9",
+		"year": "2014"
+	},
+
+	"director": {
+		"name": "Diane von Furstenberg"
+	},
+
+	"meta": {
+		"title": "St Vincent | American Express UNSTAGED Fashion",
+		"description": "Watch St Vincent's live performance at iconic designer Diane von Furstenberg’s 40th anniversary fashion show during New York’s Fashion Week.",
+		"keywords": "St Vincent Videos, St Vincent Songs, St Vincent Song, St Vincent biography, St Vincent Video, St Vincent performance, St Vincent show, St Vincent concert, St Vincent live, St Vincent event, St Vincent picture, St Vincent pictures, St Vincent album, St Vincent albums, St Vincent image, St Vincent images, St Vincent photo, St Vincent photos, St Vincent music, St Vincent facts, St Vincent info, St Vincent playlist, St Vincent movie, St Vincent songs, St Vincent gallery, St Vincent shows, St Vincent new, St Vincent stream, St Vincent streaming, St Vincent music video, St Vincent photoshoot, St Vincent photo shoot, St Vincent vevo, St Vincent youtube, St Vincent in concert, St Vincent performing, St Vincent performing live, St Vincent live performance, St Vincent live concert, St Vincent ticket, St Vincent tickets, St Vincent live stream, St Vincent live show, St Vincent streaming online, St Vincent, Vincent, Diane Von Furstenberg, New York Fashion Week, Von Furstenberg, Cole Rise"
+	},
+
+	"texts": {
+		"headline": "<em>St. Vincent</em> Live Performance",
+		"bio": "<em>Collaboration is the new black</em>. FIERCE is the only way to describe the American Express UNSTAGED: Fashion experience that brought designer icon Diane von Furstenberg and indie rocker St. Vincent together for one amazing event. Together, these two artists elevated New York Fashion Week 2014 to a whole new level. And the best part? Every fan got a front-row seat.",
+		"bio-long": [
+			"Von Furstenberg’s 40th Anniversary show was truly a feast for the eyes and ears as she unveiled her 2014 Fall/Winter Collection alongside a live performance from St. Vincent. St. Vincent’s original and electric sound was the perfect soundtrack to accompany the colorful, bold patterns that strutted down the catwalk.",
+			"Backstage, photographer Cole Rise snapped pics of the action behind the curtain and uploaded them in real time. Fans got an intimate view of the production team, models, and stylists who help fashion shows come to life.",
+			"The live-streamed event gave every fan the best seat in the house. And fans who joined the conversation with #AmexUNSTAGED during the show were granted digital access to a second performance by St. Vincent, where she debuted new songs “Rattlesnake” and “Birth in Reverse” from her 2014 self-titled album, St. Vincent.",
+			"This creative and innovative American Express UNSTAGED experience was more than just a fashion show or a concert. It was a statement piece."
+		]
+	},
+
+
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/stvincent",
+			"sharetext": "Check out St. Vincent’s #AmexUNSTAGED Fashion performance for DVF’s Fall 2014 Collection at https://www.amexunstaged.com/artists/st-vincent/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring St. Vincent",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Be part of St. Vincent’s story in progress, from her musical roots to her latest creative revelations. As told by Diane von Furstenberg.",
+			"link":"https://www.facebook.com/St.Vincent"
+		},
+		"instagram": {
+			"link":"http://instagr.am/stvincent"
+		}
+	}
+},{
+	"name": "John Legend & The Roots",
+	"id": "johnlegend",
+	"artistpagelink":"/artists/john-legend-the-roots/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17990",
+		"floodlightCat": "unstgdjl",
+		"rmaction": "UnstagedJohnLegend",
+		"linknav": "johnlegend"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/johnlegend/John-Legend-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/johnlegend/16x9/John-Legend-04-HERO-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-01-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-02-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-03-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Education-Members-Project-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Questlove-Dig-The-Crates-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Again-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-CL-Smooth-Our-Generation-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Compared-To-What-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Doing-It-Again-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Questlove-Favorite-Karaoke-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Estelle-You-Got-Me-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Hang-On-In-There-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Hard-Times-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-I Cant-Write-Left-Handed-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-I-Wish-I-Knew-How-It-Would-Feel-to-Be-Free-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Jennifer-Hudson-Be-Grateful-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Little-Ghetto-Boy-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Love-the-Way-It-Should-Be-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Ordinary-People-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Questlove-One-On-One-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Questlove-Wake-Up-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Tweet-Q-A-Part-1-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Save-Room-Green-Light-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Shine-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Spike-Lee-Greets-Fans-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-The-Fire-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-tweet-q&a-pt2-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-tweet-q&a-pt3-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Wake-Up-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-Wake-Up-Everybody-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/johnlegend/16x9/John-Legend-01-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-02-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-03-16x9.jpg",
+			"/assets/artists/johnlegend/16x9/John-Legend-04-HERO-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/johnlegend/John-Legend-Compared-To-What-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/johnlegend/john-legend-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/johnlegend/john-legend-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Ordinary-People-16x9.jpg",
+		"id": "KvbyHCtcpoA",
+		"title": "Ordinary People"
+	},{
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Wake-Up-16x9.jpg",
+		"id": "UKXKJc5DmT4",
+		"title": "Wake Up"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Education-Members-Project-16x9.jpg",
+		"id": "pngaiHp337A",
+		"title": "About Education"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Questlove-Dig-The-Crates-16x9.jpg",
+		"id": "Ua03nyj7U7k",
+		"title": "John Legend and ?uestlove Dig the Crates"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Again-16x9.jpg",
+		"id": "35Ph1euTnaQ",
+		"title": "Again"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-CL-Smooth-Our-Generation-16x9.jpg",
+		"id": "ji6kQl71TYU",
+		"title": "Our Generation ft. CL Smooth"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Compared-To-What-16x9.jpg",
+		"id": "UjPRKtcKRRo",
+		"title": "Compared To What"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Doing-It-Again-16x9.jpg",
+		"id": "0g8jSHxgxp4",
+		"title": "Doing It Again"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Questlove-Favorite-Karaoke-16x9.jpg",
+		"id": "VY3grLr2pbI",
+		"title": "John Legend & ?uestlove on Favorite Karaoke Songs"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Estelle-You-Got-Me-16x9.jpg",
+		"id": "VzZFcfDpw1w",
+		"title": "You Got Me ft. Estelle"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Hang-On-In-There-16x9.jpg",
+		"id": "D5wvYViM74w",
+		"title": "Hang On In There"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Hard-Times-16x9.jpg",
+		"id": "OmbSwCk6_ZA",
+		"title": "Hard Times"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-I Cant-Write-Left-Handed-16x9.jpg",
+		"id": "QnlgRQdfONs",
+		"title": "I Can’t Write Left Handed"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-I-Wish-I-Knew-How-It-Would-Feel-to-Be-Free-16x9.jpg",
+		"id": "6WLQHTndMew",
+		"title": "I Wish I Knew How It Would Feel to Be Free"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Jennifer-Hudson-Be-Grateful-16x9.jpg",
+		"id": "Gd7ZyBrN1xA",
+		"title": "Be Grateful ft. Jennifer Hudson"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Little-Ghetto-Boy-16x9.jpg",
+		"id": "RrPZFXG8fDo",
+		"title": "Little Ghetto Boy"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Love-the-Way-It-Should-Be-16x9.jpg",
+		"id": "38NUqyI4pXI",
+		"title": "Love the Way It Should Be"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Questlove-One-On-One-16x9.jpg",
+		"id": "t_7vBk8NJAg",
+		"title": "John Legend & ?uestlove One on One"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Questlove-Wake-Up-16x9.jpg",
+		"id": "iIVnzmyk3pw",
+		"title": "John Legend & ?uestlove on WAKE UP!"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Tweet-Q-A-Part-1-16x9.jpg",
+		"id": "i0RjE979XE4",
+		"title": "“Tweet Q&A”, Part 1"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Save-Room-Green-Light-16x9.jpg",
+		"id": "228nRD7mkCw",
+		"title": "Save Room/Green Light"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Shine-16x9.jpg",
+		"id": "-T6ZR7bgiEw",
+		"title": "Shine"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Spike-Lee-Greets-Fans-16x9.jpg",
+		"id": "7Zi7lxzOiqQ",
+		"title": "Spike Lee Greets Fans"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-The-Fire-16x9.jpg",
+		"id": "rW1V94mwbDo",
+		"title": "The Fire"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-tweet-q&a-pt2-16x9.jpg",
+		"id": "fGQhhFMZxHY",
+		"title": "“Tweet Q&A”, Part 2"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-tweet-q&a-pt3-16x9.jpg",
+		"id": "j5sMwh4cxls",
+		"title": "“Tweet Q&A”, Part 3"
+	}, {
+		"image": "/assets/artists/johnlegend/16x9/John-Legend-Wake-Up-Everybody-16x9.jpg",
+		"id": "mRJuddRG1KM",
+		"title": "Wake Up Everybody"
+	}],
+
+
+	"album": {
+		"title": "Wake Up!",
+		"image": "/assets/artists/johnlegend/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Spike Lee"
+	},
+
+	"eventDate": {
+		"iso": "2010-09-23T00:00:00.000Z",
+		"month": "September",
+		"date": "23",
+		"year": "2010"
+	},
+
+	"meta": {
+		"title": "John Legend | American Express UNSTAGED",
+		"description": "Watch an incredible American Express UNSTAGED live-streamed performance featuring Legend and The Roots, directed by award winning filmmaker Spike Lee.",
+		"keywords": "John Legend Videos,John Legend Songs,John Legend Song ,John Legend biography,John Legend Video,John Legend performance,John Legend show,John Legend concert,John Legend live,John Legend event,John Legend picture,John Legend pictures,John Legend album,John Legend albums,John Legend image,John Legend images,John Legend photo,John Legend photos,John Legend music,John Legend facts,John Legend info,John Legend playlist,John Legend movie,John Legend songs,John Legend gallery,John Legend shows,John Legend new,John Legend stream,John Legend streaming,John Legend music video,John Legend photoshoot,John Legend photo shoot,John Legend vevo,John Legend youtube,John Legend in concert,John Legend performing ,John Legend performing live,John Legend live performance,John Legend live concert,John Legend ticket,John Legend tickets,John Legend live stream,John Legend live show,John Legend streaming online,John Legend,The Roots,John Legend and the roots,John Legend & the roots,John Legend Roots,Wake up,Wake up!,Jennifer Hudson,Estelle,Roots"
+	},
+
+	"texts": {
+		"headline": "<em>JOHN LEGEND & THE ROOTS</em> PERFORM LIVE",
+		"bio": "<em>Music with a message</em>. In 2008, R&B singer John Legend teamed up with hip-hop band The Roots to begin work on an album of soulful, socially charged 1960s and 1970s covers. After finishing the album in 2011, they titled it Wake Up!, and its classic sound and powerful messages resonated with listeners everywhere. The album’s release coincided with an American Express UNSTAGED live performance directed by award-winning filmmaker Spike Lee. The incredible live-streamed concert featuring Legend and The Roots treated fans around the world to a music experience unlike any other.",
+		"bio-long": [
+			"In 2008, R&B singer John Legend teamed up with hip-hop band The Roots to begin work on an album of soulful, socially charged 1960s and 1970s covers. After finishing the album in 2011, they titled it Wake Up!, and its classic sound and powerful messages resonated with listeners everywhere. The album’s release coincided with an American Express UNSTAGED live performance directed by award-winning filmmaker Spike Lee. The incredible live-streamed concert featuring Legend and The Roots treated fans around the world to a music experience unlike any other.",
+			"Online fans were treated to a special opener. Legend and The Roots started their show with a New Orleans-style second-line march through the streets of NYC. Lee filmed the band as they made their way to the back entrance of concert hall Terminal 5, where they continued to march until they reached the thousands of fans who were cheering them on.",
+			"The show’s set included songs from Wake Up! and John Legend hits like “Green Light” and “Ordinary People.” Legend and The Roots threw in some surprises along the way, with an Arcade Fire cover and a Stevie Wonder medley. And special guest appearances included British R&B singer Estelle and powerhouse vocalist Jennifer Hudson.",
+			"It was an unforgettable show with incredible music and an inspiring message, and American Express UNSTAGED put fans at the heart of it all."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/johnlegend",
+			"sharetext": "Check out John Legend’s and The Roots’s #AmexUNSTAGED performance, directed by Spike Lee at https://www.amexunstaged.com/artists/john-legend-the-roots/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring John Legend & The Roots",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out John Legend & The Roots’s story, from their musical roots to their creative revelations. As told by Spike Lee. ",
+			"link":"http://facebook.com/johnlegend"
+		},
+		"instagram": {
+			"link":"http://instagr.am/johnlegend"
+		}
+	}
+},{
+	"name": "The Killers",
+	"id": "thekillers",
+	"artistpagelink":"/artists/the-killers/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17980",
+		"floodlightCat": "unstgdtk",
+		"rmaction": "UnstagedTheKillers",
+		"linknav": "thekillers"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/thekillers/The-Killers-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/thekillers/16x9/Killers-Here-With-Me-HERO-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Runaways-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Spaceman-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Flesh-And-Bone-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Bling-Confessions-Of-A-King-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Human-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-A-Dustland-Fairytale-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Read-My-Mind-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Mr-Brightside-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-All-These-Things-That-Ive-Done-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Jenny-Was-A-Friend-Of-Mine-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-When-You-Were-Young-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Smile-Like-You-Mean-It-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-An-Eagle-In-Paradise-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Miss-Atomic-Bomb-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Here-With-Me-HERO-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Werner-Herzog-Mini-Documentary-16x9.jpg",
+			"/assets/artists/thekillers/16x9/Killers-Photo-Call-Out-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/thekillers/16x9/Killers-Photo-Call-Out-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/thekillers/Killers-Here-With-Me-1x1.jpg"
+		]
+	},
+
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/thekillers/killers-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/thekillers/killers-LoLoop.mp4"
+		}
+	},
+
+
+	"videos": [{
+		"image": "/assets/artists/thekillers/16x9/Killers-Mr-Brightside-16x9.jpg",
+		"id": "SzujsPIwszA",
+		"title": "Mr. Brightside"
+	},{
+		"image": "/assets/artists/thekillers/16x9/Killers-Miss-Atomic-Bomb-16x9.jpg",
+		"id": "Xy9XPghSqDQ",
+		"title": "Miss Atomic Bomb"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Runaways-16x9.jpg",
+		"id": "b9X34wHLb7k",
+		"title": "Runaways"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Spaceman-16x9.jpg",
+		"id": "O_wIr2f5-_g",
+		"title": "Spaceman"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Flesh-And-Bone-16x9.jpg",
+		"id": "-5Gbs622DL0",
+		"title": "Flesh And Bone"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Bling-Confessions-Of-A-King-16x9.jpg",
+		"id": "I12Mv7L5WQ8",
+		"title": "Bling (Confessions Of A King)"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Human-16x9.jpg",
+		"id": "vyr_czyDWGA",
+		"title": "Human"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-A-Dustland-Fairytale-16x9.jpg",
+		"id": "OHLQLHzJfLE",
+		"title": "A Dustland Fairytale"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Read-My-Mind-16x9.jpg",
+		"id": "V0Fc-9ESU8I",
+		"title": "Read My Mind"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-All-These-Things-That-Ive-Done-16x9.jpg",
+		"id": "ZC9drClwJZo",
+		"title": "All These Things That I've Done"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Jenny-Was-A-Friend-Of-Mine-16x9.jpg",
+		"id": "IuTvvhAZo-o",
+		"title": "Jenny Was a Friend of Mine"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-When-You-Were-Young-16x9.jpg",
+		"id": "dUj9LHLMk2A",
+		"title": "When You Were Young"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Smile-Like-You-Mean-It-16x9.jpg",
+		"id": "G4cmyrosiAA",
+		"title": "Smile Like You Mean It"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-An-Eagle-In-Paradise-16x9.jpg",
+		"id": "dMr0wUTQzcI",
+		"title": "An Eagle in Paradise"
+	}, {
+		"image": "/assets/artists/thekillers/16x9/Killers-Here-With-Me-HERO-16x9.jpg",
+		"id": "TWzyPKt7xwM",
+		"title": "Here With Me"
+	}],
+
+
+	"album": {
+		"title": "Battle Born",
+		"image": "/assets/artists/thekillers/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Werner Herzog"
+	},
+
+	"eventDate": {
+		"iso": "2012-09-18T00:00:00.000Z",
+		"month": "September",
+		"date": "18",
+		"year": "2012"
+	},
+
+	"meta": {
+		"title": "The Killers | American Express UNSTAGED",
+		"description": "Watch The Killers team up with director Werner Herzog for an unforgettable American Express UNSTAGED live performance in the Bronx, New York.",
+		"keywords": "The Killers Videos,The Killers Songs,The Killers Song ,The Killers biography,The Killers Video,The Killers performance,The Killers show,The Killers concert,The Killers live,The Killers event,The Killers picture,The Killers pictures,The Killers album,The Killers albums,The Killers image,The Killers images,The Killers photo,The Killers photos,The Killers music,The Killers facts,The Killers info,The Killers playlist,The Killers movie,The Killers songs,The Killers gallery,The Killers shows,The Killers new,The Killers stream,The Killers streaming,The Killers music video,The Killers photoshoot,The Killers photo shoot,The Killers vevo,The Killers youtube,The Killers in concert,The Killers performing ,The Killers performing live,The Killers live performance,The Killers live concert,The Killers ticket,The Killers tickets,The Killers live stream,The Killers live show,The Killers streaming online,The Killers,Killers,Werner Herzog"
+	},
+
+	"texts": {
+		"headline": "<em>The Killers</em> Live Performance",
+		"bio": "<em>Las Vegas Rock Wins With Fans</em>. In 2012, The Killers teamed up with director Werner Herzog for an unforgettable American Express UNSTAGED concert. The special partnership between these two extraordinary artists resulted in a show where fans were able to virtually collaborate to become a part of the experience.",
+		"bio-long": [
+			"In 2012, The Killers teamed up with director Werner Herzog for an unforgettable American Express UNSTAGED concert. The special partnership between these two extraordinary artists resulted in a show where fans were able to virtually collaborate to become a part of the experience.",
+			"Herzog has an impressive roster of films under his belt and is known for his unique approach to directing. He brought the same artistry and energy to the beautiful short films that featured The Killers at home in Las Vegas, as well as the webcast.",
+			"And on September 18, 2012, The Killers took the stage at the Paradise Theater in the Bronx, New York. Online fans who tuned in early could catch pre-show content that featured the band warming up. And when the show finally started, the band kicked off with the song “Runaways” from their album Battle Born, which was released the same day. The energetic crowd also rocked out to old favorites like “Mr. Brightside” and “Human.”",
+			"During the performance, online fans submitted photos with signs showing their names and hometowns. Those photos were projected onto two giant screens on stage, allowing the live audience to connect with the digital fans. It was an experience that put fans at the heart of the music at an absolutely killer show."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/thekillers",
+			"sharetext": "Check out The Killers’ #AmexUNSTAGED performance, directed by Werner Herzog at https://www.amexunstaged.com/artists/the-killers/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring The Killers",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out The Killers’s story in progress, from their musical roots to their creative revelations. As told by Werner Herzog",
+			"link":"http://facebook.com/thekillers"
+		},
+		"instagram": {
+			"link":"http://instagr.am/thekillers"
+		}
+	}
+},{
+	"name": "Kenny Chesney",
+	"id": "kennychesney",
+	"artistpagelink":"/artists/kenny-chesney/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17982",
+		"floodlightCat": "unstgdkc",
+		"rmaction": "UnstagedKennyChesney",
+		"linknav": "kennychesney"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/kennychesney/Kenny-Chesney-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-You-And-Tequila-HERO-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Poncho-Pre-Show-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Demme-Kenny-Poncho-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Sights-Of-Wildwood-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Feel-Like-A-Rockstar-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-No-Shoes-No-Shirt-No-Problems-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Somewhere-With-You-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Beer-In-Mexico-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Old-Blue-Chair-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Guitars-And-Tiki-Bars-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-Come-Over-16x9.jpg",
+			"/assets/artists/kennychesney/16x9/Kenny-Chesney-On-Unstaged-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/kennychesney/Kenny-Chesney-You-And-Tequila-1x1.jpg"
+		]
+	},
+
+
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/kennychesney/kenny-chesney-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/kennychesney/kenny-chesney-LoLoop.mp4"
+		}
+	},
+
+
+	"videos": [{
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-Somewhere-With-You-16x9.jpg",
+		"id": "ClAds0SRNPw",
+		"title": "Somewhere With You"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-Feel-Like-A-Rockstar-16x9.jpg",
+		"id": "MK6K-ywL1gc",
+		"title": "Feel Like a Rock Star"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-No-Shoes-No-Shirt-No-Problems-16x9.jpg",
+		"id": "ncIbvLCTIig",
+		"title": "No Shoes, No Shirt, No Problems"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-Beer-In-Mexico-16x9.jpg",
+		"id": "Z4_2VlbwOnw",
+		"title": "Beer In Mexico"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-Old-Blue-Chair-16x9.jpg",
+		"id": "6FhXbQRu8Xk",
+		"title": "Old Blue Chair"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-You-And-Tequila-HERO-16x9.jpg",
+		"id": "o4bh8tlYBXk",
+		"title": "You and Tequila"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-Guitars-And-Tiki-Bars-16x9.jpg",
+		"id": "rmpyOXbVMko",
+		"title": "Guitars and Tiki Bars"
+	}, {
+		"image": "/assets/artists/kennychesney/16x9/Kenny-Chesney-Come-Over-16x9.jpg",
+		"id": "YnWzCgRT7c0",
+		"title": "Come Over"
+	}],
+
+
+	"album": {
+		"title": "Big Revival",
+		"image": "/assets/artists/kennychesney/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Jonathan Demme"
+	},
+
+	"eventDate": {
+		"iso": "2012-09-18T00:00:00.000Z",
+		"month": "September",
+		"date": "18",
+		"year": "2012"
+	},
+
+	"meta": {
+		"title": "Kenny Chesney | American Express UNSTAGED",
+		"description": "Country singer Kenny Chesney teamed up with award-winning filmmaker Jonathan Demme for an American Express UNSTAGED live performance that made history.",
+		"keywords": "Kenny Chesney Videos,Kenny Chesney Songs,Kenny Chesney Song ,Kenny Chesney biography,Kenny Chesney Video,Kenny Chesney performance,Kenny Chesney show,Kenny Chesney concert,Kenny Chesney live,Kenny Chesney event,Kenny Chesney picture,Kenny Chesney pictures,Kenny Chesney album,Kenny Chesney albums,Kenny Chesney image,Kenny Chesney images,Kenny Chesney photo,Kenny Chesney photos,Kenny Chesney music,Kenny Chesney facts,Kenny Chesney info,Kenny Chesney playlist,Kenny Chesney movie,Kenny Chesney songs,Kenny Chesney gallery,Kenny Chesney shows,Kenny Chesney new,Kenny Chesney stream,Kenny Chesney streaming,Kenny Chesney music video,Kenny Chesney photoshoot,Kenny Chesney photo shoot,Kenny Chesney vevo,Kenny Chesney youtube,Kenny Chesney in concert,Kenny Chesney performing ,Kenny Chesney performing live,Kenny Chesney live performance,Kenny Chesney live concert,Kenny Chesney ticket,Kenny Chesney tickets,Kenny Chesney live stream,Kenny Chesney live show,Kenny Chesney streaming online,Kenny Chesney,Chesney,Kenny,Jonathan Demme"
+	},
+
+	"texts": {
+		"headline": "<em>KENNY CHESNEY</em> LIVE PERFORMANCE",
+		"bio": "<em>Summer never sounded so good</em>. To celebrate the release of his 2012 album Welcome to the Fishbowl, country music singer Kenny Chesney teamed up with award-winning filmmaker Jonathan Demme for an American Express UNSTAGED concert that made history. That’s because the crowd of over 20,000 fans made it the largest concert in history to be held at Wildwood Beach in New Jersey. Thousands more streamed the live webcast to experience a country superstar give an incredible performance.",
+		"bio-long": [
+			"To celebrate the release of his 2012 album Welcome to the Fishbowl, country music singer Kenny Chesney teamed up with award-winning filmmaker Jonathan Demme for an American Express UNSTAGED concert that made history. That’s because the crowd of over 20,000 fans made it the largest concert in history to be held at Wildwood Beach in New Jersey. Thousands more streamed the live webcast to experience a country superstar give an incredible performance.",
+			"Before the live performance, fans got a chance to watch beautifully directed teasers that showed Chesney’s pre-show rituals. In one film, Demme captured Chesney in a surprisingly relaxed moment with his dog Poncho before heading out onstage in front of thousands of fans.",
+			"With a sparkling ocean, white sand, a ferris wheel, and a rollercoaster as the backdrop, Wildwood Beach was the perfect spot for Kenny Chesney’s American Express UNSTAGED concert. Chesney performed an epic set of 27 songs, including favorites like “She Thinks My Tractor’s Sexy,” “No Shoes, No Shirt, No Problem,” and “You and Tequila.” ",
+			"It was an unforgettable summer night that Chesney fans will remember for years to come."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/kennychesney",
+			"sharetext": "Check out Kenny Chesney’s #AmexUNSTAGED performance, directed by Jonathan Demme at https://www.amexunstaged.com/artists/kenny-chesney/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Kenny Chesney",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Kenny Chesney’s story, from his musical roots to his creative revelations. As told by Jonathan Demme. ",
+			"link":"http://facebook.com/kennychesney"
+		},
+		"instagram": {
+			"link":"http://instagr.am/kennychesney"
+		}
+	}
+},{
+	"name": "Mary J Blige",
+	"id": "maryjblige",
+	"artistpagelink":"/artists/mary-j-blige/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17985",
+		"floodlightCat": "unstgdmj",
+		"rmaction": "UnstagedMaryJBlige",
+		"linknav": "maryjblige"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/maryjblige/Mary-J-Blige-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Mr-Wrong-HERO-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-On-My-Life-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-On-Performing-Live-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-VEVO-News-Interview-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Behind-The-Scenes-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-258-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Nas-Feel-Inside-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-My-Life-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-You-Bring-Me-Joy-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Im-The-Only-Woman-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Im-Going-Down-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Be-Happy-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Be-With-You-16x9.jpg",
+			"/assets/artists/maryjblige/16x9/Mary-J-Blige-Be-Without-You-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/maryjblige/Mary-J-Blige-On-My-Life-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/maryjblige/mary-j-blige-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/maryjblige/mary-j-blige-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-258-16x9.jpg",
+		"id": "C5WYbVqHSmo",
+		"title": "25/8"
+	},{
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Nas-Feel-Inside-16x9.jpg",
+		"id": "-w91uRpxibA",
+		"title": "Feel Inside ft. Nas"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-VEVO-News-Interview-16x9.jpg",
+		"id": "u60XVcCzwxg",
+		"title": "VEVO News Interview"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Mr-Wrong-HERO-16x9.jpg",
+		"id": "mFC2HTsq8-8",
+		"title": "Mr. Wrong"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-My-Life-16x9.jpg",
+		"id": "ajrpVoYYg5E",
+		"title": "My Life"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-You-Bring-Me-Joy-16x9.jpg",
+		"id": "RwXyTV3Ma2M",
+		"title": "You Bring Me Joy"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Im-The-Only-Woman-16x9.jpg",
+		"id": "hJLQvWYJBOI",
+		"title": "I'm The Only Woman"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Im-Going-Down-16x9.jpg",
+		"id": "t2HhTCivvIQ",
+		"title": "I'm Going Down"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Be-Happy-16x9.jpg",
+		"id": "0vk7bfmGhFw",
+		"title": "Be Happy"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Be-With-You-16x9.jpg",
+		"id": "15QkSJ8WqcI",
+		"title": "Be With You"
+	}, {
+		"image": "/assets/artists/maryjblige/16x9/Mary-J-Blige-Be-Without-You-16x9.jpg",
+		"id": "RSX1-iEanXA",
+		"title": "Be Without You"
+	}],
+
+
+	"album": {
+		"title": "The London Sessions",
+		"image": "/assets/artists/maryjblige/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Adam Shankman"
+	},
+
+	"eventDate": {
+		"iso": "2012-09-18T00:00:00.000Z",
+		"month": "September",
+		"date": "18",
+		"year": "2012"
+	},
+
+	"meta": {
+		"title": "Mary J Blige | American Express UNSTAGED",
+		"description": "Watch Mary J Blige’s incredible live performance for her biggest fans around the world, directed by filmmaker and producer Adam Shankman.",
+		"keywords": "Mary J Blige Videos,Mary J Blige Songs,Mary J Blige Song ,Mary J Blige biography,Mary J Blige Video,Mary J Blige performance,Mary J Blige show,Mary J Blige concert,Mary J Blige live,Mary J Blige event,Mary J Blige picture,Mary J Blige pictures,Mary J Blige album,Mary J Blige albums,Mary J Blige image,Mary J Blige images,Mary J Blige photo,Mary J Blige photos,Mary J Blige music,Mary J Blige facts,Mary J Blige info,Mary J Blige playlist,Mary J Blige movie,Mary J Blige songs,Mary J Blige gallery,Mary J Blige shows,Mary J Blige new,Mary J Blige stream,Mary J Blige streaming,Mary J Blige music video,Mary J Blige photoshoot,Mary J Blige photo shoot,Mary J Blige vevo,Mary J Blige youtube,Mary J Blige in concert,Mary J Blige performing ,Mary J Blige performing live,Mary J Blige live performance,Mary J Blige live concert,Mary J Blige ticket,Mary J Blige tickets,Mary J Blige live stream,Mary J Blige live show,Mary J Blige streaming online,Mary J Blige,Mary ,Mary J,Blige,Mary J. Blige,Adam Shankman"
+	},
+
+	"texts": {
+		"headline": "<em>MARY J. BLIGE</em> LIVE PERFORMANCE",
+		"bio": "<em>A singer bares her soul</em>.  Over the course of her almost 30-year career, R&B singer Mary J. Blige has always maintained a strong connection with her fans. Her raw emotion and honesty has made her relatable and inspiring to millions around the world. Her 1994 album My Life was a particularly personal one, detailing the challenges she was experiencing at the time. But in 2011, her journey came full circle with the release of the album My Life II: The Journey Continues (Act 1), and American Express was proud to help her share the continuation of her story with an incredible American Express UNSTAGED concert experience.",
+		"bio-long": [
+			"Over the course of her almost 30-year career, R&B singer Mary J. Blige has always maintained a strong connection with her fans. Her raw emotion and honesty has made her relatable and inspiring to millions around the world. Her 1994 album My Life was a particularly personal one, detailing the challenges she was experiencing at the time. But in 2011, her journey came full circle with the release of the album My Life II: The Journey Continues (Act 1), and American Express was proud to help her share the continuation of her story with an incredible American Express UNSTAGED concert experience.",
+			"Blige teamed up with filmmaker and producer Adam Shankman to direct her live-streamed performance. Together, they developed an experience that allowed her fans to collaborate virtually with her. Prior to the performance, fans submitted meaningful photos that were shared on screen during the show, adding even more emotion to the evening.",
+			"That night at the Nokia Theater in Los Angeles, Blige performed an incredible show for her biggest fans around the world. Her powerhouse vocals were crystal clear as she belted out songs like “I’m Going Down,” “Be Happy,” “25/8,” and “Be Without You.” A huge screen onstage served as a backdrop to her journey, displaying old photos and videos from earlier in her career.",
+			"The live and digital music experience allowed Blige to continue to connect with fans in her own personal way. Because she doesn't just sing her heart out — she shares it too."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/maryjblige",
+			"sharetext": "Check out Mary J. Blige’s #AmexUNSTAGED performance, directed by Adam Shankman at https://www.amexunstaged.com/artists/mary-j-blige/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Mary J Blige",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Mary J. Blige’s story, from her musical roots to her creative revelations. As told by Adam Shankman.",
+			"link":"http://facebook.com/maryjblige"
+		},
+		"instagram": {
+			"link":"http://instagr.am/maryjblige"
+		}
+	}
+},{
+	"name": "Sugarland",
+	"id": "sugarland",
+	"artistpagelink":"/artists/sugarland/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "17989",
+		"floodlightCat": "unstgdsl",
+		"rmaction": "UnstagedSugarland",
+		"linknav": "sugarland"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/sugarland/Sugarland-SocialShare.png",
+
+		"rectangle": [
+			"/assets/artists/sugarland/16x9/Sugarland-wide-open-HERO-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-stuck-like-glue-alt-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-tune-in-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-Jennifer-Nettles-and-Kristian-Bush-One-on-One-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-Sound-Stage-Steampunk-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-tweet-q&a-pt3-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-tweet-q&a-pt2-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-tweet-q&a-pt1-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-pre-show-kenny-ortega-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-tonight-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-already-gone-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-stuck-like-glue-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-incredible-machine-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-settlin-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-all-i-want-to-do-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/sugarland/16x9/Sugarland-stuck-like-glue-alt-16x9.jpg",
+			"/assets/artists/sugarland/16x9/Sugarland-tune-in-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/sugarland/Sugarland-already-gone-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/sugarland/sugarland-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/sugarland/sugarland-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/sugarland/16x9/Sugarland-stuck-like-glue-16x9.jpg",
+		"id": "8btEU5-fUEE",
+		"title": "Stuck Like Glue"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-Jennifer-Nettles-and-Kristian-Bush-One-on-One-16x9.jpg",
+		"id": "35ZbNSIe1k4",
+		"title": "Jennifer Nettles and Kristian Bush One-on-One"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-Sound-Stage-Steampunk-16x9.jpg",
+		"id": "jUnmOu60Eu8",
+		"title": "Sound, the Stage and Steampunk"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-tweet-q&a-pt3-16x9.jpg",
+		"id": "6NFDpr51k9Y",
+		"title": "Tweet Q&A, Pt. 3"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-tweet-q&a-pt2-16x9.jpg",
+		"id": "P8ted4duzak",
+		"title": "Tweet Q&A, Pt. 2"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-tweet-q&a-pt1-16x9.jpg",
+		"id": "ewH1DBJ5pcg",
+		"title": "Tweet Q&A, Pt. 1"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-pre-show-kenny-ortega-16x9.jpg",
+		"id": "Oe0L9xP87m0",
+		"title": "Pre-Show with Kenny Ortega"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-tonight-16x9.jpg",
+		"id": "Pok6WDCRaWI",
+		"title": "Tonight"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-already-gone-16x9.jpg",
+		"id": "vHB2NP2Cr5M",
+		"title": "Already Gone"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-incredible-machine-16x9.jpg",
+		"id": "HmFcrHbHoAA",
+		"title": "Incredible Machine"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-settlin-16x9.jpg",
+		"id": "x0knxFjOYjE",
+		"title": "Settlin'"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-wide-open-HERO-16x9.jpg",
+		"id": "6WymbOPCLuA",
+		"title": "Wide Open"
+	}, {
+		"image": "/assets/artists/sugarland/16x9/Sugarland-all-i-want-to-do-16x9.jpg",
+		"id": "XaSSj6kxjck",
+		"title": "All I Want To Do"
+	}],
+
+	"album": {
+		"title": "The Incredible Machine",
+		"image": "/assets/artists/sugarland/album_art.jpg"
+	},
+
+	"director": {
+		"name": "Kenny Ortega"
+	},
+
+	"eventDate": {
+		"iso": "2012-09-18T00:00:00.000Z",
+		"month": "September",
+		"date": "18",
+		"year": "2012"
+	},
+
+	"meta": {
+		"title": "Sugarland | American Express UNSTAGED",
+		"description": "Watch how Sugarland’s American Express UNSTAGED live performance gave fans rare access into the lives of members Jennifer Nettles and Kristian Bush.",
+		"keywords": "Sugarland Videos,Sugarland Songs,Sugarland Song ,Sugarland biography,Sugarland Video,Sugarland performance,Sugarland show,Sugarland concert,Sugarland live,Sugarland event,Sugarland picture,Sugarland pictures,Sugarland album,Sugarland albums,Sugarland image,Sugarland images,Sugarland photo,Sugarland photos,Sugarland music,Sugarland facts,Sugarland info,Sugarland playlist,Sugarland movie,Sugarland songs,Sugarland gallery,Sugarland shows,Sugarland new,Sugarland stream,Sugarland streaming,Sugarland music video,Sugarland photoshoot,Sugarland photo shoot,Sugarland vevo,Sugarland youtube,Sugarland in concert,Sugarland performing ,Sugarland performing live,Sugarland live performance,Sugarland live concert,Sugarland ticket,Sugarland tickets,Sugarland live stream,Sugarland live show,Sugarland streaming online,Sugarland,Sugar Land,Jennifer Nettles,Kristian Bush,The Incredible Machine"
+	},
+
+	"texts": {
+		"headline": "<em>SUGARLAND</em> LIVE PERFORMANCE",
+		"bio": "<em>Duo gives fans a sweet show</em>. With over 14 million records sold and a long list of awards under their belts, Sugarland is one of country music’s biggest acts. And in 2010, they teamed up with seasoned producer and director Terry Ortega for an epic American Express UNSTAGED live concert. The immersive experience gave fans a front-row seat to Sugarland’s music and let them to get up close and personal with the down-to-earth duo.",
+		"bio-long": [
+			"With over 14 million records sold and a long list of awards under their belts, Sugarland is one of country music’s biggest acts. And in 2010, they teamed up with seasoned producer and director Terry Ortega for an epic American Express UNSTAGED live concert. The immersive experience gave fans a front-row seat to Sugarland’s music and let them to get up close and personal with the down-to-earth duo.",
+			"Sugarland’s American Express UNSTAGED experience gave fans rare access into the lives of members Jennifer Nettles and Kristian Bush. Before the live performance, fans got a chance to join the conversation by tweeting questions to the duo using #AmexSugarland. They were then able to tune in to see if their questions were answered in a series of filmed discussions led by Ortega.",
+			"The live-streamed performance was held at New York City’s Best Buy Theater on October 18, 2010. Online fans could choose their own camera angle for a customized viewing experience that took them inside the action. The show coincided with the duo’s release of their album The Incredible Machine, and the audience was the first to hear the live debut of the album’s hit single “Tonight.”Throughout the performance, special guests Jon Bon Jovi, Ronnie Dunn, Little Big Town, and others joined Sugarland on stage, taking an already fun show to the next level."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/sugarland",
+			"sharetext": "Check out Sugarland’s #AmexUNSTAGED performance, directed by Kenny Ortega at https://www.amexunstaged.com/artists/sugarland/"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Sugarland",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Sugarland’s story, from their musical roots to their creative revelations. As told by Kenny Ortega.",
+			"link":"http://facebook.com/sugarland"
+		},
+		"instagram": {
+			"link":"http://instagr.am/sugarland"
+		}
+	}
+}, {
+	"name": "Disclosure",
+	"id": "disclosure",
+	"artistpagelink":"/artists/disclosure/",
+
+	"artisttype": "unstaged",
+
+	"showAlbumBelow": false,
+
+	"tracking": {
+		"pageid": "19883",
+		"floodlightCat": "unstgdsl",
+		"rmaction": "UnstagedDisclosure",
+		"linknav": "disclosure"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/disclosure/Disclosure-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/disclosure/16x9/Disclosure-HeroImage-Latch.jpg",
+			"/assets/artists/disclosure/16x9/Disclosure-Hero-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/disclosure/16x9/Disclosure-Hero-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/disclosure/Disclosure-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/disclosure/Disclosure-Concert-Trailer-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/disclosure/Disclosure-Concert-Trailer-loLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-Latch.jpg",
+		"id": "X6a7nZRF1ZE",
+		"title": "Latch ft. Sam Smith"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-Jaded.jpg",
+		"id": "htYeD3bTL7s",
+		"title": "Jaded"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-Magnets.jpg",
+		"id": "YeWR8FfXUds",
+		"title": "Magnets"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-MovingMountains.jpg",
+		"id": "dvQok4pc_8w",
+		"title": "Moving Mountains ft. Brendan Reilly"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-Echoes.jpg",
+		"id": "Y5x4-jJBiw4",
+		"title": "Echoes"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-Nocturnal.jpg",
+		"id": "4E0bgxgncrE",
+		"title": "Nocturnal"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-WillingAndAble.jpg",
+		"id": "nI4YvTAd6-Q",
+		"title": "Willing and Able"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-BangThatWhenAFireStartsToBurnMedley.jpg",
+		"id": "DaFc00VfYFw",
+		"title": "Bang That / WAFSTB"
+	},{
+		"image": "/assets/artists/disclosure/Disclosure-Thumbnail-Hourglass.jpg",
+		"id": "9q42dXdDiis",
+		"title": "Hourglass ft. Lion Babe"
+	},{
+		"image": "/assets/artists/disclosure/16x9/Disclosure-Concert-Trailer-16x9.jpg",
+		"id": "2k6_MkGW8AY",
+		"title": "Disclosure With James Corden"
+	},{
+		"image": "/assets/artists/disclosure/16x9/Disclosure-Disclose-Your-Face-16x9.jpg",
+		"id": "YAOz4Xydato",
+		"title": "Disclose Your Face"
+	},{
+		"image": "/assets/artists/disclosure/16x9/Disclosure-Journey-Trailer-HERO.jpg",
+		"id": "fgQTgZUT8js",
+		"title": "Setting The Stage"
+	},{
+		"image": "/assets/artists/disclosure/16x9/Disclosure-Journey-Film-Early-Days-HERO.jpg",
+		"id": "j76wQ6qFdmo",
+		"title": "The Early Days"
+	},{
+		"image": "/assets/artists/disclosure/16x9/Disclosure-Carcal-HERO.jpg",
+		"id": "Yc5AnpzaRzM",
+		"title": "Inspiration Behind Caracal"
+	},{
+		"image": "/assets/artists/disclosure/16x9/Disclosure-James-Corden-Plan-HERO.jpg",
+		"id": "z3cDygff18U",
+		"title": "James Corden's Plan"
+	}],
+
+	"album": {
+		"action": "download",
+		"type": "album",
+		"title": "Caracal",
+		"image": "/assets/artists/disclosure/album_art.jpg",
+		"googleplayUrl": "https://play.google.com/store/music/album/Disclosure_Caracal_Deluxe?id=Bh3azxk267jwm4j3v3zoowas7q4",
+		"itunesUrl": "http://geni.us/2jHh"
+	},
+
+	"with": {
+		"name": "James Corden"
+	},
+
+	"eventDate": {
+		"iso": "2015-09-30T00:00:00.000Z",
+		"month": "September",
+		"date": "29",
+		"year": "2015",
+		"time": "9PM",
+		"coast": "PT"
+	},
+
+	"meta": {
+		"title": "Disclosure | American Express UNSTAGED",
+		"description": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Disclosure’s story, from their musical roots to their creative revelations. As told by James Corden.",
+		"keywords": "American Express, Amex, UNSTAGED, Disclosure, music, concert, Caracal, selfie, mask, face, app, unstaged app, video screen, background, disclose your face, on stage, live stream, livestream, live concert, disclosure band, James Corden"
+	},
+
+	"texts": {
+		"headline": "<em>DISCLOSURE</em> Live Performance",
+		"bio": "<em>‘Caracal’ released September 25th on PMR / Island.</em>. With a Grammy for Best Dance Album, record-breaking album sales, and numerous nominations for Brit Awards and the Mercury Music Prize, Disclosure has seen a meteoric rise that continues to cast a profound influence on the musical landscape this decade.It’s amazing when you think they achieved all this as teenagers, just out of school. With ‘Caracal’, their sophomore album, they assert themselves as platinum-grade songwriters. There’s a renewed depth and skill to this latest work they say, “It’s songwriting in its classic form, songs you can play on the piano.”",
+		"bio-long": [
+			"With a Grammy for Best Dance Album, record-breaking album sales, and numerous nominations for Brit Awards and the Mercury Music Prize, Disclosure has seen a meteoric rise that continues to cast a profound influence on the musical landscape this decade. It’s amazing when you think they achieved all this as teenagers, just out of school. With ‘Caracal’, their sophomore album, they assert themselves as platinum-grade songwriters. There’s a renewed depth and skill to this latest work they say, “It’s songwriting in its classic form, songs you can play on the piano.”",
+			"Their latest material shows off the newly pronounced roles within Disclosure: Guy takes the reins as producer, as Howard moves to the foreground of songwriting. “We wanted to write songs with loads of singers so there are no instrumentals.” says Howard. “When you get the chance to work with amazing people you want to make the most of them.” ‘Holding On’ features the Sacramento-born, Grammy award-winning jazz vocalist Gregory Porter. It’s a rapture of soul that shows how comfortable the brothers are in tripping between genres with confidence and style. “We’re still getting better and there’s no point taking a break - reflecting will come right at the end,” says Guy.",
+			"Acknowledging their sophistication as writers and producers, however, does little to prepare fans for their live performance. Disclosure had some of the most memorable shows of the live touring circuit over the last few years and the new shows for Caracal will be even bigger and crazier. Just like the wild cat for which they named their album, Disclosure are a rare breed, and with that they’re completely unique and utterly independent in what they stand for and bring to the frontier of electronic music.",
+			"On September 29, 2015, Disclosure took the stage at the Los Angeles Sports Arena with guest appearances by Lion Babe, Brendan Reilly, and Sam Smith. Fans who downloaded the UNSTAGED app could catch exclusive pre-show content and get a behind-the-scenes look at the show, only available in-app.",
+			"Disclosure lovers around the world were also invited to customize their own personal Disclosure Face for a chance to be featured on stage during the live show, as well as in the gallery on amexunstaged.com and in the app. During a portion of the live performance, users’ submissions became part of the stage show, animating on screen as Guy and Howard performed. A stream of the submissions was also featured as an alternate camera angle available throughout the show. Once again, UNSTAGED provided fans with special access to one of their favorite artists, for those watching at home as well as those at the venue itself."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/disclosure",
+			"sharetext": "Check out Disclosure’s #AmexUNSTAGED performance with James Corden at AmexUNSTAGED.com/artists/Disclosure"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Disclosure",
+			"sharedescription": "More than a live-streaming concert series, American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Disclosure’s story, from their musical roots to their creative revelations. As told by James Corden.",
+			"link":"http://facebook.com/disclosure"
+		},
+		"instagram": {
+			"link":"http://instagr.am/disclosure"
+		}
+	}
+}, {
+	"name": "Ellie Goulding",
+	"id": "elliegoulding",
+	"artistpagelink":"/artists/ellie-goulding/",
+
+	"artisttype": "unstaged",
+
+	"showAlbumBelow": true,
+
+	"tracking": {
+		"pageid": "19888",
+		"floodlightCat": "egevrgrn",
+		"rmaction": "UnstagedEllieGoulding",
+		"linknav": "elliegoulding",
+		"researchNow": "ElliePre"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/elliegoulding/Ellie-Goulding-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/elliegoulding/16x9/OnMyMind-HeroImage-200KB.jpg"
+		],
+		"gallery": [
+			"/assets/artists/elliegoulding/16x9/LoveMeLikeYouDo-HeroImage-200KB.jpg",
+			"/assets/artists/elliegoulding/16x9/Amex_EllieGoulding_48HR_HERO.jpg",
+			"/assets/artists/elliegoulding/16x9/Ellie-Goulding-Trailer-HERO.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieGoulding-JourneyFilm-HeroImage-FindingTheLight.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_1.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_2.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_3.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_4.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_5.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_6.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_7.jpg",
+			"/assets/artists/elliegoulding/16x9/EllieConcert_8.jpg"
+		],
+		"square": [
+			"/assets/artists/elliegoulding/EllieGoulding-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/elliegoulding/OnMyMind-ShLoop-5sec.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/elliegoulding/OnMyMind-LoLoop-15sec.mp4"
+		}
+	},
+
+	"videos": [{	
+		"image": "/assets/artists/elliegoulding/OnMyMind-Thumbnail-100KB.jpg",
+		"id": "9GEQI8Zx_S4",
+		"title": "On My Mind"
+	},{	
+		"image": "/assets/artists/elliegoulding/LoveMeLikeYouDo-Thumbnail-100KB.jpg",
+		"id": "PB0zEoXjVU0",
+		"title": "Love Me Like You Do"
+	},{	
+		"image": "/assets/artists/elliegoulding/SomethingInTheWayYouMove-Thumbnail-100kb.jpg",
+		"id": "K-Hj7eBCq_w",
+		"title": "Something In The Way You Move"
+	},{	
+		"image": "/assets/artists/elliegoulding/Outside-Thumbnail-100kb.jpg",
+		"id": "fqz5F69maDc",
+		"title": "Outside"
+	},{	
+		"image": "/assets/artists/elliegoulding/AnythingCouldHappen-Thumbnail-100KB.jpg",
+		"id": "Snh8-FB_OQw",
+		"title": "Anything Could Happen"
+	},{	
+		"image": "/assets/artists/elliegoulding/Explosions-Thumbnail-100KB.jpg",
+		"id": "-u8Oxph-_tA",
+		"title": "Explosions"
+	},{	
+		"image": "/assets/artists/elliegoulding/Army-Thumbnail-100KB.jpg",
+		"id": "ZgR17VvCjxo",
+		"title": "Army"
+	},{	
+		"image": "/assets/artists/elliegoulding/DontPanic-Thumbnail-100KB.jpg",
+		"id": "w2xyn89UeJU",
+		"title": "Don't Panic"
+	},{
+		"image": "/assets/artists/elliegoulding/EllieGoulding-JourneyFilm-Thumbnail-FindingTheLight.jpg",
+		"id": "r4a2kfzdGyw",
+		"title": "Finding the Light"
+	},{
+		"image": "/assets/artists/elliegoulding/Ellie-Goulding-Trailer-THUMB.jpg",
+		"id": "TVY4k87ho3A",
+		"title": "Trailer"
+	}],
+
+	"album": {
+		"action": "download",
+		"type": "album",
+		"title": "Delirium",
+		"image": "/assets/artists/elliegoulding/album_art.jpg",
+		"googleplayUrl": "http://amex.co/232idxt",
+		"itunesUrl": "http://geni.us/1yWf"
+	},
+
+	"noise": [
+	  {
+	  	"hideShow": "show",
+	    "id": "Gavin_James_SnapchatTakeover_Unlock_Poll",
+	    "type": "snapchat",
+	    "typeLink": "https://www.billboard.com",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "Sept. 16th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Gavin James unlock a Snapchat takeover",
+	    "shareCopyDone": "Congrats! You’ve helped Gavin James unlock a Snapchat takeover.",
+	    "thankYouOverlay": "We hope you enjoyed <em>Gavin James'</em> Snapchat Takeover",
+	    "eventDateState": "Check out <em>Gavin James'</em> Snapchat takeover on",
+	    "twitterShare": "I’m helping @GavinJames get a @Billboard Snapchat takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/gavin-james/",
+	    "facebookShare": "I’m helping @Gavin James get a @Billboard Snapchat takeover w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/gavin-james/ to join in and help unlock it!"
+	  },
+	  {
+	  	"hideShow": "show",
+	    "id": "Gavin_James_BillboardQA_Unlock_Poll",
+	    "type": "billboard",
+	    "typeLink": "https://twitter.com/billboard",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "June 30th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Gavin James unlock a Twitter Q&A",
+	    "shareCopyDone": "Congrats! You’ve helped Gavin James unlock a Twitter Q&A.",
+	    "thankYouOverlay": "Thank you for helping <em>Gavin James</em> unlock these amazing opportunities.",
+	    "stayTuned": "Stay tuned for more details.",
+	    "eventDateState": "Check out <em>Gavin James'</em> Twitter Q&A on",
+	    "twitterShare": "I’m helping @GavinJames get a @Billboard Twitter Q&A w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/gavin-james/",
+	    "facebookShare": "I’m helping @Gavin James get a @Billboard Twitter Q&A w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/gavin-james/ to join in and help unlock it!"
+	  }
+	],
+
+	"eventDate": {
+		"iso": "2015-11-11T20:00:00.000Z",
+		"month": "November",
+		"date": "11",
+		"year": "2015",
+		"time": "8PM",
+		"coast": "ET",
+		"opTime": "5PM",
+		"opCoast": "PT"
+	},
+
+	"director": {
+		"name": "Scarlett Johansson"
+	},
+
+	"meta": {
+		"title": "Ellie Goulding | American Express UNSTAGED",
+		"description": "More than a live-streaming concert series. American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Ellie Goulding’s story, from her musical roots to her creative revelations. As told by Scarlett Johansson",
+		"keywords": "Love Me Like You Do, On My Mind, Ellie Goulding live in concert, Ellie Goulding, American Express, Amex , Amex UNSTAGED, Ellie Goulding live stream, Unstaged App, live concert streaming, music, Hammerstein Ballroom, Scarlett Johansson, concert streaming app, Delirium, Anything Could Happen, Ellie Goulding concert in New York”"
+	},
+
+	"texts": {
+		"headline": "<em>Ellie Goulding</em>",
+		"bio": "After five tumultuous years of professional and personal transformation, Ellie Goulding has arrived at a point in her career where the songs she is writing bear witness to the place she is in now. Over the course of those years, the British singer and songwriter has sold over six million albums and 20 million singles worldwide. She has scored six consecutive platinum singles: “Lights,” “Anything Could Happen,” “I Need Your Love,” “Burn,” “Outside” and “Love Me Like You Do” (which went to No. 1 on the iTunes chart in over 70 countries and broke the record for most streamed song in one week on Spotify). She has racked up has over one billion plays on both YouTube and Spotify. Goulding has also performed at the world’s biggest festivals, including Coachella, Bonnaroo, Lollapalooza, Glastonbury, and Outside Lands, and collaborated with such top producers as Calvin Harris, Skrillex, Zedd, Diplo, and Max Martin.",
+		"bio-long": [
+			"After five tumultuous years of professional and personal transformation, Ellie Goulding has arrived at a point in her career where the songs she is writing bear witness to the place she is in now. Over the course of those years, the British singer and songwriter has sold over six million albums and 20 million singles worldwide. She has scored six consecutive platinum singles: “Lights,” “Anything Could Happen,” “I Need Your Love,” “Burn,” “Outside” and “Love Me Like You Do” (which went to No. 1 on the iTunes chart in over 70 countries and broke the record for most streamed song in one week on Spotify). She has racked up has over one billion plays on both YouTube and Spotify. Goulding has also performed at the world’s biggest festivals, including Coachella, Bonnaroo, Lollapalooza, Glastonbury, and Outside Lands, and collaborated with such top producers as Calvin Harris, Skrillex, Zedd, Diplo, and Max Martin. ",
+			"Some artists might be intimidated to consider where to go after achieving such success, but Goulding had no doubts: For her third album, Delirium, she wanted to make everything bigger, better, and braver. She says, “I knew I wanted it be on another level.” The result is an expansive pop album that lays out a new narrative for the next stage of Goulding’s remarkable journey. Delirium was written and recorded in London, Goulding’s native Herefordshire, Sweden, and Los Angeles with Max Martin, Greg Kurstin, One Republic’s Ryan Tedder, Klas Ahlund, and Disclosure’s Guy Lawrence, as well as long-time writing partner Jim Eliot. They have helped her craft a career-defining, jubilant, and euphoric pop statement.",
+			"Delirium, is a word Goulding felt summed up everything she’d been through to get to this point. Goulding made Halcyon during a particularly difficult period in her life, but it is only now, she says, that she understands quite how emotional that album was for her. “It was a dark time, but I didn’t realize how dark until I started writing and recording the new album, and felt so much happier doing it. On Halcyon, I was clearly trying to express that darkness, like a cry for help. Making Delirium was, by contrast, a joyful experience. Delirium takes all the trademarks of Goulding’s talent — that extraordinary, soaring voice, the forensic candor and self-inquiry of her lyrics, the pulsing beats of the electronic music that first ensnared her as a teenager — and turns up the heat.",
+			"“I know myself so well now,” she says. “There’s a new level of acceptance, and that comes from confidence. I used to be horribly shy when I started out. You can tell if you look at photographs of me from that time — the way I posed, the clothes I wore. I was uncomfortable in my own skin.” “I don’t come from a well-off background with supportive parents. I came from a not particularly great place and got myself to an amazing one. I used to be embarrassed about it, but not anymore. I couldn’t be more open — it’s gotten me all this way. And I think that’s pretty cool. I want that to be inspirational.”",
+			"On November 11th, Ellie Goulding performed to a packed house at the Hammerstein Ballroom in NYC. She played a medley of old favorites and new hits from her just-released album, Delirium. Fans who downloaded the UNSTAGED app caught exclusive pre-show content showing Ellie getting pumped up to hit the stage. Additionally, in the UNSTAGED live feed, available only in-app, fans got an additional perspective of the concert – including a look at behind-the-scenes with the show’s director, Scarlett Johansson.",
+			"The at home and in-venue audience had the unique opportunity to impact the live show by voting on various visual elements via Twitter. During the live show, fans voting outcomes were revealed and visually represented on stage with a shower of bubbles during ‘I Need Your Love’ and a burst of confetti during ‘Burn’. It was an awesome night where American Express once again gave fans around the world exclusive access to a fan-favorite artist like Ellie Goulding."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/elliegoulding",
+			"sharetext": "Relive @elliegoulding's #AmexUNSTAGED concert livestream directed by Scarlett Johansson at AmexUNSTAGED.com/EllieGoulding"
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Ellie Goulding",
+			"sharedescription": "More than a live-streaming concert series. American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Ellie Goulding’s story, from her musical roots to her creative revelations. As told by Scarlett Johansson",
+			"link":"http://facebook.com/elliegoulding"
+		},
+		"instagram": {
+			"link":"http://instagr.am/elliegoulding"
+		}
+	}
+}, {
+	"name": "Dead & Company",
+	"id": "deadandcompany",
+	"artistpagelink":"/artists/dead-and-company/",
+
+	"artisttype": "unstaged",
+
+	"tracking": {
+		"pageid": "19887",
+		"floodlightCat": "dncever",
+		"rmaction": "UnstagedDeadCompany",
+		"linknav": "deadco",
+		"researchNow": "DeadandCompany"
+	},
+
+	"artistImages": {
+		"share": "/assets/artists/deadandcompany/Dead-Company-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/deadandcompany/16x9/FranklinsTower-HeroImage-200kb.jpg"
+		],
+		"gallery": [
+			"/assets/artists/deadandcompany/16x9/Dead-And-Co-Full-Show-HERO.jpg",
+			"/assets/artists/deadandcompany/16x9/HelpOnTheWay-Slipknot-HeroImage-200kb.jpg",
+			"/assets/artists/deadandcompany/16x9/FranklinsTower-HeroImage-200kb.jpg",
+			"/assets/artists/deadandcompany/16x9/HesGone-HeroImage-200kb.jpg",
+			"/assets/artists/deadandcompany/16x9/St-Stephen-HeroImage-200kb.jpg",
+			"/assets/artists/deadandcompany/16x9/Dead-And-Co-Journey-Film-HERO.jpg",
+			"/assets/artists/deadandcompany/16x9/Dead-And-Company-Trailer-HERO.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_1.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_2.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_3.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_4.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_5.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_6.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_7.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_8.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_9.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_10.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_11.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_12.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_13.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_14.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_15.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_16.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_17.jpg",
+			"/assets/artists/deadandcompany/16x9/DeadConcert_18.jpg"
+		],
+		"square": [
+			"/assets/artists/deadandcompany/Dead-Company-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/deadandcompany/FranklinsTower-ShLoop-5sec.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/deadandcompany/FranklinsTower-LoLoop-15sec.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/deadandcompany/FranklinsTower-Thumbnail-100kb.jpg",
+		"id": "ukYH7drHf3k",
+		"title": "Franklin's Tower"
+	},{
+		"image": "/assets/artists/deadandcompany/HelpOnTheWay-Slipknot-Thumbnail-100kb.jpg",
+		"id": "p-KDY3fBi6c",
+		"title": "Help on the Way / Slipknot!"
+	},{
+		"image": "/assets/artists/deadandcompany/HesGone-Thumbnail-100kb.jpg",
+		"id": "2ntaq3pmisw",
+		"title": "He's Gone"
+	},{
+		"image": "/assets/artists/deadandcompany/StStephen-Thumbnail-100kb.jpg",
+		"id": "9mQ-hTIp2AQ",
+		"title": "St. Stephen"
+	},{
+		"image": "/assets/artists/deadandcompany/Dead-And-Co-Journey-Film-THUMB.jpg",
+		"id": "xDuzBEZCRTg",
+		"title": "Creating A New Legend"
+	},{
+		"image": "/assets/artists/deadandcompany/Dead-And-Company-Trailer-THUMB.jpg",
+		"id": "2tDr-yqlrTY",
+		"title": "Trailer"
+	}],
+
+	"eventDate": {
+		"iso": "2015-11-07T19:30:00.000Z",
+		"month": "November",
+		"date": "7",
+		"year": "2015",
+		"time": "7:30PM",
+		"coast": "ET",
+		"opTime": "4:30PM",
+		"opCoast": "PT"
+	},
+
+	"director": {
+		"name": "Brett Ratner"
+	},
+
+	"meta": {
+		"title": "Dead & Company | American Express UNSTAGED",
+		"description": "More than a live-streaming concert series. American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Dead & Company’s story, from their musical roots to their creative revelations. As told by Brett Ratner",
+		"keywords": "Truckin', Sugar Magnolia, Dead & Company live in concert, Dead & Company, American Express, Amex , Amex UNSTAGED, Dead & Company live stream, Unstaged App, live concert streaming, music, Madison Square Garden, Brett Ratner, concert streaming app, Uncle John's Band, Dead & Company concert in New York, Grateful Dead, John Mayer"
+	},
+
+	"short-bio": true,
+
+	"texts": {
+		"headline": "<em>Dead & Company</em> Live Performance",
+		"bio": "Grateful Dead members Mickey Hart, Bill Kreutzmann, and Bob Weir have joined forces with singer/guitarist John Mayer to form the band Dead & Company. The Grateful Dead members Hart, Kreutzmann, Weir, and bassist Phil Lesh reunited for Fare Thee Well, a run of five sold-out stadium shows celebrating the Dead's 50th anniversary as well as marking the last time the “core four” members would perform together. The shows were a record-setting success, and ignited enthusiasm for more concerts featuring Grateful Dead members.",
+		"bio-long": [
+			"Grateful Dead members Mickey Hart, Bill Kreutzmann, and Bob Weir have joined forces with singer/guitarist John Mayer to form the band Dead & Company. The Grateful Dead members Hart, Kreutzmann, Weir, and bassist Phil Lesh reunited for Fare Thee Well, a run of five sold-out stadium shows celebrating the Dead's 50th anniversary as well as marking the last time the “core four” members would perform together. The shows were a record-setting success, and ignited enthusiasm for more concerts featuring Grateful Dead members."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/deadandcompany",
+			"sharetext": "Relive @deadandcompany’s #AmexUNSTAGED concert livestream directed by Brett Ratner at AmexUNSTAGED.com/DeadAndCompany."
+		},
+		"facebook": {
+			"sharetitle": "American Express UNSTAGED featuring Dead & Company",
+			"sharedescription": "More than a live-streaming concert series. American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Dead & Company’s story, from their musical roots to their creative revelations. As told by Brett Ratner",
+			"link":"http://facebook.com/deadandcompany"
+		},
+		"instagram": {
+			"link":"http://instagr.am/deadandcompany"
+		}
+	}
+}]

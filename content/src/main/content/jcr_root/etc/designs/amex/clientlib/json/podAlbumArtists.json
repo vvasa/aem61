@@ -1,0 +1,68 @@
+[{
+	"name": "Tori Kelly",
+	"id": "torikelly",
+
+	"album": {
+		"action": "download",
+		"type": "album",
+		"title": "Unbreakable Smile",
+		"image": "/assets/artists/torikelly/album_art.jpg",
+		"googleplayUrl": "http://amex.co/1PMMne6",
+		"itunesUrl": "http://geni.us/11CO"
+	}
+},{
+	"name": "Ellie Goulding",
+	"id": "elliegoulding",
+
+	"album": {
+		"action": "download",
+		"type": "album",
+		"title": "Delirium",
+		"image": "/assets/artists/elliegoulding/album_art.jpg",
+		"googleplayUrl": "http://amex.co/232idxt",
+		"itunesUrl": "http://geni.us/1yWf"
+	}
+}, {
+	"name": "Rae Sremmurd",
+	"id": "raesremmurd",
+
+	"album": {
+		"title": "Sremm Life",
+		"image": "/assets/artists/raesremmurd/album_art.jpg",
+		"itunesUrl": "http://geni.us/1yE0",
+		"googleplayUrl": "https://play.google.com/store/music/album/Rae_Sremmurd_SremmLife?id=Bsxurmi7pdnalf6kaq3ni3gey2i"
+	}
+},{
+	"name": "BØRNS",
+	"id": "borns",
+
+	"album": {
+		"action": "preOrder",
+		"title": "Dopamine",
+		"image": "/assets/artists/borns/album_art.jpg",
+		"itunesUrl": "http://geni.us/4BAt",
+		"googleplayUrl": ""
+	}
+}, {
+	"name": "Pia Mia",
+	"id": "piamia",
+
+	"album": {
+		"type": "single",
+		"title": "Do It Again",
+		"image": "/assets/artists/piamia/album_art.jpg",
+		"itunesUrl": "http://geni.us/yXq",
+		"googleplayUrl": "https://play.google.com/store/music/album?id=Bku3cw27e6vfkkoqxfidrv6i4ey&tid=song-Trdk45sk5o2j3mcfq6vf7mnp7eu"
+	}
+},{
+	"name": "Gavin James",
+	"id": "gavinjames",
+
+	"album": {
+		"type": "single",
+		"title": "Bitter Pill",
+		"image": "/assets/artists/gavinjames/album_art.jpg",
+		"itunesUrl": "http://geni.us/m9d",
+		"googleplayUrl": "http://smarturl.it/BitterPillGP"
+	}
+}]

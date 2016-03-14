@@ -1,0 +1,1042 @@
+[{
+	"name": "Rixton",
+	"id": "rixton",
+	"artistpagelink":"/artists/rixton/",
+	"artisttype": "air",
+	"alumniTemplate": true,
+
+	"tracking": {
+		"pageid": "17998",
+		"floodlightCat": "unstgdrx",
+		"rmaction": "UnstagedRixton",
+		"linknav": "rixton"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/rixton/airwide.jpg",
+		"share": "/assets/artists/rixton/Rixton-SocialShare.png",
+		"rectangle": [
+			"/assets/artists/rixton/16x9/Rixton-Appreciated-HERO-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-Setting-The-Stage-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-Where-I-Am-Where-Im-Going-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-Me-And-My-Broken-Heart-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-We-All-Want-The-Same-Thing-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-Wait-On-Me-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-Appreciated-16x9.jpg",
+			"/assets/artists/rixton/16x9/Rixton-Speakerphone-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/rixton/Rixton-Me-And-My-Broken-Heart-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4": "/assets/artists/rixton/rixton-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/rixton/rixton-LoLoop.mp4"
+		}
+	},
+
+	"videos": [{
+		"image": "/assets/artists/rixton/16x9/Rixton-Me-And-My-Broken-Heart-16x9.jpg",
+		"id": "sr1ivvwoggE",
+		"title": "Me And My Broken Heart (Live)"
+	}, {
+		"image": "/assets/artists/rixton/16x9/Rixton-We-All-Want-The-Same-Thing-16x9.jpg",
+		"id": "AhTwuKaxnVg",
+		"title": "We All Want The Same Thing (Live)"
+	}, {
+		"image": "/assets/artists/rixton/16x9/Rixton-Setting-The-Stage-16x9.jpg",
+		"id": "jnAAuGbFNIc",
+		"title": "Setting the Stage"
+	}, {
+		"image": "/assets/artists/rixton/16x9/Rixton-Where-I-Am-Where-Im-Going-16x9.jpg",
+		"id": "l8fseOtN3c8",
+		"title": "Where I Am, Where I’m Going"
+	}, {
+		"image": "/assets/artists/rixton/16x9/Rixton-Wait-On-Me-16x9.jpg",
+		"id": "UFHKGFmMLpI",
+		"title": "Wait On Me"
+	}, {
+		"image": "/assets/artists/rixton/16x9/Rixton-Appreciated-16x9.jpg",
+		"id": "W_og-qkcNSo",
+		"title": "Appreciated"
+	}, {
+		"image": "/assets/artists/rixton/16x9/Rixton-Speakerphone-16x9.jpg",
+		"id": "7hFLiCL6JU4",
+		"title": "Speakerphone"
+	}],
+
+	"playlistID": "PLTpbyO1bm6oviqB-sbHK3hkQ0Ye1QdiwJ",
+	"album": {
+		"title": "Let The Road",
+		"image": "/assets/artists/rixton/album_art.jpg"
+	},
+
+	"meta": {
+		"title": "Rixton | Artists In Residence | American Express UNSTAGED",
+		"description": "Learn more about Rixton, a charming British pop foursome whose UK success is now spreading over here in the States.",
+		"keywords": "Rixton Videos,Rixton Songs,Rixton Song ,Rixton biography,Rixton Video,Rixton performance,Rixton show,Rixton concert,Rixton live,Rixton event,Rixton picture,Rixton pictures,Rixton album,Rixton albums,Rixton image,Rixton images,Rixton photo,Rixton photos,Rixton music,Rixton facts,Rixton info,Rixton playlist,Rixton movie,Rixton songs,Rixton gallery,Rixton shows,Rixton new,Rixton stream,Rixton streaming,Rixton music video,Rixton photoshoot,Rixton photo shoot,Rixton vevo,Rixton youtube,Rixton in concert,Rixton performing ,Rixton performing live,Rixton live performance,Rixton live concert,Rixton ticket,Rixton tickets,Rixton live stream,Rixton live show,Rixton streaming online,Rixton,Rixton AIR,AIR Rixton,Let The Road"
+	},
+
+	"texts": {
+		"headline": "A UK Band Lands Big in the US",
+		"bio": "When an impromptu outdoor gig gets so big that it requires police crowd control, you know that you’re a band on the cusp of something great. This is exactly what happened to the band Rixton – a charming British pop foursome whose UK success is now spreading over here in the States. And in 2014, the band was one of the three artists chosen for the American Express UNSTAGED: Artists In Residence series, which gave fans a front-row seat to their songs and their story.",
+		"bio-long": [
+			"When an impromptu outdoor gig gets so big that it requires police crowd control, you know that you’re a band on the cusp of something great. This is exactly what happened to the band Rixton – a charming British pop foursome whose UK success is now spreading over here in the States. And in 2014, the band was one of the three artists chosen for the American Express UNSTAGED: Artists In Residence series, which gave fans a front-row seat to their songs and their story.",
+			"The American Express UNSTAGED: Artists In Residence short films introduced fans to Rixton and shared their story. The films were shot in New York City, where they recorded their debut album Let The Road.",
+			"At their American Express UNSTAGED: Artists In Residence show, Rixton left everything on the stage. Held at The Music Hall of Williamsburg in Brooklyn, NY, the show was a fun and energetic set that included the hits “We All Want The Same Thing” and “Wait On Me.” In the way that they owned the stage, it seemed like Rixton had been around forever. Big things are coming from them, and we can’t wait to see what’s next."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/rixton",
+			"sharetext": "Check out Rixton’s #AmexAIR performance at https://www.amexunstaged.com/artists/rixton/#AmexAIR"
+		},
+		"facebook": {
+			"sharetitle": "Rixton - American Express UNSTAGED: Artists in Residence ",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear Rixton’s story and watch their incredible live performance at AmexUNSTAGED.com/AIR.",
+			"link":"http://facebook.com/rixton"
+		},
+		"instagram": {
+			"link":"http://instagr.am/rixton"
+		}
+	}
+}, {
+	"name": "Mary Lambert",
+	"id": "marylambert",
+	"artistpagelink":"/artists/mary-lambert/",
+	"artisttype": "air",
+	"alumniTemplate": true,
+
+	"tracking": {
+		"pageid": "17997",
+		"floodlightCat": "unstgdml",
+		"rmaction": "UnstagedMaryLambert",
+		"linknav": "marylambert"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/marylambert/airwide.jpg",
+		"share": "/assets/artists/marylambert/Mary-Lambert-SocialShare.png",
+		"rectangle": [
+			"/assets/artists/marylambert/16x9/Mary-Lambert-So-Far-Away-HERO-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-Setting-The-Stage-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-Where-I-Am-Where-Im-Going-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-Secrets-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-Red-Lipstick-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-Body-Love-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-Monochromatic-16x9.jpg",
+			"/assets/artists/marylambert/16x9/Mary-Lambert-So-Far-Away-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/marylambert/Mary-Lambert-Body-Love-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/marylambert/mary-lambert-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/marylambert/mary-lambert-LoLoop.mp4"
+		}
+	},
+
+	"videos":[{
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-Secrets-16x9.jpg",
+		"id": "beUcLA3nhDU",
+		"title": "Secrets"
+	}, {
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-Setting-The-Stage-16x9.jpg",
+		"id": "LqYK73fvGOM",
+		"title": "Setting the Stage"
+	}, {
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-Where-I-Am-Where-Im-Going-16x9.jpg",
+		"id": "7M-n1N5C3A0",
+		"title": "Where I Am, Where I’m Going"
+	}, {
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-Red-Lipstick-16x9.jpg",
+		"id": "Gp-WHh957VA",
+		"title": "Red Lipstick"
+	}, {
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-Body-Love-16x9.jpg",
+		"id": "ZOCyvf7kl2g",
+		"title": "Body Love Part (1 & 2)"
+	}, {
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-Monochromatic-16x9.jpg",
+		"id": "YiytREltjUA",
+		"title": "Monochromatic"
+	}, {
+		"image": "/assets/artists/marylambert/16x9/Mary-Lambert-So-Far-Away-16x9.jpg",
+		"id": "YCvvx9Tjk6U",
+		"title": "So Far Away"
+	}],
+
+	"album": {
+		"title": "Heart On My Sleave",
+		"image": "/assets/artists/marylambert/album_art.jpg"
+	},
+
+	"meta": {
+		"title": "Mary Lambert | Artists In Residence | American Express UNSTAGED",
+		"description": "Learn more about Mary Lambert, who has captivated fans everywhere with her incredible talent and honest storytelling.",
+		"keywords": "Mary Lambert Videos,Mary Lambert Songs,Mary Lambert Song ,Mary Lambert biography,Mary Lambert Video,Mary Lambert performance,Mary Lambert show,Mary Lambert concert,Mary Lambert live,Mary Lambert event,Mary Lambert picture,Mary Lambert pictures,Mary Lambert album,Mary Lambert albums,Mary Lambert image,Mary Lambert images,Mary Lambert photo,Mary Lambert photos,Mary Lambert music,Mary Lambert facts,Mary Lambert info,Mary Lambert playlist,Mary Lambert movie,Mary Lambert songs,Mary Lambert gallery,Mary Lambert shows,Mary Lambert new,Mary Lambert stream,Mary Lambert streaming,Mary Lambert music video,Mary Lambert photoshoot,Mary Lambert photo shoot,Mary Lambert vevo,Mary Lambert youtube,Mary Lambert in concert,Mary Lambert performing ,Mary Lambert performing live,Mary Lambert live performance,Mary Lambert live concert,Mary Lambert ticket,Mary Lambert tickets,Mary Lambert live stream,Mary Lambert live show,Mary Lambert streaming online,Mary Lambert,Mary Lambert AIR,AIR Mary Lambert,Lambert,Mary,Macklemore,Ryan Lewis,Same Love,Heart on my sleeve"
+	},
+
+	"texts": {
+		"headline": "Songs With A Voice",
+		"bio": "When hip-hop duo Macklemore & Ryan Lewis debuted the song “Same Love” in 2012, it was the woman who sang the chorus that got people’s attention. The emotional and ethereal voice belonged to singer-songwriter Mary Lambert, who up until that point was relatively unknown. Since then, she has captivated fans everywhere with her incredible talent and honest storytelling, which is precisely why she was chosen to be one of the artists in the 2014 American Express UNSTAGED: Artists in Residence series.",
+		"bio-long": [
+			"When hip-hop duo Macklemore & Ryan Lewis debuted the song “Same Love” in 2012, it was the woman who sang the chorus that got people’s attention. The emotional and ethereal voice belonged to singer-songwriter Mary Lambert, who up until that point was relatively unknown. Since then, she has captivated fans everywhere with her incredible talent and honest storytelling, which is precisely why she was chosen to be one of the artists in the 2014 American Express UNSTAGED: Artists in Residence series.",
+			"The American Express UNSTAGED: AIR program helped fans really get to know Mary Lambert. In a series of filmed personal interviews, Lambert shared the story of her journey as a musician. All of her music comes from personal experiences that have shaped her into the woman she is today. It is this authenticity and strong point of view that allow her to relate to her fans in a way that few artists can.",
+			"On November 19, 2014, Lambert and her band took the stage at the Music Hall of Williamsburg in Brooklyn, New York. She performed with the same passion and emotion that the songs were written with. Her set included songs like “So Far Away”, “Monochromatic”, and the breakout hit “Secrets”, all of which appear on her latest album Heart On My Sleeve.",
+			"It was an unforgettable performance by a truly unique artist, and proved that Mary Lambert is here to stay."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/marylambert",
+			"sharetext": "Check out Mary Lambert’s #AmexAIR performance at https://www.amexunstaged.com/artists/mary-lambert/#AmexAIR"
+		},
+		"facebook": {
+			"sharetitle": "Mary Lambert - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear Mary Lambert’s story and watch her incredible live performance at AmexUNSTAGED.com/AIR.",
+			"link":"http://facebook.com/marylambert"
+		},
+		"instagram": {
+			"link":"http://instagr.am/marylambert"
+		}
+	}
+}, {
+	"name": "Betty Who",
+	"id": "bettywho",
+	"artistpagelink":"/artists/betty-who/",
+	"artisttype": "air",
+	"alumniTemplate": true,
+
+	"tracking": {
+		"pageid": "17996",
+		"floodlightCat": "unstgdbw",
+		"rmaction": "UnstagedBettyWho",
+		"linknav": "bettywho"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/bettywho/airwide.jpg",
+		"share": "/assets/artists/bettywho/Betty-Who-SocialShare.png",
+		"rectangle": [
+			"/assets/artists/bettywho/16x9/Betty-Who-Runaways-HERO-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Setting-The-Stage-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-One-Song-One-Artist-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Where-I-Am-Where-Im-Going-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Sombody-Loves-You-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Runaways-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Glory-Days-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-All-Of-You-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Just-Like-Me-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-High-Society-16x9.jpg",
+			"/assets/artists/bettywho/16x9/Betty-Who-Dreaming-About-You-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/bettywho/Betty-Who-Glory-Days-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/bettywho/betty-who-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/bettywho/betty-who-LoLoop.mp4"
+		}
+	},
+
+	"videos":[{
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Sombody-Loves-You-16x9.jpg",
+		"id": "QyQ0xIH0fp4",
+		"title": "Somebody Loves You"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Setting-The-Stage-16x9.jpg",
+		"id": "gJ-kJTIY64s",
+		"title": "Setting the Stage"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-One-Song-One-Artist-16x9.jpg",
+		"id": "6TQ_EpJPbqc",
+		"title": "One Song. One Artist."
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Where-I-Am-Where-Im-Going-16x9.jpg",
+		"id": "2bo7crulcqc",
+		"title": "Where I Am, Where I’m Going"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Runaways-16x9.jpg",
+		"id": "lV1U49yD5Ys",
+		"title": "Runaways"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Glory-Days-16x9.jpg",
+		"id": "uWYgt8KVG5g",
+		"title": "Glory Days"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-All-Of-You-16x9.jpg",
+		"id": "Fnhl1K2BLpQ",
+		"title": "All Of You"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Just-Like-Me-16x9.jpg",
+		"id": "6q61X0VFqlo",
+		"title": "Just Like Me"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-High-Society-16x9.jpg",
+		"id": "Gw72nP3jig4",
+		"title": "High Society"
+	}, {
+		"image": "/assets/artists/bettywho/16x9/Betty-Who-Dreaming-About-You-16x9.jpg",
+		"id": "PMQTFMUDfI8",
+		"title": "Dreaming About You"
+	}],
+
+	"album": {
+		"title": "Take Me When You Go",
+		"image": "/assets/artists/bettywho/album_art.jpg"
+	},
+
+	"meta": {
+		"title": "Betty Who | Artists In Residence | American Express UNSTAGED",
+		"description": "Watch how Betty Who’s partnership with American Express UNSTAGED: Artists In Residence helped fans get to know Betty Who on a personal level.",
+		"keywords": "Betty Who Videos, Betty Who Songs, Betty Who Song, Betty Who biography, Betty Who Video, Betty Who performance, Betty Who show, Betty Who concert, Betty Who live, Betty Who event, Betty Who picture, Betty Who pictures, Betty Who album, Betty Who albums, Betty Who image, Betty Who images, Betty Who photo, Betty Who photos, Betty Who music, Betty Who facts, Betty Who info, Betty Who playlist, Betty Who movie, Betty Who songs, Betty Who gallery, Betty Who shows, Betty Who new, Betty Who stream, Betty Who streaming, Betty Who music video, Betty Who photoshoot, Betty Who photo shoot, Betty Who vevo, Betty Who youtube, Betty Who in concert, Betty Who performing, Betty Who performing live, Betty Who live performance, Betty Who live concert, Betty Who ticket, Betty Who tickets, Betty Who live stream, Betty Who live show, Betty Who streaming online, AIR betty who, betty who AIR, betty who, Take me when you go"
+	},
+
+	"texts": {
+		"headline": "A VIRAL HIT SPREADS THE LOVE",
+		"bio": "In the fall of 2013, a man planned and filmed a surprise marriage proposal featuring all of his partner’s friends and family dancing to the Betty Who song “Somebody Loves You.” Within a day of being uploaded to YouTube, the video had over three million views. But it wasn’t just the video that went viral. Betty Who’s fresh sound made its way to headphones everywhere, and within months she had a record deal.",
+		"bio-long": [
+			"In the fall of 2013, a man planned and filmed a surprise marriage proposal featuring all of his partner’s friends and family dancing to the Betty Who song “Somebody Loves You.” Within a day of being uploaded to YouTube, the video had over three million views. But it wasn’t just the video that went viral. Betty Who’s fresh sound made its way to headphones everywhere, and within months she had a record deal.",
+			"Through her partnership with American Express UNSTAGED: Artists In Residence, fans were able to get to know Betty Who on a personal level. Through a series of short films, fans got a chance to hear her story. Her many talents and experiences have helped shape the unique and catchy sound that she has today.",
+			"Betty Who writes songs that you want to dance to, and this was evident at her American Express UNSTAGED: Artists In Residence show at The Music Hall of Williamsburg in Brooklyn, NY. She and her band performed songs from her latest album Take Me When You Go, and every song had the crowd on their feet.",
+			"There’s no doubt about it – Betty Who is well on her way to solidifying her place among the pop music greats."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/bettywho" ,
+			"sharetext": "Check out Betty Who’s #AmexAIR performance at https://www.amexunstaged.com/artists/betty-who/#AmexAIR"
+		},
+		"facebook": {
+			"sharetitle": "Betty Who - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear Betty Who’s story and watch her incredible live performance at AmexUNSTAGED.com/AIR",
+			"link":"http://facebook.com/bettywho"
+		},
+		"instagram": {
+			"link":"http://instagr.am/bettywho"
+		}
+	},
+
+	"playlistID": "PLTpbyO1bm6osfmMLxJ4nCbiKEv9GhPUi9",
+
+	"soundcloudID": "15691787"
+}, {
+	"name": "Rae Sremmurd",
+	"id": "raesremmurd",
+	"artistpagelink":"/artists/rae-sremmurd/",
+	"artisttype": "air",
+
+	"page": {
+		"hideMediaGalleryModule": true
+	},
+
+	"noise": [
+	  {
+	  	"hideShow": "show",
+	    "id": "Rae_Sremmurd_VevoInstagram_Poll",
+	    "type": "vevo",
+	    "typeLink": "https://instagram.com/vevo/",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "Sept. 9th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Rae Sremmurd unlock an Instagram takeover",
+	    "shareCopyDone": "Congrats! You’ve helped Rae Sremmurd unlock an Instagram takeover",
+	    "thankYouOverlay": "We hope you enjoyed <em>Rae Sremmurd’s</em> Instagram takeover!",
+	    "eventDateState": "Check out <em>Rae Sremmurd’s</em> Instagram takeover on",
+	    "tuneInOverlay": "Tune in for <em>Rae Sremmurd’s</em> VEVO Instagram takeover",
+	    "twitterShare": "I’m helping @RaeSremmurd get a @VEVO Instagram takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/rae-sremmurd/",
+	    "facebookShare": "I’m helping @Rae Sremmurd get a @VEVO Instagram takeover w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/rae-sremmurd/ to join in and help unlock it!"
+	  },
+	  {
+	  	"hideShow": "hide",
+	    "id": "Rae_Sremmurd_BillboardSnapchat_Unlock_Poll",
+	    "type": "billboard",
+	    "typeLink": "https://www.billboard.com",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "June 27th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Rae Sremmurd unlock a Snapchat takeover",
+	    "shareCopyDone": "Congrats! You’ve helped Rae Sremmurd unlock a Snapchat takeover",
+	    "thankYouOverlay": "We hope you enjoyed <em>Rae Sremmurd’s</em> Snapchat takeover!",
+	    "eventDateState": "Check out <em>Rae Sremmurd’s</em> Snapchat takeover on",
+	    "tuneInOverlay": "Tune in for <em>Rae Sremmurd’s</em> Billboard Snapchat takeover",
+	    "twitterShare": "I’m helping @RaeSremmurd get a @Billboard Snapchat takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/rae-sremmurd/",
+	    "facebookShare": "I’m helping @Rae Sremmurd get a @Billboard Snapchat takeover w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/rae-sremmurd/ to join in and help unlock it!"
+	  }
+	],
+
+	"tracking": {
+		"pageid": "18205",
+		"floodlightCat": "unstgdp1",
+		"rmaction": "UnstagedRaeSremmurd",
+		"linknav": "raesremmurd",
+		"researchNow": "raesremmurd"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/raesremmurd/airwide.jpg",
+		"share": "/assets/artists/raesremmurd/Rae-Sremmurd-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/raesremmurd/16x9/rae-sremmurd-this-could-be-us-HERO.jpg",
+			"/assets/artists/raesremmurd/16x9/Rae-Sremmurd-Promo-HERO-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/raesremmurd/16x9/Rae-Sremmurd-01-16x9.jpg",
+			"/assets/artists/raesremmurd/16x9/Rae-Sremmurd-02-16x9.jpg",
+			"/assets/artists/raesremmurd/16x9/Rae-Sremmurd-03-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/raesremmurd/Rae-Sremmurd-Promo-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/raesremmurd/rae-sremmurd-this-could-be-us-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/raesremmurd/rae-sremmurd-this-could-be-us-loLoop.mp4"
+		},
+		"promo": {
+			"mp4":"/assets/artists/raesremmurd/Rae-Sremmurd-Journey-loLoop.mp4"
+		}
+	},
+
+	"videos":[{
+		"image": "/assets/artists/raesremmurd/16x9/rae-sremmurd-come-get-her-16x9.jpg",
+		"id": "4Efr_EhPTV0",
+		"title": "Come Get Her"
+	},{
+		"image": "/assets/artists/raesremmurd/16x9/rae-sremmurd-this-could-be-us-16x9.jpg",
+		"id": "LAD6GQ6eel8",
+		"title": "This Could Be Us"
+	},{
+		"image": "/assets/artists/raesremmurd/16x9/Rae-Sremmurd-Promo-THUMB-16x9.jpg",
+		"id": "9I03hSd010w",
+		"title": "From Schoolyards to Stadiums"
+	},{
+		"image": "/assets/artists/raesremmurd/THUMBS_amex_air_rae_main1.jpeg",
+		"id": "stN5r7O_LKE",
+		"title": "Backstage"
+	}],
+
+	"album": {
+		"title": "Sremm Life",
+		"image": "/assets/artists/raesremmurd/album_art.jpg",
+		"itunesUrl": "http://geni.us/1yE0",
+		"googleplayUrl": "https://play.google.com/store/music/album/Rae_Sremmurd_SremmLife?id=Bsxurmi7pdnalf6kaq3ni3gey2i"
+	},
+
+	"meta": {
+		"title": "Rae Sremmurd | Artist in Residence | American Express UNSTAGED",
+		"description": "Learn more about Rae Sremmurd, the breakout hip hop duo that taught themselves how to record, make beats, and DJ.",
+		"keywords": "Rae Sremmurd Videos, Rae Sremmurd Songs, Rae Sremmurd Song, Rae Sremmurd biography, Rae Sremmurd Video, Rae Sremmurd performance, Rae Sremmurd show, Rae Sremmurd concert, Rae Sremmurd live, Rae Sremmurd event, Rae Sremmurd picture, Rae Sremmurd pictures, Rae Sremmurd album, Rae Sremmurd albums, Rae Sremmurd image, Rae Sremmurd images, Rae Sremmurd photo, Rae Sremmurd photos, Rae Sremmurd music, Rae Sremmurd facts, Rae Sremmurd info, Rae Sremmurd playlist, Rae Sremmurd movie, Rae Sremmurd songs, Rae Sremmurd gallery, Rae Sremmurd shows, Rae Sremmurd new, Rae Sremmurd stream, Rae Sremmurd streaming, Rae Sremmurd music video, Rae Sremmurd photoshoot, Rae Sremmurd photo shoot, Rae Sremmurd vevo, Rae Sremmurd youtube, Rae Sremmurd in concert, Rae Sremmurd performing, Rae Sremmurd performing live, Rae Sremmurd live performance, Rae Sremmurd live concert, Rae Sremmurd ticket, Rae Sremmurd tickets, Rae Sremmurd live stream, Rae Sremmurd live show, Rae Sremmurd streaming online, Sremmurd, Rae, Slim Jxmmi, Swae Le"
+	},
+
+	"texts": {
+		"headline": "Rae Sremmurd headline",
+		"bio": "Slim Jxmmi and Swae Lee were born in California, but moved to Tupelo, Mississippi at an early age, where they were raised in the notorious Ida Street housing projects, some of the worst, most crime-ridden in the state. Making matters worse, Sremmurd’s parents split while the brothers were still young, a devastating turn of events that found the brothers seeking shelter in abandoned homes. Music, from a young age, became a way for Jxmmi and Lee to escape the desperation of their surroundings. “When we were growing up, it was just about perseverance,” says Slim Jxmmi.",
+		"bio-long": [
+			"Slim Jxmmi and Swae Lee were born in California, but moved to Tupelo, Mississippi at an early age, where they were raised in the notorious Ida Street housing projects, some of the worst, most crime-ridden in the state. Making matters worse, Sremmurd’s parents split while the brothers were still young, a devastating turn of events that found the brothers seeking shelter in abandoned homes. Music, from a young age, became a way for Jxmmi and Lee to escape the desperation of their surroundings. “When we were growing up, it was just about perseverance,” says Slim Jxmmi.",
+			"The brothers began throwing parties and shows around town, often in the same abandoned buildings where they once stayed. The pair always had larger ambitions and so the brothers taught themselves how to record, make beats, and DJ, building enough buzz to earn an appearance on BET’s 106 & Park. Lee and Jxmmi were introduced to Mike WiLL, and the multi-platinum producer immediately signed the duo to his label, Ear Drummer Records.",
+			"Rae Sremmurd’s first single under the Ear Drummer Records, “No Flex Zone,” was a breakout for the duo, becoming a cultural touchstone throughout 2014 and entering Billboard’s Hot 100 and Top 40, earning the brothers a performance on the 2014 BET Hip-Hop Awards. “No Type,” proved even bigger, peaking at number 16 on Billboard’s Top 40 charts and earning the duo their first late night appearance on The Tonight Show. In 2015, Rae Sremmurd released their first album, SremmLife, with a top 5 debut on the Billboard Top 200 and a number 1 debut on Billboard Hip-Hop. Throw Sum Mo, featuring Nicki Minaj & Young Thug, emerged as their third consecutive single to break into the top 10 at urban radio and second consecutive single to peak at #1. “It’s the energy, that’s what #SremmLife is all about” says Swae Lee."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"",
+			"sharetextRevert": "I’m helping @RaeSremmurd get a @VEVO Instagram takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/rae-sremmurd/",
+			"sharetext": "Check out Rae Sremmurd’s #AmexAIR performance at https://www.amexunstaged.com/artists/rae-sremmurd/"
+		},
+		"facebook": {
+			"sharetitle": "Rae Sremmurd - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear Rae Sremmurd’s story and watch their incredible live performance at AmexUNSTAGED.com/AIR.",
+			"link":""
+		},
+		"instagram": {
+			"link":""
+		}
+	}
+}, {
+	"name": "BØRNS",
+	"id": "borns",
+	"artistpagelink":"/artists/borns/",
+	"artisttype": "air",
+
+	
+
+	"noise": [
+	  {
+	  	"hideShow": "show",
+	    "id": "Borns_VevoInstagram_Unlock_Poll",
+	    "type": "vevo",
+	    "typeLink": "https://instagram.com/vevo/",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "June 27th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help BØRNS unlock an Instagram takeover",
+	    "shareCopyDone": "Congrats! You’ve helped BØRNS unlock an Instagram takeover!",
+	    "thankYouOverlay": "We hope you enjoyed <em>BØRNS'</em> Instagram takeover!",
+	    "eventDateState": "Check out <em>BØRNS'</em> Instagram Takeover on",
+	    "tuneInOverlay": "Follow <em>BØRNS'</em> VEVO Instagram takeover",
+	    "twitterShare": "I’m helping @BornsMusic get a @VEVO Instagram takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/borns/",
+	    "facebookShare": "I’m helping @BØRNS get a @VEVO Instagram takeover w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/borns/ to join in and help unlock it!",
+	    "percentage": "100"
+	  },
+	  {
+	  	"hideShow": "hide",
+	    "id": "Borns_BillboardQA_Unlock_Poll",
+	    "type": "billboard",
+	    "typeLink": "https://twitter.com/billboard",
+	    "overlayType": "event",
+	    "name": "QA",
+	    "artistEventDate": "June 27th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help BØRNS unlock a Twitter Q&A",
+	    "shareCopyDone": "Congrats! You’ve helped BØRNS unlock a Twitter Q&A.",
+	    "thankYouOverlay": "We hope you enjoyed <em>BØRNS'</em> Twitter Q&A!",
+	    "eventDateState": "Check out <em>BØRNS'</em> Twitter Q&A on",
+	    "tuneInOverlay": "Tune in for <em>BØRNS'</em> Billboard Twitter Q&A",
+	    "twitterShare": "I’m helping @BornsMusic get a @Billboard Twitter Q&A w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/borns/",
+	    "facebookShare": "I’m helping @BØRNS get a @Billboard Twitter Q&A w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/borns/ to join in and help unlock it!",
+	    "percentage": "76"
+	  }
+	],
+
+	"tracking": {
+		"pageid": "18202",
+		"floodlightCat": "unstgdp2",
+		"rmaction": "UnstagedBorns",
+		"linknav": "borns",
+		"researchNow": "borns"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/borns/airwide.jpg",
+		"share": "/assets/artists/borns/Borns-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/borns/16x9/borns-electric-love-HERO.jpg",
+			"/assets/artists/borns/16x9/Borns-Promo-HERO-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/borns/16x9/BORNS-01-16x9.jpg",
+			"/assets/artists/borns/16x9/BORNS-02-16x9.jpg",
+			"/assets/artists/borns/16x9/BORNS-03-16x9.jpg",
+			"/assets/artists/borns/16x9/BORNS-04-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/borns/Borns-Promo-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/borns/borns-electric-love-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/borns/borns-electric-love-loLoop.mp4"
+		},
+		"promo": {
+			"mp4":"/assets/artists/borns/Borns-Journey-loLoop.mp4"
+		}
+	},
+
+	"videos":[{
+		"image": "/assets/artists/borns/16x9/borns-electric-love-16x9.jpg",
+		"id": "dWFx4J3Nci8",
+		"title": "Electric Love"
+	},{
+		"image": "/assets/artists/borns/16x9/borns-broke-16x9.jpg",
+		"id": "qwcX4XJiN8I",
+		"title": "Broke"
+	},{
+		"image": "/assets/artists/borns/16x9/Borns-Promo-THUMB-16x9.jpg",
+		"id": "elfBEEp_VrU",
+		"title": "From Magician to Musician"
+	},
+	{
+		"image": "/assets/artists/borns/THUMBS_amex_air_borns_main1.jpeg",
+		"id": "IEH_MbRPaKw",
+		"title": "Backstage"
+	}],
+
+	"album": {
+		"action": "preOrder",
+		"title": "Dopamine",
+		"image": "/assets/artists/borns/album_art.jpg",
+		"itunesUrl": "http://geni.us/4BAt",
+		"googleplayUrl": ""
+	},
+
+	"meta": {
+		"title": "Borns | Artist in Residence | American Express UNSTAGED",
+		"description": "Watch singer and songwriter Garrett Borns perform soaring harmonies and sensual sounds off his debut album Candy.",
+		"keywords": "Borns Videos,Borns Songs,Borns Song ,Borns biography,Borns Video,Borns performance,Borns show,Borns concert,Borns live,Borns event,Borns picture,Borns pictures,Borns album,Borns albums,Borns image,Borns images,Borns photo,Borns photos,Borns music,Borns facts,Borns info,Borns playlist,Borns movie,Borns songs,Borns gallery,Borns shows,Borns new,Borns stream,Borns streaming,Borns music video,Borns photoshoot,Borns photo shoot,Borns vevo,Borns youtube,Borns in concert,Borns performing ,Borns performing live,Borns live performance,Borns live concert,Borns ticket,Borns tickets,Borns live stream,Borns live show,Borns streaming online,Borns,Garrett Borns,Candy"
+	},
+
+	"texts": {
+		"headline": "Borns headline",
+		"bio": "If you want to find Garrett Borns a good place to look would be up. “I live in a treehouse,” the artist says of his home in the Los Angeles canyons. It was the first place BØRNS, originally from rural Michigan, landed when he relocated from New York to LA and immediately, something about it felt right. “In New York, I was writing darker, more melancholy music. I loved the pace and creative stimulation of the city but I wanted to see what a change of scenery would do to my writing.”So he left New York for Los Angeles, where his roommates were chirping birds and butterflies. “It brought me right back to those days when I was a kid making tree forts in my backyard,”he remembers. “It brought out my inner child, but in a very enlightening and meditative way. My kitchen was outside. All I heard at night were crickets and coyotes. And I was writing a lot of music.”",
+		"bio-long": [
+			"If you want to find Garrett Borns a good place to look would be up. “I live in a treehouse,” the artist says of his home in the Los Angeles canyons. It was the first place BØRNS, originally from rural Michigan, landed when he relocated from New York to LA and immediately, something about it felt right. “In New York, I was writing darker, more melancholy music. I loved the pace and creative stimulation of the city but I wanted to see what a change of scenery would do to my writing.”So he left New York for Los Angeles, where his roommates were chirping birds and butterflies. “It brought me right back to those days when I was a kid making tree forts in my backyard,”he remembers. “It brought out my inner child, but in a very enlightening and meditative way. My kitchen was outside. All I heard at night were crickets and coyotes. And I was writing a lot of music.”",
+			"",
+			"In this secluded, canopied space, BØRNS wrote and often recorded the songs on his forthcoming debut EP Candy, which filters the singer’s naturally moody, sensual sound through “an explosion of sunlight,”as he puts it. “You can feel the sunshine and hear the echoes of the canyon in these songs. The soaring harmonies all came out of singing from the treetops.”The shimmering feel of the EP does conjure images of exactly the kind of bohemian Never Never Land that inspired it. “When you feel an emotion so visceral and potent, the songs write themselves,”he says. “I didn't consciously write it, all of the vocals were first takes, it came from the feeling of longing and the world slowing down when you dive deep into love."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"",
+			"sharetextRevert": "I’m helping @BornsMusic get a @VEVO Instagram takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/borns/",
+			"sharetext": "Check out BØRNS’ #AmexAIR performance at https://www.amexunstaged.com/artists/borns/"
+		},
+		"facebook": {
+			"sharetitle": "BØRNS - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear BØRNS’ story and watch his incredible live performance at AmexUNSTAGED.com/AIR.",
+			"link":""
+		},
+		"instagram": {
+			"link":""
+		}
+	}
+}, {
+	"name": "Pia Mia",
+	"id": "piamia",
+	"artistpagelink":"/artists/pia-mia/",
+	"artisttype": "air",
+
+	"page": {
+		"hideMediaGalleryModule": true
+	},
+
+	"noise": [
+	  {
+	  	"hideShow": "show",
+	    "id": "Pia Mia_Vevo60Sec_1_Poll",
+	    "type": "vevo",
+	    "typeLink": "http://vevo.ly/HK12JY",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "June 28th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Pia Mia unlock a 60-sec video",
+	    "shareCopyDone": "Congrats! You’ve helped Pia Mia unlock a 60-sec video",
+	    "thankYouOverlay": "We hope you enjoyed <em>Pia Mia's</em> 60-sec video!",
+	    "eventDateState": "Check out <em>Pia Mia's</em> 60-sec video on",
+	    "twitterShare": "I’m helping @PrincessPiaMia get a @VEVO 60-sec video w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/pia-mia/",
+	    "facebookShare": "I’m helping @Pia Mia get a @VEVO 60 sec video w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/pia-mia/ to join in and help unlock it!"
+	  },
+	  {
+	  	"hideShow": "show",
+	    "id": "Pia_Mia_BillboardQA_Unlock_Poll",
+	    "type": "billboard",
+	    "typeLink": "https://twitter.com/billboard",
+	    "overlayType": "event",
+	    "name": "QA",
+	    "artistEventDate": "Sept. 24th",
+	    "googleCalLink": "https://www.google.com/calendar/render?action=TEMPLATE&text=Check+out+Pia+Mia%27s+Twitter+Q+and+A+on+Sept.+24th&dates=20150924T163000Z/20150924T193000Z&ctz=America/Los_Angeles#eventpage_6",
+	    "iCalLink": "https://4ea8dc00e37ec33660d4-5ca2d92f73123ec0f1c4905a63dfd3bf.ssl.cf1.rackcdn.com/assets/artists/piamia/pia-mia-twitter-qa.ics",
+	    "shareCopy": "Share to help Pia Mia unlock a Twitter Q&A",
+	    "shareCopyDone": "Congrats! You’ve helped Pia Mia unlock a Twitter Q&A",
+	    "thankYouOverlay": "Thank you for helping <em>Pia Mia</em> unlock these amazing opportunities.",
+	    "stayTuned": "Stay tuned for more details.",
+	    "eventDateState": "Check out <em>Pia Mia’s</em> Twitter Q&A on",
+	    "twitterShare": "I’m helping @PrincessPiaMia get a @Billboard Twitter Q&A w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/pia-mia/",
+	    "facebookShare": "I’m helping @Pia Mia get a @Billboard Twitter Q&A w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/pia-mia/ to join in and help unlock it!"
+	  }
+	],
+
+	"tracking": {
+		"pageid": "18204",
+		"floodlightCat": "unstgdp3",
+		"rmaction": "UnstagedPiaMia",
+		"linknav": "piamia",
+		"researchNow": "piamia"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/piamia/airwide.jpg",
+		"share": "/assets/artists/piamia/Piamia-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/piamia/16x9/pia-mia-do-it-again-HERO.jpg",
+			"/assets/artists/piamia/16x9/Pia-Mia-Promo-HERO-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/piamia/16x9/PIAMIA-01-16x9.jpg",
+			"/assets/artists/piamia/16x9/PIAMIA-02-16x9.jpg",
+			"/assets/artists/piamia/16x9/PIAMIA-03-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/piamia/Pia-Mia-Promo-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/piamia/pia-mia-do-it-again-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/piamia/pia-mia-do-it-again-loLoop.mp4"
+		},
+		"promo": {
+			"mp4":"/assets/artists/piamia/Pia-Mia-Journey-loLoop.mp4"
+		}
+	},
+
+	"videos":[{
+		"image": "/assets/artists/piamia/16x9/pia-mia-do-it-again-16x9.jpg",
+		"id": "29p2nzMtGU8",
+		"title": "Do It Again"
+	},{
+		"image": "/assets/artists/piamia/16x9/pia-mia-medley-16x9.jpg",
+		"id": "IMLg2y2VpIU",
+		"title": "Hold on (We're going home)"
+	},{
+		"image": "/assets/artists/piamia/16x9/Pia-Mia-Promo-THUMB-16x9.jpg",
+		"id": "rsMi0ybI6DU",
+		"title": "From Glass Slipper to Go-Getter"
+	}, {
+		"image": "/assets/artists/piamia/THUMBS_amex_air_pia_main1.jpeg",
+		"id": "llzRg5QmtYw",
+		"title": "Backstage"
+	}],
+
+	"album": {
+		"type": "single",
+		"title": "Do It Again",
+		"image": "/assets/artists/piamia/album_art.jpg",
+		"itunesUrl": "http://geni.us/yXq",
+		"googleplayUrl": "https://play.google.com/store/music/album?id=Bku3cw27e6vfkkoqxfidrv6i4ey&tid=song-Trdk45sk5o2j3mcfq6vf7mnp7eu"
+	},
+
+	"meta": {
+		"title": "Pia Mia | Artist in Residence | American Express UNSTAGED",
+		"description": "Learn more about breakthrough recording artist Pia Mia, who left Guam at an early age to bring her childhood dreams to Los Angeles.",
+		"keywords": "Pia Mia Videos, Pia Mia Songs, Pia Mia Song, Pia Mia biography, Pia Mia Video, Pia Mia performance, Pia Mia show, Pia Mia concert, Pia Mia live, Pia Mia event, Pia Mia picture, Pia Mia pictures, Pia Mia album, Pia Mia albums, Pia Mia image, Pia Mia images, Pia Mia photo, Pia Mia photos, Pia Mia music, Pia Mia facts, Pia Mia info, Pia Mia playlist, Pia Mia movie, Pia Mia songs, Pia Mia gallery, Pia Mia shows, Pia Mia new, Pia Mia stream, Pia Mia streaming, Pia Mia music video, Pia Mia photoshoot, Pia Mia photo shoot, Pia Mia vevo, Pia Mia youtube, Pia Mia in concert, Pia Mia performing, Pia Mia performing live, Pia Mia live performance, Pia Mia live concert, Pia Mia ticket, Pia Mia tickets, Pia Mia live stream, Pia Mia live show, Pia Mia streaming online, Pia, Mia"
+	},
+
+	"texts": {
+		"headline": "Pia Mia headline",
+		"bio": "Pia Mia, 18, is a recording artist, entrepreneur, songwriter, fashion icon, dancer, actress, Krav Maga instructor and Island girl. Born and raised on the tropical island of Guam in the West Pacific, Pia Mia grew up on strong family values and Chamorro culture. Here, she fostered an early love of music, joining school and community musicals and theater while posting her own covers songs on YouTube.  After quickly becoming a viral sensation, Pia Mia left home to bring her childhood dreams and island roots to Los Angeles.",
+		"bio-long": [
+			"Pia Mia, 18, is a recording artist, entrepreneur, songwriter, fashion icon, dancer, actress, Krav Maga instructor and Island girl. Born and raised on the tropical island of Guam in the West Pacific, Pia Mia grew up on strong family values and Chamorro culture. Here, she fostered an early love of music, joining school and community musicals and theater while posting her own covers songs on YouTube.  After quickly becoming a viral sensation, Pia Mia left home to bring her childhood dreams and island roots to Los Angeles.",
+			"Soon after her arrival, she worked with Disney, the Groundlings and signed a one-year production deal with Babyface. In 2013, Pia Mia saw breakthrough success with her viral cover of Drake’s “Hold on We’re Going Home” and Ryan Seacrest debuting her independent single, “Red Love.” Her companion video debuted on Vevo, garnering more than 12 million YouTube views and over four million Soundcloud streams.",
+			"At age 17, she formed her record label Wolfpack Entertainment, signing herself as its first artist, in addition to joining major label Interscope Records. Billboard Magazine named Pia Mia one of eight “acts who will help define 2014.” Pia Mia performed consistently throughout the year, even returning to her home island to play the international music festival, Guam Live.",
+			"In May 2015, Pia Mia’s first official single for Interscope, “Do It Again,” featuring Chris Brown and Tyga, received much praise from critics, was selected for Clear Channel’s “On The Verge” artist for Rhythm radio and now has over 21.5 million views on Vevo."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"",
+			"sharetextRevert": "I’m helping @PrincessPiaMia get a @VEVO 60-sec video w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/pia-mia/",
+			"sharetext": "Check out Pia Mia’s #AmexAIR performance at https://www.amexunstaged.com/artists/pia-mia/"
+		},
+		"facebook": {
+			"sharetitle": "Pia Mia - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear Pia Mia’s story and watch her incredible live performance at AmexUNSTAGED.com/AIR.",
+			"link":""
+		},
+		"instagram": {
+			"link":""
+		}
+	}
+}, {
+	"name": "Gavin James",
+	"id": "gavinjames",
+	"artistpagelink":"/artists/gavin-james/",
+	"artisttype": "air",
+
+	"page": {
+		"hideMediaGalleryModule": true
+	},
+
+	"noise": [
+	  {
+	  	"hideShow": "show",
+	    "id": "Gavin_James_SnapchatTakeover_Unlock_Poll",
+	    "type": "snapchat",
+	    "typeLink": "https://www.billboard.com",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "Sept. 16th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Gavin James unlock a Snapchat takeover",
+	    "shareCopyDone": "Congrats! You’ve helped Gavin James unlock a Snapchat takeover.",
+	    "thankYouOverlay": "We hope you enjoyed <em>Gavin James'</em> Snapchat Takeover",
+	    "eventDateState": "Check out <em>Gavin James'</em> Snapchat takeover on",
+	    "twitterShare": "I’m helping @GavinJames get a @Billboard Snapchat takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/gavin-james/",
+	    "facebookShare": "I’m helping @Gavin James get a @Billboard Snapchat takeover w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/gavin-james/ to join in and help unlock it!"
+	  },
+	  {
+	  	"hideShow": "hide",
+	    "id": "Gavin_James_BillboardQA_Unlock_Poll",
+	    "type": "billboard",
+	    "typeLink": "https://twitter.com/billboard",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "June 30th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Gavin James unlock a Twitter Q&A",
+	    "shareCopyDone": "Congrats! You’ve helped Gavin James unlock a Twitter Q&A.",
+	    "thankYouOverlay": "Thank you for helping <em>Gavin James</em> unlock these amazing opportunities.",
+	    "stayTuned": "Stay tuned for more details.",
+	    "eventDateState": "Check out <em>Gavin James'</em> Twitter Q&A on",
+	    "twitterShare": "I’m helping @GavinJames get a @Billboard Twitter Q&A w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/gavin-james/",
+	    "facebookShare": "I’m helping @Gavin James get a @Billboard Twitter Q&A w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/gavin-james/ to join in and help unlock it!"
+	  }
+	],
+
+	"tracking": {
+		"pageid": "18203",
+		"floodlightCat": "unstgdp4",
+		"rmaction": "UnstagedGavinJames",
+		"linknav": "gavinjames",
+		"researchNow": "gavinjames"
+	},
+
+	"artistImages": {
+		"airwide": "/assets/artists/gavinjames/airwide.jpg",
+		"share": "/assets/artists/gavinjames/Gavin-James-SocialShare.jpg",
+		"rectangle": [
+			"/assets/artists/gavinjames/16x9/gavin-james-bitter-pill-HERO.jpg",
+			"/assets/artists/gavinjames/16x9/Gavin-James-Promo-HERO-16x9.jpg"
+		],
+		"gallery": [
+			"/assets/artists/gavinjames/16x9/Gavin-James-01-16x9.jpg",
+			"/assets/artists/gavinjames/16x9/Gavin-James-02-16x9.jpg",
+			"/assets/artists/gavinjames/16x9/Gavin-James-03-16x9.jpg"
+		],
+		"square": [
+			"/assets/artists/gavinjames/Gavin-James-Promo-1x1.jpg"
+		]
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/gavinjames/gavin-james-bitter-pill-shLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/gavinjames/gavin-james-bitter-pill-loLoop.mp4"
+		},
+		"promo": {
+			"mp4":"/assets/artists/gavinjames/Gavin-James-Journey-loLoop.mp4"
+		}
+	},
+
+	"videos":[{
+		"image": "/assets/artists/gavinjames/16x9/gavin-james-bitter-pill-16x9.jpg",
+		"id": "9lZYzoIl3bM",
+		"title": "Bitter Pill"
+	},{
+		"image": "/assets/artists/gavinjames/16x9/gavin-james-22-16x9.jpg",
+		"id": "f-4Ep7pZ1tI",
+		"title": "22"
+	},{
+		"image": "/assets/artists/gavinjames/16x9/Gavin-James-Promo-THUMB-16x9.jpg",
+		"id": "-LQOLrgSiY8",
+		"title": "From Open Mic Nights to Opening Act"
+	}, {
+		"image": "/assets/artists/gavinjames/THUMBS_amex_air_gavin_main1.jpeg",
+		"id": "ZunbH_61H-0",
+		"title": "Backstage"
+	}],
+
+	"album": {
+		"type": "single",
+		"title": "Bitter Pill",
+		"image": "/assets/artists/gavinjames/album_art.jpg",
+		"itunesUrl": "http://geni.us/m9d",
+		"googleplayUrl": "http://smarturl.it/BitterPillGP"
+	},
+
+	"meta": {
+		"title": "Gavin James | Artist in Residence | American Express UNSTAGED",
+		"description": "Read more about international crossover star Gavin James, and watch him perform live in front of his impassioned fans.",
+		"keywords": "Gavin James Videos,Gavin James Songs,Gavin James Song ,Gavin James biography,Gavin James Video,Gavin James performance,Gavin James show,Gavin James concert,Gavin James live,Gavin James event,Gavin James picture,Gavin James pictures,Gavin James album,Gavin James albums,Gavin James image,Gavin James images,Gavin James photo,Gavin James photos,Gavin James music,Gavin James facts,Gavin James info,Gavin James playlist,Gavin James movie,Gavin James songs,Gavin James gallery,Gavin James shows,Gavin James new,Gavin James stream,Gavin James streaming,Gavin James music video,Gavin James photoshoot,Gavin James photo shoot,Gavin James vevo,Gavin James youtube,Gavin James in concert,Gavin James performing ,Gavin James performing live,Gavin James live performance,Gavin James live concert,Gavin James ticket,Gavin James tickets,Gavin James live stream,Gavin James live show,Gavin James streaming online,Gavin,James,Say Hello,Live at Whelans"
+	},
+
+	"texts": {
+		"headline": "Gavin James headline",
+		"bio": "Already on his way to becoming one of 2015’s international crossover-stories, Gavin James is a 22-year-old artist who grew up in a Dublin suburb. Music was arguably in Gavin’s blood: his maternal great-grandparents were both famous Irish Opera singers. James began playing guitar at age eight. After years of playing Jimi Hendrix and Led Zeppelin covers in the garden shed, he joined a band while in his teens and was drafted as its singer.",
+		"bio-long": [
+			"Already on his way to becoming one of 2015’s international crossover-stories, Gavin James is a 22-year-old artist who grew up in a Dublin suburb. Music was arguably in Gavin’s blood: his maternal great-grandparents were both famous Irish Opera singers. James began playing guitar at age eight. After years of playing Jimi Hendrix and Led Zeppelin covers in the garden shed, he joined a band while in his teens and was drafted as its singer.",
+			"Inspired by local heroes like Damien Rice and classic soul artists such as Sam Cooke, Gavin played marathon three-hour shows at Dublin’s pubs during college, often performing seven nights a week. His original material soon began to draw an impassioned following. James’ very first single won Ireland’s answer to the Mercury –the Choice Prize for Song Of The Year. Say Hello, James’ Irish debut EP, charted for more than six months, leading to a string of sold-out headline dates and supporting tours with such artists as Lianne La Havas, Beth Orton and Marina & The Diamonds.",
+			"In 2014, James recorded a rapturously received hometown show at Whelans. The resulting album, Live at Whelans – released by Capitol Records in the U.S. and by GS Believe internationally – climbed to #1 on iTunes in Ireland shortly after the pre-order launched. Diffuser.FM hailed Live at Whelans as “intriguing…an addictive first tug in what promises to be a lengthy assault on listeners’ heartstrings.” James is the first artist ever to sell out the historic Olympia Theatre in Dublin before releasing a studio album. While writing and recording his forthcoming debut studio album, he had a national TV performance on The Late, Late Show with James Corden and continues to tour Europe and the U.S., including support slots opening this past Spring for Kodaline and Tori Kelly and Sam Smith’s summer 2015 US tour."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"",
+			"sharetextRevert": "I’m helping @GavinJames get a @Billboard Snapchat takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/gavin-james/",
+			"sharetext": "Check out Gavin James’ #AmexAIR performance at https://www.amexunstaged.com/artists/gavin-james/"
+		},
+		"facebook": {
+			"sharetitle": "Gavin James - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring rising artists. Hear Gavin James’ story and watch his incredible live performance at AmexUNSTAGED.com/AIR.",
+			"link":""
+		},
+		"instagram": {
+			"link":""
+		}
+	}
+}, {
+	"name": "Tori Kelly",
+	"id": "torikelly",
+	"artistpagelink":"/artists/tori-kelly/",
+	"artisttype": "air",
+
+	"tracking": {
+		"pageid": "20342",
+		"floodlightCat": "tkair",
+		"rmaction": "UnstagedToriKelly",
+		"linknav": "torikell",
+		"researchNow": "ToriKelly"
+	},
+
+	"heroVideo": {
+		"short": {
+			"mp4":"/assets/artists/torikelly/3TK_VOD_Hollow_ShLoop.mp4"
+		},
+		"long": {
+			"mp4":"/assets/artists/torikelly/3TK_VOD_Hollow_LoLoop.mp4"
+		}
+	},
+
+	"artistImages": {
+		"rectangle": [
+			"/assets/artists/torikelly/16x9/3TK_VOD_Hollow_Hero.jpg",
+			"/assets/artists/torikelly/16x9/TK_Journey_Hero.jpg",
+			"/assets/artists/torikelly/16x9/Tori-Kelly-static-background_16x9.jpg"
+		],
+		"airwide": "/assets/artists/torikelly/airwide.jpg",
+		"share": "/assets/artists/torikelly/ToriKelly_SharePhoto.jpg",
+		"square": [
+			"/assets/artists/torikelly/ToriKelly_ProfilePic.jpg"
+		]
+	},
+
+	"videos": [{
+		"image": "/assets/artists/torikelly/3TK_VOD_Hollow_Thumnbail.jpg",
+		"id": "_hwnpdDxxyE",
+		"title": "Hollow"
+	},{
+		"image": "/assets/artists/torikelly/1TK_VOD_It_Should_Have_Been_Us_Thumbnail.jpg",
+		"id": "qVihURckP2Y",
+		"title": "Should've Been Us"
+	},{
+		"image": "/assets/artists/torikelly/2TK_VOD_City_Dove_Thumbnail.jpg",
+		"id": "ukcsVrxsbL0",
+		"title": "City Dove"
+	},{
+		"image": "/assets/artists/torikelly/TK_Journey_Thumbnail.jpg",
+		"id": "MLXHhPhpi-4",
+		"title": "The Search for Her Voice"
+	},{
+		"image": "/assets/artists/torikelly/TK_Wrap Up_Thumbnail.jpg",
+		"id": "-8ZVSkD0pts",
+		"title": "Backstage"
+	},{
+		"image": "/assets/artists/torikelly/TK_Trailer_Thumbnail.jpg",
+		"id": "uJkhrJakClQ",
+		"title": "Trailer"
+	}],
+
+	"moreInfo": {
+		"text": "Coming Soon"
+	},
+
+	"noise": [
+	  {
+	  	"hideShow": "show",
+	    "id": "ToriKelly_Unlock_Poll",
+	    "type": "snapchat",
+	    "typeLink": "https://www.billboard.com",
+	    "overlayType": "thankyou",
+	    "name": "QA",
+	    "artistEventDate": "Feb. 10th",
+	    "googleCalLink": "#",
+	    "iCalLink": "#",
+	    "shareCopy": "Share to help Tori Kelly unlock a Snapchat takeover",
+	    "shareCopyDone": "Congrats! You’ve helped Tori Kelly unlock a Snapchat takeover.",
+	    "thankYouOverlay": "We hope you enjoyed <em>Tori Kelly's</em> Snapchat Takeover",
+	    "eventDateState": "Check out <em>Tori Kelly's</em> Snapchat takeover on",
+	    "twitterShare": "I’m helping @ToriKelly get a @Billboard Snapchat takeover w/ #AmexAIR. RT to help unlock it! https://www.amexunstaged.com/artists/tori-kelly/",
+	    "facebookShare": "I’m helping @ToriKelly get a @Billboard Snapchat takeover w/ #AmexAIR. Visit https://www.amexunstaged.com/artists/tori-kelly/ to join in and help unlock it!"
+	  }
+	],
+
+	"oneNoiseMeter" : {
+		"placeholder": "/assets/artists/torikelly/ToriKelly_ProfilePic.jpg"
+	},
+
+	"album": {
+		"action": "download",
+		"type": "album",
+		"title": "Unbreakable Smile",
+		"image": "/assets/artists/torikelly/album_art.jpg",
+		"googleplayUrl": "http://amex.co/1PMMne6",
+		"itunesUrl": "http://geni.us/11CO"
+	},
+
+	"meta": {
+		"title": "Tori Kelly | American Express UNSTAGED",
+		"description": "More than a live-streaming concert series. American Express UNSTAGED takes you on the journey of artists who are defining music culture, beat by beat. Check out Dead & Company’s story, from their musical roots to their creative revelations. As told by Brett Ratner",
+		"keywords": "Truckin', Sugar Magnolia, Dead & Company live in concert, Dead & Company, American Express, Amex , Amex UNSTAGED, Dead & Company live stream, Unstaged App, live concert streaming, music, Madison Square Garden, Brett Ratner, concert streaming app, Uncle John's Band, Dead & Company concert in New York, Grateful Dead, John Mayer"
+	},
+
+	"short-bio": true,
+
+	"texts": {
+		"headline": "<em>Tori Kelly</em> Live Performance",
+		"bio": "Grateful Dead members Mickey Hart, Bill Kreutzmann, and Bob Weir have joined forces with singer/guitarist John Mayer to form the band Dead & Company. The Grateful Dead members Hart, Kreutzmann, Weir, and bassist Phil Lesh reunited for Fare Thee Well, a run of five sold-out stadium shows celebrating the Dead's 50th anniversary as well as marking the last time the “core four” members would perform together. The shows were a record-setting success, and ignited enthusiasm for more concerts featuring Grateful Dead members.",
+		"bio-long": [
+			"Grateful Dead members Mickey Hart, Bill Kreutzmann, and Bob Weir have joined forces with singer/guitarist John Mayer to form the band Dead & Company. The Grateful Dead members Hart, Kreutzmann, Weir, and bassist Phil Lesh reunited for Fare Thee Well, a run of five sold-out stadium shows celebrating the Dead's 50th anniversary as well as marking the last time the “core four” members would perform together. The shows were a record-setting success, and ignited enthusiasm for more concerts featuring Grateful Dead members."
+		]
+	},
+
+	"socialmedia": {
+		"twitter": {
+			"link":"http://twitter.com/torikelly",
+			"sharetext": "Check out Tori Kelly’s #AmexAIR journey film at AmexUNSTAGED.com/AIR/ToriKelly"
+		},
+		"facebook": {
+			"sharetitle": "Tori Kelly - American Express UNSTAGED: Artists in Residence",
+			"sharedescription": "American Express UNSTAGED presents Artists in Residence, a compelling video series featuring breakthrough artists. Hear Tori Kelly’s story and watch her incredible live performance at AmexUNSTAGED.com/AIR/ToriKelly.",
+			"link":"http://facebook.com/torikelly"
+		},
+		"instagram": {
+			"link":"http://instagr.am/torikelly"
+		}
+	}
+}]
